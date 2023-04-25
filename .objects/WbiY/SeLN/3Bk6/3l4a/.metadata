@@ -1,0 +1,17 @@
+﻿{
+  "Id": "3l4aZ9J9zUeu6Vw5a9PNaA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3l4aZ9J9zUeu6Vw5a9PNaA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3Bk6jOu-vEW5Er_qXAOb1g",
+  "Name": "Show InactiveItems",
+  "Type": "Element",
+  "TaxonomyType": "Toggle",
+  "Created": "2022-12-19T14:46:55.4442087Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:46:55.4442087Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

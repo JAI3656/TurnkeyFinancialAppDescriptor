@@ -1,0 +1,15 @@
+﻿{
+  "Id": "6RgqYJBMNEKGa-H6nkqUFw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6RgqYJBMNEKGa-H6nkqUFw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add Other Receiving Cost",
+  "Type": "Screen",
+  "Created": "2023-02-14T13:06:29.589729Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T13:06:46.4476535Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

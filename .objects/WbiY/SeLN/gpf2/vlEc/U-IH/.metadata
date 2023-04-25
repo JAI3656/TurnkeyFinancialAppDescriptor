@@ -1,0 +1,13 @@
+﻿{
+  "Id": "U-IHV6-iYk2fyf-UTD9TPw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/U-IHV6-iYk2fyf-UTD9TPw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/vlEcOeGEb0qqxcFvxrUuEg",
+  "Name": "Click on Sort Largest to Smallest",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-12-27T08:17:19.1258579Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:17:19.1258579Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tU1yrWcba0G4QeIMrzi8lA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/tU1yrWcba0G4QeIMrzi8lA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fliywHUU9Uu-ttIIcbqHdg",
+  "Name": "Enter Check Out Partial",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-25T12:02:57.7897029Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T12:03:44.2881116Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

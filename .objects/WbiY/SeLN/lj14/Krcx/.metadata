@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KrcxzSHte0-BeEeyhEWfnw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/KrcxzSHte0-BeEeyhEWfnw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lj14VNGIzU6WBFds9NoqFw",
+  "Name": "Enter Companies",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-04T13:06:03.8650149Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-04T13:06:34.1848236Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

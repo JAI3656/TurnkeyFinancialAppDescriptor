@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ezU1j9a0KkyDJm9TRxgWdQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ezU1j9a0KkyDJm9TRxgWdQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/Df4ird1kc0Gddcgt77tzPg",
+  "Name": "Click on Sort A to Z Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T08:36:22.5499579Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:37:08.1199434Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hqtSx6rbSEiauRVGK-DObw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/hqtSx6rbSEiauRVGK-DObw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/_G4QS-c2EE6RrYYjnC442g",
+  "Name": "Click on Inactivate Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-16T11:41:42.0444886Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-16T11:42:21.0701457Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

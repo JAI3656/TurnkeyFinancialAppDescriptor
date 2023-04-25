@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2ExpDkdZrEai5CiLXh-FrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="605, 125, 19, 32" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia automationid='DeleteButton' cls='Button' /&gt;" FuzzySelectorArgument="&lt;uia automationid='DeleteButton' cls='Button' role='button' check:fulltext='' /&gt;" Guid="3cd64239-6c06-4d82-abc5-9f8df950c685" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAAkCAYAAABixKGjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG7SURBVEhLtZa/SgNBEIev8SHyHL6NhQiCio02KUSCYhGxEg80pLVIoUaESFCMqIVnk0KCRYwItmLj/Us7+luZc3LeZROzW3xcdmf2u2Gy2awTRRGFYUh4MnEck+/71O/31VjGEeM5EARBMkZM5io5QBIvkIsYnk+PpVDOAafRaNAk3DQv6Pn0kj47vUTOTCxn2ivb9LF/THH00zZgTH5dPaSnmTXyHzrm5c2jupK/bVaT/huTA8h7cxv25MDYbpGwHFVbk1tti3X5n7bUajVyXXdgQRrEkZcVG1o5FhYKhdwX6OIshzizLXkCnRiwHCdqbs/TolHEgOXaL5SFxWJxJDFgOR/fuXIAseM46pkVTyMrxwusVI6qc+UsZmF6nIe28jzRKC+QcjAg1wl0cZbz/++A3OQv1OqRq92K4yIrtyYfuhX/i3V5d7Zkry2vi2V7u6W7umtejktRe3mHrkoV1W8j8rNWiw48jxZOzqk8v0WBvM5NefdkgqV1l14qdQoDccvNShyH6ds72vu+Qr8/dlW1fK6orYg3yEmG96qc43k5Rg7D46TyrAUM5vHF8ELOk0/+jBzk/sYj+gKrCSSNpogcSgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="90681bd945a3ec45ddba61fe9d883dd3.png" xmlns="">0SA9YyBaXh0KrtdNiSpo6nA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Q1fy_L8NEEaSt6E9SgqvMg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Q1fy_L8NEEaSt6E9SgqvMg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Click on the Category Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T19:36:11.5150616Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T12:08:56.6466844Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

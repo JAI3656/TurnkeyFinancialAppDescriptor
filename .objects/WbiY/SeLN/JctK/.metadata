@@ -1,0 +1,15 @@
+﻿{
+  "Id": "JctKeaUX4EWifW4H9Vfw_g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Note Settings/Options",
+  "Type": "Screen",
+  "Created": "2022-12-19T11:46:48.939762Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:46:55.9038606Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

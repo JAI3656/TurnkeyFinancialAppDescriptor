@@ -1,0 +1,17 @@
+﻿{
+  "Id": "mJMo8e0470C16I-ktL8GAQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mJMo8e0470C16I-ktL8GAQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/aKHIce3ylECSyVK6x1cZow",
+  "Name": "Search",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-20T00:31:13.6140876Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-20T00:31:13.6140876Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

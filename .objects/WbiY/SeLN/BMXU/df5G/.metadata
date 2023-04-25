@@ -1,0 +1,16 @@
+﻿{
+  "Id": "df5GcK_abk-1kQf91c69Gg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/df5GcK_abk-1kQf91c69Gg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BMXU9EsyuEmiavn1jJzv5A",
+  "Name": "Close Lot Charges Transaction File",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-20T00:27:13.3882403Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:02:59.594431Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

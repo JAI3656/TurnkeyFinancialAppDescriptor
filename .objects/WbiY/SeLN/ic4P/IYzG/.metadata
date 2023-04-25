@@ -1,0 +1,13 @@
+﻿{
+  "Id": "IYzGzvQAjEyVywxO3XuTLQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/IYzGzvQAjEyVywxO3XuTLQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ic4PAlcmoUKH0VIyHTLxTQ",
+  "Name": "Enter Total Cost into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-17T07:30:19.0295603Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-17T07:30:19.0295603Z"
+}

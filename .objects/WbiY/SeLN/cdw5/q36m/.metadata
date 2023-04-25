@@ -1,0 +1,16 @@
+﻿{
+  "Id": "q36mp40yEky4eyKhdurYDw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/q36mp40yEky4eyKhdurYDw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/cdw5lPv9TkicCzwS7VPUVg",
+  "Name": "Enter No. of Containers",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-08T07:00:16.9008644Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T07:00:53.6501534Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

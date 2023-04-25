@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9Ltde32yYkusn5i8T9tAxw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9Ltde32yYkusn5i8T9tAxw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/NLjEyM3qbkWCUZy0JzZkcw",
+  "Name": "AR Owner Conversion",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-30T11:44:32.0548552Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-30T11:45:25.0375438Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

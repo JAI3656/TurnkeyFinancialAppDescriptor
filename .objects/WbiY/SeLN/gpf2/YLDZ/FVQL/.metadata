@@ -1,0 +1,13 @@
+﻿{
+  "Id": "FVQLkyEMY0Kty43ijeUiGg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/FVQLkyEMY0Kty43ijeUiGg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/YLDZyNqTjUiT7DW9DiZv2g",
+  "Name": "Click on Select All Checkbox",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T11:55:58.0169745Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T11:55:58.0169745Z"
+}

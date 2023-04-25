@@ -1,0 +1,15 @@
+﻿{
+  "Id": "gpf2NPrJzkS65nRLCgLUEQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/gpf2NPrJzkS65nRLCgLUEQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Lot Charges Home",
+  "Type": "Screen",
+  "Created": "2022-12-20T00:36:23.2614277Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-20T00:36:29.3114692Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

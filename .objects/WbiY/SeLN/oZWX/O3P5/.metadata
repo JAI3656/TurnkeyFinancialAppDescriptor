@@ -1,0 +1,16 @@
+﻿{
+  "Id": "O3P51mwVPEuO90JxN56e8Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/O3P51mwVPEuO90JxN56e8Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oZWXjR2xmkiFLIha3lD6hw",
+  "Name": "Click on the Save Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T16:01:13.1759826Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T16:01:49.8035503Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "oTYVLDgUhkCfeRj6GrQ6cA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/oTYVLDgUhkCfeRj6GrQ6cA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "ALT GL Interface Home",
+  "Type": "Screen",
+  "Created": "2022-12-19T11:23:36.8309454Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:23:56.6098085Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

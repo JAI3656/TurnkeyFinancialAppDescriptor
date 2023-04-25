@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KKwKgH774katOLxrIejv9Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/KKwKgH774katOLxrIejv9Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "Enter Lbs/Cubic Ft",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T20:27:25.1382128Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-23T11:53:18.7992865Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

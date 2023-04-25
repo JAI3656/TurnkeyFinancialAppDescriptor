@@ -1,0 +1,13 @@
+﻿{
+  "Id": "XZCXRLbroEuljJmbb_JldQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/XZCXRLbroEuljJmbb_JldQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/aboGFkXRdkWXUmxbm0nphA",
+  "Name": "Enter NumberFilter2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-25T07:53:01.9364574Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T07:53:01.9364574Z"
+}

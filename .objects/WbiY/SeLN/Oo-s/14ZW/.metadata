@@ -1,0 +1,17 @@
+﻿{
+  "Id": "14ZWtJC-iUSplwBPccklRQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/14ZWtJC-iUSplwBPccklRQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/Oo-syDsugEePP_VqGcJb1g",
+  "Name": "Select ShowActive/InactiveToggleSwitch",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:30.1371609Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-24T11:48:43.3213582Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

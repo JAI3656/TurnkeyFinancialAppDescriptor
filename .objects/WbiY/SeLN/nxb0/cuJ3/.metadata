@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cuJ3q4UWI0qqL-qybB4Kjg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/cuJ3q4UWI0qqL-qybB4Kjg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Home Screen Title",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-01-06T10:10:22.5784935Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-06T10:10:22.5784935Z"
+}

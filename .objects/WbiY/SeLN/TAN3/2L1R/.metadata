@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2L1R9oDj-0-56mq3jnh7Mg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2L1R9oDj-0-56mq3jnh7Mg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TAN3dB8MqU2qqcMHFU5Fww",
+  "Name": "Enter Invoice Number",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-09T05:17:44.0941871Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-09T05:18:31.4827256Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

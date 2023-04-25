@@ -1,0 +1,16 @@
+﻿{
+  "Id": "p9oFGHfEJEG_sofOiQW9nQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/p9oFGHfEJEG_sofOiQW9nQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZWEtHDHy_06aytITdB2i3g",
+  "Name": "Cattle Activity",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-14T12:16:55.2860881Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T12:17:25.8062435Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

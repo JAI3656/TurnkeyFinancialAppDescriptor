@@ -1,0 +1,16 @@
+﻿{
+  "Id": "QvCETdhe9EmnOLWpRIf5Ng",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/QvCETdhe9EmnOLWpRIf5Ng",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "titleExpenseRate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:57:38.7597159Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:57:55.4855624Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

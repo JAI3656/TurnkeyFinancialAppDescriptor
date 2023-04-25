@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Dc8Xtww2G0mLJvZ7cJ3OUw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Dc8Xtww2G0mLJvZ7cJ3OUw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "titleLivestockRate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:54:09.3715569Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:54:36.0163008Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

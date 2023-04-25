@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="BAFxW3muUUS0_WIM05hKkw" Reference="ny0UH-ena0uArefx6sxT_w/dGZ-G1LBXEKRjD3xVYV-3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" ContentHash="WSCuZZrnzkGdlnV1vyWWoA" FilePath="TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App" Reference="ny0UH-ena0uArefx6sxT_w/dGZ-G1LBXEKRjD3xVYV-3Q" Selector="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;">
+      <imageRef attrName="InformativeScreenshot" originalValue="734dd4f58dce4d341de53a97baa67238.png" xmlns="">0CpAhyZSXTE2PjBcwoBoq7g</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

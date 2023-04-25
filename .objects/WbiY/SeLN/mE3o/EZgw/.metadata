@@ -1,0 +1,16 @@
+﻿{
+  "Id": "EZgwfnb51EOdRglevO77JA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/EZgwfnb51EOdRglevO77JA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/mE3oTkAoi0iV_WzQKrn_NQ",
+  "Name": "Enter Unit Measure",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T19:55:46.3307098Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-23T12:03:24.9047126Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

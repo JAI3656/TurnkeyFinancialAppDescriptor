@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="svLzEq5tVUeOeP6rq0x7HA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="951, 445, 277, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'edit LotFlex'" FullSelectorArgument="&lt;uia automationid='LotFlex' cls='TextBox' /&gt;" FuzzySelectorArgument="&lt;uia automationid='LotFlex' cls='TextBox' role='edit' /&gt;" Guid="6467fcaa-b096-46a2-b2e0-fabbebf389ed" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAARkAAAAkCAYAAAC9g07QAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHtSURBVHhe7d0xa1NRGIfxfjzbwaF0EToK2qFDEUHaRSgiIhIId0guaEAhW64hERJQIhhTQmgL5YYm10ha/CKvORkOvZwz+h486TP8piz/5X1IspytoigEALQQGWBD/brKZdkdyO/BmffzUJzITKdTybJMarWaVCoVAJGq1+vS6XTk9jSVP+8+STEv33oopchMJhPvWADx+nB8KsvHK1++l44/FBuZPM+9AwHELXn9VobbT+X2Zd0JQAg2MuZrlW8ggPj9ePBE8kcvnACEYCOTpql3HID4mciMHx46AQjBRsY3DMBmMJEx7h5/KEQGuAeIDABVRAaAKiIDQBWRAaCKyABQRWQAqCIyAFQRGQCqiAwAVUQGgCoiA0AVkQGgisgAUEVkAKgiMgBUERkAqogMAFVEBoCq/yIy1WrVOw5A/Exgfu4cOAEIwUam0Wh4xwGIn4nM+e6RE4AQbGR6vZ53HID4mchc7584AQjBRmY8Hkuz2fQOBBAv84Lk5d4zWTyvOAEIwUZmPp+vX5FstVrrn078RwPELUmS9S33k/fr1yNv2t+cAIRgI2OY97Db7bZkWQZgQ0wOX8nNm4YUqy8Sd+89lFJkjNlsJqPRSLrdrncwgDj0P3fk4mMmi6/D0o2H5kQGAP4lIgNAUSF/ARf7gh/7TMmzAAAAAElFTkSuQmCC" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="926, 451, 20, 19" ElementType="Text" FriendlyName="'Lot'" FullSelectorArgument="&lt;uia automationid='lblLot' cls='TextBlock' name='Lot' /&gt;" FuzzySelectorArgument="&lt;uia automationid='lblLot' cls='TextBlock' name='Lot' role='text' check:fulltext='Lot' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACTSURBVEhLY7h58+Z/WuJRCwjiUQsIYhQLvGZO+p+7cjGKAkox1SwA6a3fuAZDfPBYsPbo4f8aXY1wDFILk0MWB2GQWpgcURbADJ+yaxtcDKQ2euFsFD7ZPgAZhGwYCMMshfEptgCbOHJwDG4fgMKemDjAphfDApBByBimCWYJDKP7CFkeZyqiBR61gCAe6hbc/A8AUlhVe9vY4mYAAAAASUVORK5CYII=" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2de91e9f7322a714dbc1ad8b011fd589.png" xmlns="">0skonts63PEih9BA0h4YALg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

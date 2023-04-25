@@ -1,0 +1,16 @@
+﻿{
+  "Id": "fo3ncvroKUG4soGbNV1BJw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fo3ncvroKUG4soGbNV1BJw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/JGiVMibPgEqDd1fi1C8-rQ",
+  "Name": "Click on Homescreen Title",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-03T06:15:40.7675719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-03T06:16:08.5328782Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

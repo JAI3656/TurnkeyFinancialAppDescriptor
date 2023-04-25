@@ -1,0 +1,13 @@
+﻿{
+  "Id": "gpEui2wVW0OpBK8gw951wg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/gpEui2wVW0OpBK8gw951wg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/IAtA91cwZEKcixUhKzyGqQ",
+  "Name": "Enter Sequence",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-01-25T10:22:07.492429Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T10:22:07.492429Z"
+}

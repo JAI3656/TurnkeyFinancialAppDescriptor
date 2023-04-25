@@ -1,0 +1,16 @@
+﻿{
+  "Id": "p9_mBqvS6U-O7_s-SzBt5A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/p9_mBqvS6U-O7_s-SzBt5A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/f7Hlm6_E8EmPpfY_H3bKaA",
+  "Name": "HomeScreenTitleName",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-27T10:58:19.1017978Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-27T10:59:13.3883534Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

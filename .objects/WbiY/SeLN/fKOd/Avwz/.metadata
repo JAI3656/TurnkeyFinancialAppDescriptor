@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Avwz5uoOkE-QKfzoUhYnmQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Avwz5uoOkE-QKfzoUhYnmQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "Livestock Rate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:52:19.8461755Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:53:53.7353949Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

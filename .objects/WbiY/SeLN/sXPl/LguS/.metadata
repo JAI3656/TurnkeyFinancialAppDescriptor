@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LguSA1G8W0O3IVDb5WXX8w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LguSA1G8W0O3IVDb5WXX8w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/sXPlGkPdKk-3-9S1-vfXVg",
+  "Name": "Credit Amount",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-21T13:37:11.1783821Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-21T13:37:55.20039Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

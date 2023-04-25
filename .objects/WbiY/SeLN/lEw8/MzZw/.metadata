@@ -1,0 +1,13 @@
+﻿{
+  "Id": "MzZw9QQpC0qPlnyuJpNAnw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/MzZw9QQpC0qPlnyuJpNAnw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "ShowActive/InactiveToggle",
+  "Type": "Element",
+  "TaxonomyType": "Toggle",
+  "Created": "2022-12-19T19:30:04.0288628Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T19:30:04.0288628Z"
+}

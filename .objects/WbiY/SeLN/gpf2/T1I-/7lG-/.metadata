@@ -1,0 +1,13 @@
+﻿{
+  "Id": "7lG-hicf0U2oTVo_pq3B0Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/7lG-hicf0U2oTVo_pq3B0Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/T1I-x_IMhEO02bsMGZQ_LA",
+  "Name": "Click on the Cancel Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-27T12:02:42.911302Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T12:02:42.911302Z"
+}

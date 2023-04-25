@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ICziq_qA1kWmW5dv-Q9Nsw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ICziq_qA1kWmW5dv-Q9Nsw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/l5l2iC8tuUqTBfMLou6nKg",
+  "Name": "Click on x to Add Inventory Location",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-24T08:07:08.7709984Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-24T11:25:51.3266237Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

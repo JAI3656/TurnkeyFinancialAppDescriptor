@@ -1,0 +1,13 @@
+﻿{
+  "Id": "me22KTac7kuedD3KDcSTkw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/me22KTac7kuedD3KDcSTkw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Enter Source",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-29T09:21:24.3302246Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-29T09:21:24.3302246Z"
+}

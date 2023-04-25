@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9koKXm7-dUOQTWryr4bQvg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9koKXm7-dUOQTWryr4bQvg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BeD26LqwUE-s5phzes0M2g",
+  "Name": "Close Add Daily Interest Rate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T14:44:13.3580485Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:45:21.3649391Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

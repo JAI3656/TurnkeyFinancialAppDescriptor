@@ -1,0 +1,17 @@
+﻿{
+  "Id": "w8KQVTsK0EuFsHIHTEAzqw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/w8KQVTsK0EuFsHIHTEAzqw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/p-2RUB2Go06vAWPyFX29sA",
+  "Name": "MainInfo",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T14:47:37.0095866Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:47:37.0095866Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1OB3ntzQakax8vWhnMZR8A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1OB3ntzQakax8vWhnMZR8A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TdkZnsjBek2UVu8MB0kYCQ",
+  "Name": "Daily Journal Entry Report",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:28.8422613Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:28.8422613Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

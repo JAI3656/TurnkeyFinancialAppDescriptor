@@ -1,0 +1,15 @@
+﻿{
+  "Id": "mE3oTkAoi0iV_WzQKrn_NQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mE3oTkAoi0iV_WzQKrn_NQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add_Feed_Inventory_Master/Main_Info",
+  "Type": "Screen",
+  "Created": "2022-12-19T19:43:05.8236832Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T19:43:30.2707261Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

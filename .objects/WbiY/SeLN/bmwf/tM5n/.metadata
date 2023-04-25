@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tM5nI2oJWU6UQCxV39QDZw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/tM5nI2oJWU6UQCxV39QDZw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/bmwf51JH9ka_cRbvgkb0Aw",
+  "Name": "Enter Max Dose",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T16:09:19.4813143Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T16:10:10.0995112Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

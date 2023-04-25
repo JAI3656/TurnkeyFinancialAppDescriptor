@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Y4hUrcRBmkSpxxO2InVHdQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Y4hUrcRBmkSpxxO2InVHdQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TpN1CMCHiUSTVQ6QIUNWfw",
+  "Name": "Enter Kill Date into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-29T06:20:56.6215957Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-29T06:21:47.6260384Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

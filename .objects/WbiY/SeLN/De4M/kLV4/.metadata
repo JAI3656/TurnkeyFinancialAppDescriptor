@@ -1,0 +1,13 @@
+﻿{
+  "Id": "kLV4LL_OeEyJ4Zq-gwXwnQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/kLV4LL_OeEyJ4Zq-gwXwnQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/De4MoyfawkWV8bsiLrl-eQ",
+  "Name": "Click Favourites Icon",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-01-03T06:55:28.6613629Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-03T06:55:28.6613629Z"
+}

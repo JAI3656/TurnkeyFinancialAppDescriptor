@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JBDaASbBhUqXCtkxaCTAEQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/JBDaASbBhUqXCtkxaCTAEQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/_G4QS-c2EE6RrYYjnC442g",
+  "Name": "Click on X to close inactivate feed inventory",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-24T10:38:14.3747218Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-24T10:39:06.0627145Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

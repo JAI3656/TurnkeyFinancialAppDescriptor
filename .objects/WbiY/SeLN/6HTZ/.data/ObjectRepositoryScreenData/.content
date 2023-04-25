@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="8wm_26Oh00-kkHab7kwPfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" FilePath="TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App" Selector="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Validation Failed' /&gt;" Title="Validation Failed">
+      <imageRef attrName="InformativeScreenshot" originalValue="dfc79883e325c055f3e771e8ed3e6ff4.png" xmlns="">06A6XERR48kCHkT5JlLKBDQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

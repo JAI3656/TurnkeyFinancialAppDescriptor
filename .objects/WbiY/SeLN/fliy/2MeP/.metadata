@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2MePXVhcUk-kr5XOg316bw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2MePXVhcUk-kr5XOg316bw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fliywHUU9Uu-ttIIcbqHdg",
+  "Name": "Enter Waste Weight",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-25T12:04:58.3708459Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T12:05:38.3631554Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PUV_riWSFEKCdPHCPY4skg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/PUV_riWSFEKCdPHCPY4skg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/gpf2NPrJzkS65nRLCgLUEQ",
+  "Name": "Select (File Icon)",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-12-20T00:40:24.5277026Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:17:20.1773875Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

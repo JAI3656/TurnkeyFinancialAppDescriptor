@@ -1,0 +1,17 @@
+﻿{
+  "Id": "CLK3ctGZ2kqCZ22UxpG8Vg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/CLK3ctGZ2kqCZ22UxpG8Vg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
+  "Name": "Enter Owners into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:28.4850216Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-02T09:45:04.5313723Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

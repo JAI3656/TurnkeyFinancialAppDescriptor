@@ -1,0 +1,13 @@
+﻿{
+  "Id": "MR8XYUNcWU2hD_MiJCKifg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/MR8XYUNcWU2hD_MiJCKifg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Favourites Icon",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-29T09:21:24.8709281Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-29T09:21:24.8709281Z"
+}

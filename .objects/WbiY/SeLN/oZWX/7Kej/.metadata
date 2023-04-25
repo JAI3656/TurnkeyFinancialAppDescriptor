@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7KejalPNmUuJ9tvxu9UvlQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/7KejalPNmUuJ9tvxu9UvlQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oZWXjR2xmkiFLIha3lD6hw",
+  "Name": "Enter Assigned Cost",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T15:52:11.9606035Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:53:07.9588818Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

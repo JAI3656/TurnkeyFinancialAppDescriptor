@@ -1,0 +1,15 @@
+﻿{
+  "Id": "yG1T1Pyb_EWVVe3PWV_FMw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add_Subnote/Requirements",
+  "Type": "Screen",
+  "Created": "2022-12-19T10:38:28.0810218Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:28.0810218Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

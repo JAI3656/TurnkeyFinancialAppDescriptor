@@ -1,0 +1,16 @@
+﻿{
+  "Id": "F9XtZ7Bx7EK_teMIYZsgBQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/F9XtZ7Bx7EK_teMIYZsgBQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/16WD4NHgZUukMV9g1TkbrA",
+  "Name": "FreightVendor",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:00:13.639782Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:01:29.085395Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

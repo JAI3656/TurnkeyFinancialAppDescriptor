@@ -1,0 +1,16 @@
+﻿{
+  "Id": "YIZz8Y9ItkObQOUwSVulNw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/YIZz8Y9ItkObQOUwSVulNw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Grace Period (Expense)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T22:16:38.7838908Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T22:17:51.9911377Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

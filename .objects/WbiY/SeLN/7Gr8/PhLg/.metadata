@@ -1,0 +1,17 @@
+﻿{
+  "Id": "PhLg0mw4_Um20cmEMqCn_w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/PhLg0mw4_Um20cmEMqCn_w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/7Gr8BEig3E295Jipf9VdhA",
+  "Name": "DeleteButton",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T14:21:07.6190739Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:21:07.6190739Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

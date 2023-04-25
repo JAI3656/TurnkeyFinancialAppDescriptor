@@ -1,0 +1,13 @@
+﻿{
+  "Id": "GIX2Ctkzo0SrWPSRa-INVQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/GIX2Ctkzo0SrWPSRa-INVQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/vlEcOeGEb0qqxcFvxrUuEg",
+  "Name": "Enter Search Text in Search Bar",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-12-27T08:17:18.7228802Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:17:18.7228802Z"
+}

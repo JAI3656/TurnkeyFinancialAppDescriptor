@@ -1,0 +1,13 @@
+﻿{
+  "Id": "hPvKNNknfEKWYNxvXBgoLw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/hPvKNNknfEKWYNxvXBgoLw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Click on View Parameters Checkbox",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-12-29T09:21:24.5519563Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-29T09:21:24.5519563Z"
+}

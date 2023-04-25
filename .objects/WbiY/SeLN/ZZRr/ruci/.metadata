@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ruciv5ceq0KPyuLptQgJAQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ruciv5ceq0KPyuLptQgJAQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Zip",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T11:34:02.1621777Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:34:23.4830381Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "5u9rKD1WWkCmPp65XTEAfQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/5u9rKD1WWkCmPp65XTEAfQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Capitalization Code",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T22:26:56.786007Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T22:26:56.786007Z"
+}

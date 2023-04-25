@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wRM1m8EnHUSXCID-VOdaNw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/wRM1m8EnHUSXCID-VOdaNw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TqnCnyOXMkun4QgBIwU3ig",
+  "Name": "Hospital Price",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T10:38:27.6186733Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:27.6186733Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

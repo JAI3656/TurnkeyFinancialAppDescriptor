@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ymBcJj71fk-OmZjOTaUEJw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ymBcJj71fk-OmZjOTaUEJw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TqnCnyOXMkun4QgBIwU3ig",
+  "Name": "Buller Price",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T10:38:27.5698042Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:27.5698042Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

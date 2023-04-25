@@ -1,0 +1,13 @@
+﻿{
+  "Id": "nr9P6DsdDUOJ4AeVPiwCBg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/nr9P6DsdDUOJ4AeVPiwCBg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/dGZ-G1LBXEKRjD3xVYV-3Q",
+  "Name": "Enter Report Group",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-26T15:43:54.2156453Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:43:54.2156453Z"
+}

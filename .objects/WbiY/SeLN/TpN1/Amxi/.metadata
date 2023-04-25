@@ -1,0 +1,16 @@
+﻿{
+  "Id": "AmxiuECukUi0F8SN2sm6rA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/AmxiuECukUi0F8SN2sm6rA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TpN1CMCHiUSTVQ6QIUNWfw",
+  "Name": "Enter Other Sales Exp in Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-29T08:35:40.7664123Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-29T08:36:32.4398516Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

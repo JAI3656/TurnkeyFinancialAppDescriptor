@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WrGDVw4unkOFn6lQrGoC4A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Do you want to continue closing?" CvType="Text" DesignTimeRectangle="30, 96, 217, 17" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Do you'" Guid="062112be-a094-4e1a-badd-0903b2882784" ScopeSelectorArgument="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Unsaved Changes' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2d6bc873e46db2fbaed9d195cf815272.png" xmlns="">0lUTBfqzpaEG1a2dMjbmITQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

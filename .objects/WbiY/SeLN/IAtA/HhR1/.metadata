@@ -1,0 +1,16 @@
+﻿{
+  "Id": "HhR193RSU0SyjbSGPgGU6A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/HhR193RSU0SyjbSGPgGU6A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/IAtA91cwZEKcixUhKzyGqQ",
+  "Name": "Enter Note Statuses",
+  "Type": "Element",
+  "TaxonomyType": "Enter Note Statuses",
+  "Created": "2023-01-25T10:24:47.2555017Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T11:40:00.5827966Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

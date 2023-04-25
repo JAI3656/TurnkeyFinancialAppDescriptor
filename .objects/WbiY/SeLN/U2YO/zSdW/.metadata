@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zSdWpGcdGESAKTTGBTTNEw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/zSdWpGcdGESAKTTGBTTNEw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/U2YOX0YKrUy17DIS0_u4Gw",
+  "Name": "FavouritesIcon",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-12-19T12:27:23.589918Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T12:27:58.7648242Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

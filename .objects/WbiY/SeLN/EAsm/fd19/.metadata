@@ -1,0 +1,17 @@
+﻿{
+  "Id": "fd19QZz_XEup7yDMSer9uQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fd19QZz_XEup7yDMSer9uQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/EAsmSqZLGUyLkQGxq4d4Ew",
+  "Name": "Select ThreeDotsIcon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:30.4229719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-24T12:34:42.0469839Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

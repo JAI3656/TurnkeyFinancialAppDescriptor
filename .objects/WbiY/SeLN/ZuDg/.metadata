@@ -1,0 +1,15 @@
+﻿{
+  "Id": "ZuDgQ2HHk0STDhf5T7g7Dg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ZuDgQ2HHk0STDhf5T7g7Dg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add_Processing_Other_Inventory_Master/Main_Info",
+  "Type": "Screen",
+  "Created": "2022-12-19T10:38:27.7338864Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:27.7338864Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

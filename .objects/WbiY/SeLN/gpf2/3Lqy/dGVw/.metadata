@@ -1,0 +1,13 @@
+﻿{
+  "Id": "dGVwVyzwpk2GCvgW-HPryQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/dGVwVyzwpk2GCvgW-HPryQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3LqyqEtpqkitiT57c7wa6w",
+  "Name": "Click on the Number Filters",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-12-27T08:27:47.1510195Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:27:47.1510195Z"
+}

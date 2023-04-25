@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LLW0tux4u0Gww1XclVbs-Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LLW0tux4u0Gww1XclVbs-Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Close Add Alternate Gl Interface Icon",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-12-19T11:42:46.8165699Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:43:42.013819Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

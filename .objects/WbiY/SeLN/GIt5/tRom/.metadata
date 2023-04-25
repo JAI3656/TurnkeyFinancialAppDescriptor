@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tRomBcSAL0Cp1lAAh3qdgg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/tRomBcSAL0Cp1lAAh3qdgg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Enter Regular Price",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T20:15:15.7463575Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-23T12:08:44.4654717Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

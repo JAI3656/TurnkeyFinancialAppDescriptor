@@ -1,0 +1,16 @@
+﻿{
+  "Id": "B3XawYm_00W6-hueyvFbJA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/B3XawYm_00W6-hueyvFbJA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Notes Interest Receivable(Livestock)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T11:38:26.3251192Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:39:03.2892034Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

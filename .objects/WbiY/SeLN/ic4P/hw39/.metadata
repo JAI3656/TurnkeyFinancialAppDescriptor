@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hw39CP9AJUW_eEytEDPivA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/hw39CP9AJUW_eEytEDPivA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ic4PAlcmoUKH0VIyHTLxTQ",
+  "Name": "Click on Projections Tab",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-18T08:30:03.295598Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-18T08:30:33.0061167Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "TpN1CMCHiUSTVQ6QIUNWfw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/TpN1CMCHiUSTVQ6QIUNWfw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add Grade and Yield/General",
+  "Type": "Screen",
+  "Created": "2023-03-29T06:18:13.5373968Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-29T06:18:34.9192103Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

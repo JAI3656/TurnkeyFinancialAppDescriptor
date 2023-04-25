@@ -1,0 +1,16 @@
+﻿{
+  "Id": "O-5v-4sXt0-5HFpoiZhQEw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/O-5v-4sXt0-5HFpoiZhQEw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fliywHUU9Uu-ttIIcbqHdg",
+  "Name": "Enter Check Out Full",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-25T12:00:15.4430807Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T12:01:36.9981935Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

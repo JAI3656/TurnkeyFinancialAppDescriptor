@@ -1,0 +1,13 @@
+﻿{
+  "Id": "qKEWQbWE6U6Sd0WhYAnCJA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/qKEWQbWE6U6Sd0WhYAnCJA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/QYWw7vLjiEiM3U-2nio5Rw",
+  "Name": "Enter TextFilter1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T13:27:17.1405687Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T13:27:17.1405687Z"
+}

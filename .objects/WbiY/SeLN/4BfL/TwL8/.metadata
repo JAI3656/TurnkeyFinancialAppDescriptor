@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TwL8cEQZ2E2GGCHfeInaQA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/TwL8cEQZ2E2GGCHfeInaQA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "btnAdd",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T10:38:31.6674925Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:31.6674925Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

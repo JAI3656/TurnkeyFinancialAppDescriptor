@@ -1,0 +1,17 @@
+﻿{
+  "Id": "11PBYe8u8kyc9RA-LMfzGA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/11PBYe8u8kyc9RA-LMfzGA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/EAsmSqZLGUyLkQGxq4d4Ew",
+  "Name": "Click on Star icon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:30.2618729Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-24T12:30:13.9262473Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

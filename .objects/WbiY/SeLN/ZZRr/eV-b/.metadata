@@ -1,0 +1,16 @@
+﻿{
+  "Id": "eV-bwH3KSkG2HLVaC61HNA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/eV-bwH3KSkG2HLVaC61HNA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "GLCompany",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T11:31:27.8669275Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:31:47.653852Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

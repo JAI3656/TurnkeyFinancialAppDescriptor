@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1JajBGCl-kKlxWZwvVriNQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1JajBGCl-kKlxWZwvVriNQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "City",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T11:32:58.7201789Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:33:16.5036632Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

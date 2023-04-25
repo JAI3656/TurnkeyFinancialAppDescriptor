@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cC3Sdm8Jv0KydVP2HgoKsQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/cC3Sdm8Jv0KydVP2HgoKsQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ctlgYyFbiUiwSyPNOb-SXQ",
+  "Name": "Notes Receivable",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:28.8791638Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:28.8791638Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

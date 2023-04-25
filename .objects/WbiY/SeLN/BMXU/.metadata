@@ -1,0 +1,15 @@
+﻿{
+  "Id": "BMXU9EsyuEmiavn1jJzv5A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BMXU9EsyuEmiavn1jJzv5A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Lot Charges Transaction File",
+  "Type": "Screen",
+  "Created": "2022-12-20T00:23:25.1526773Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-20T00:23:44.5069064Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

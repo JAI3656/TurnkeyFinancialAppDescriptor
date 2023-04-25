@@ -1,0 +1,16 @@
+﻿{
+  "Id": "chYqLiWzA0yeV4JwEAKZ-A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/chYqLiWzA0yeV4JwEAKZ-A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZWEtHDHy_06aytITdB2i3g",
+  "Name": "Favorites",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-18T14:40:26.2811515Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-18T14:41:35.5904105Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

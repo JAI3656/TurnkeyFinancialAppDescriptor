@@ -1,0 +1,16 @@
+﻿{
+  "Id": "I_ibAgjTJkCtdySB5R7fBg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/I_ibAgjTJkCtdySB5R7fBg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/cdw5lPv9TkicCzwS7VPUVg",
+  "Name": "Enter P.O. Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T21:13:39.4393684Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T07:03:39.9407811Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "CufW0m0U1Eaz1cueVGxHUQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/CufW0m0U1Eaz1cueVGxHUQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/MCRUw07uHUeKkWZHRthdog",
+  "Name": "Star",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T21:30:46.989125Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:30:46.989125Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

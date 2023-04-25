@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="97iEYTQMBU2NTlJmwlmdXg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1301, 405, 40, 40" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='Button' idx='11' /&gt;" FuzzySelectorArgument="&lt;uia cls='Button' role='button' automationid='' check:fulltext='' /&gt;" Guid="627b2fd9-b94d-4329-9978-67d74f746e10" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADISURBVFhH7dNLCoMwFIVh11IcuO2W7lM5hYCDIOY8EOsVfhTU3G+QTK95We9UgdMVOF2B0xU4XYHT/T/4/fn+6r0biV2HAuNS0Moa1JZQBir/InoPM4NVLJIO3QjAgUUSGJ2BuLBIBqMjkBOLLGDUg7mxyAZGe2ACi6xg1KC43Fj0bHDD4r5/7n3L9sxDdwRzo2XwGZATLYFHIC40DWYADjQFVgar6GGwOhApa1BgBdti15EO3RUVOF2B0xU4XYHTFTjdzcDLugFwsZT+1bcZXgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, FuzzySelector" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="902, 494, 38, 22" ElementType="Text" FriendlyName="'Code'" FullSelectorArgument="&lt;uia automationid='lblCode' cls='TextBlock' name='Code' /&gt;" FuzzySelectorArgument="&lt;uia automationid='lblCode' cls='TextBlock' name='Code' role='text' check:fulltext='Code' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACoAAAAaCAYAAADBuc72AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFDSURBVFhH7ZOxTYMxEEZTUdDQUNHRMgBCyi6UjMAIFIxAR8UEmQCJAeiYgSF+9JC+6PP5nOhHVxDJxVPi8/n+Z/u8ub3bLqfAFK1milYzRauZoiPOvt+Xq9fndO4QQ9HN8tmR5a2lTPTi4+1X6vrpsYvfPNw3sb9QIkqBqpMbUSK6psjl7qVpi/OvXZfDrXgOtbNv6BZFdnN7USZHSREV9hiiSGgsSW8hrXNR1hHXmLlYG/aiKuyTGdpQ7GHweBTwHImS65sT2al3osdOlAJZcSBOS/DfhWKO4rF9HNURTY+SkBV31ohmpx5FR7UijShXdWzhoV52OZcWWitRfhl7zohGFPhAtphNSE6PwufpSX/5ulY/VdX2WyPm6yCOoRMFfcSJiyUrsocT67BRxFwUtAERbwJS0f/IFK1milZzIqLb5QehrJnfFdGegQAAAABJRU5ErkJggg==" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="94c7a2c97f41d1be43808510cc27c8e9.png" xmlns="">0GxiI3iH8OkS0P9UxVgROqw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

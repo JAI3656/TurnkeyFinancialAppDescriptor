@@ -1,0 +1,13 @@
+﻿{
+  "Id": "_9pZyqpQKESb_X-KQ8pSSw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_9pZyqpQKESb_X-KQ8pSSw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/mE3oTkAoi0iV_WzQKrn_NQ",
+  "Name": "Close Add Feed Inventory Master Screen",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T19:55:47.3630581Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T19:55:47.3630581Z"
+}

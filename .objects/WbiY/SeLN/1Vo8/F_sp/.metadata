@@ -1,0 +1,16 @@
+﻿{
+  "Id": "F_spT0w340qzxOGwWuzf2Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/F_spT0w340qzxOGwWuzf2Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/1Vo8gVYvrUGH5vUVKOddVw",
+  "Name": "Click on Magnifying Glass icon next to Owners",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-30T12:02:48.5410556Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-30T12:03:44.6493192Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

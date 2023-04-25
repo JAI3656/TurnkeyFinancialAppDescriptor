@@ -1,0 +1,13 @@
+﻿{
+  "Id": "E8UJ_wG7hk-eEwAw3ZdxcQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/E8UJ_wG7hk-eEwAw3ZdxcQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fDAMJC1kR0SoRgV2cE8XEQ",
+  "Name": "Click on Previous Arrow Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-03-17T10:33:03.7086191Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-17T10:33:03.7086191Z"
+}

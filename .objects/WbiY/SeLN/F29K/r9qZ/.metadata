@@ -1,0 +1,16 @@
+﻿{
+  "Id": "r9qZNbyYT06q3AgU2nsgGA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/r9qZNbyYT06q3AgU2nsgGA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/F29KF1xfhk6C0LdyBMooYA",
+  "Name": "Click 'X' to Close Add Origin",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-04T09:50:59.6712711Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-04T09:51:41.7507683Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

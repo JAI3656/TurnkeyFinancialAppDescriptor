@@ -1,0 +1,16 @@
+﻿{
+  "Id": "8U77vNHJOE6kqJJI9e5QqQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/8U77vNHJOE6kqJJI9e5QqQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TAN3dB8MqU2qqcMHFU5Fww",
+  "Name": "Enter Owner",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T11:40:39.7003925Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T11:41:35.8807537Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

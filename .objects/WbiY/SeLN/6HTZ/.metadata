@@ -1,0 +1,15 @@
+﻿{
+  "Id": "6HTZJIByPU6Fz43Eh7auzA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6HTZJIByPU6Fz43Eh7auzA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Validation Failed/Inventory Location",
+  "Type": "Screen",
+  "Created": "2023-04-25T09:13:43.4750325Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T09:18:30.0827925Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

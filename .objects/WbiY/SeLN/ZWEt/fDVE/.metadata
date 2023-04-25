@@ -1,0 +1,16 @@
+﻿{
+  "Id": "fDVEgnbGw0eWoZzRDV7NtQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fDVEgnbGw0eWoZzRDV7NtQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZWEtHDHy_06aytITdB2i3g",
+  "Name": "Open Items",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:29.8194287Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:29.8194287Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

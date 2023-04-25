@@ -1,0 +1,17 @@
+﻿{
+  "Id": "zUhDMJKsPEyx3Qt__XvoLg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/zUhDMJKsPEyx3Qt__XvoLg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/EweUaMNUQ0O3Ufz7A1_iwg",
+  "Name": "Checkout Weight",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T21:30:12.6319814Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:30:12.6319814Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

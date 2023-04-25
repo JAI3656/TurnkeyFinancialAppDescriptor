@@ -1,0 +1,16 @@
+﻿{
+  "Id": "YnohJ5mvy0i50eISsEHR3A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/YnohJ5mvy0i50eISsEHR3A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Notes Receivable(Livestock)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T11:34:30.8996828Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:36:00.4499248Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

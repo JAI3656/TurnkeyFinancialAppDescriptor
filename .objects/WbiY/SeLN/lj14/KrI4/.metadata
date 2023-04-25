@@ -1,0 +1,13 @@
+﻿{
+  "Id": "KrI4bxg9eEyRt_GlAyRryQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/KrI4bxg9eEyRt_GlAyRryQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lj14VNGIzU6WBFds9NoqFw",
+  "Name": "Click on View Parameters Check Box",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-01-04T13:05:34.3611575Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-04T13:05:34.3611575Z"
+}

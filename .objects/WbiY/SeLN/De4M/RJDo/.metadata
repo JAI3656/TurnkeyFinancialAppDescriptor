@@ -1,0 +1,13 @@
+﻿{
+  "Id": "RJDosjoBS0u-tS5G0ZawYA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/RJDosjoBS0u-tS5G0ZawYA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/De4MoyfawkWV8bsiLrl-eQ",
+  "Name": "Enter Companies",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-01-03T06:55:27.7260638Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-03T06:55:27.7260638Z"
+}

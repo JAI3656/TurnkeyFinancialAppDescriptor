@@ -1,0 +1,16 @@
+﻿{
+  "Id": "VjfMwJtg6kSHuswoUM0nvA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/VjfMwJtg6kSHuswoUM0nvA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Free Interest Days (Expense)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T22:13:41.3070181Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T22:15:10.0881024Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_FONRDTMx0ix2LcHQEpL8g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_FONRDTMx0ix2LcHQEpL8g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "Livestock Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:49:42.3521899Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:50:22.2392675Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

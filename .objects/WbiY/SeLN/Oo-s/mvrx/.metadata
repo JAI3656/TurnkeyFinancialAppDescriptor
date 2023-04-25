@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mvrxfngc9U6cls2oNFaLlg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mvrxfngc9U6cls2oNFaLlg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/Oo-syDsugEePP_VqGcJb1g",
+  "Name": "Equals /OR Dropdown 2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-25T09:43:02.6275126Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T09:44:26.0771753Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

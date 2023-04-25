@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ilXxaxl21kGePxyp3OZCJA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ilXxaxl21kGePxyp3OZCJA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/7o-YaYKct0aGTFn5IircdA",
+  "Name": "Other Receiving Costs",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-14T12:20:19.9819452Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T12:20:45.1804665Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

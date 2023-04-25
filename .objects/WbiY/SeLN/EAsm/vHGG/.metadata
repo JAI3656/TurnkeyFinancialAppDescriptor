@@ -1,0 +1,13 @@
+﻿{
+  "Id": "vHGGE-QC8k2uoba_H41pzA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/vHGGE-QC8k2uoba_H41pzA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/EAsmSqZLGUyLkQGxq4d4Ew",
+  "Name": "AND Radiobutton",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-25T10:36:18.2785888Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T10:36:18.2785888Z"
+}

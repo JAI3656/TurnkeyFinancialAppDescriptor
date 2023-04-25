@@ -1,0 +1,13 @@
+﻿{
+  "Id": "QO45MhygnEexkFyDC6Vgwg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/QO45MhygnEexkFyDC6Vgwg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/bmwf51JH9ka_cRbvgkb0Aw",
+  "Name": "Enter Admit Site",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-26T16:05:55.2760626Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T16:05:55.2760626Z"
+}

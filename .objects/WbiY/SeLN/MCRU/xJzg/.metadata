@@ -1,0 +1,17 @@
+﻿{
+  "Id": "xJzg-I3Ruk2Hy1It8TdHTw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/xJzg-I3Ruk2Hy1It8TdHTw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/MCRUw07uHUeKkWZHRthdog",
+  "Name": "DragAcolumntogroup",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-12-19T21:30:46.9251868Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:30:46.9251868Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

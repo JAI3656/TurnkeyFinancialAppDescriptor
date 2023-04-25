@@ -1,0 +1,13 @@
+﻿{
+  "Id": "f7EzhQD75021H5DsaE0wHw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/f7EzhQD75021H5DsaE0wHw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Status",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T22:26:56.5469288Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T22:26:56.5469288Z"
+}

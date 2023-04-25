@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KKbSUrl7fUe5X9sOWeOhow",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/KKbSUrl7fUe5X9sOWeOhow",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Enter Last Cost",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T20:16:26.4380928Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-23T12:08:06.3926526Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

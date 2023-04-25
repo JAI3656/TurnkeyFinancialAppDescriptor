@@ -1,0 +1,17 @@
+﻿{
+  "Id": "VR2tVfAaak-0aFgJuP5KjA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/VR2tVfAaak-0aFgJuP5KjA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/es7GIZFRg0Gw7aK_t6HPNA",
+  "Name": "Location",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-12-19T21:24:18.1495075Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:24:18.1495075Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

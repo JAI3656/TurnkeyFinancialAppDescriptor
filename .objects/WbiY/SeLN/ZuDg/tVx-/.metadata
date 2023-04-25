@@ -1,0 +1,13 @@
+﻿{
+  "Id": "tVx-A1O_U0aofv0lw6v8Pw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/tVx-A1O_U0aofv0lw6v8Pw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZuDgQ2HHk0STDhf5T7g7Dg",
+  "Name": "Usage Category",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T10:38:27.9363766Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:27.9363766Z"
+}

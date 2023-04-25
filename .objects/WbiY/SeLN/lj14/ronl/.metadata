@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ronlfgBjuk2mPs4OYTqIaQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ronlfgBjuk2mPs4OYTqIaQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lj14VNGIzU6WBFds9NoqFw",
+  "Name": "Enter Accounting Period",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-01-04T13:05:34.734605Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-04T13:05:34.734605Z"
+}

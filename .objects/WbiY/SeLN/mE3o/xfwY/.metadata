@@ -1,0 +1,16 @@
+﻿{
+  "Id": "xfwYYm3qokCKGaiuETCipw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/xfwYYm3qokCKGaiuETCipw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/mE3oTkAoi0iV_WzQKrn_NQ",
+  "Name": "Enter Financial Equivalent",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T19:55:46.4471281Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-23T12:00:19.1274916Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

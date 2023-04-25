@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GwwjTTfX_ka7XfzP7aLxLg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/GwwjTTfX_ka7XfzP7aLxLg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/1bAvitDVJ0-Hm9Qwp7ZVtA",
+  "Name": "Click on the Add Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-14T12:53:53.7143048Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T12:54:23.2243012Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
