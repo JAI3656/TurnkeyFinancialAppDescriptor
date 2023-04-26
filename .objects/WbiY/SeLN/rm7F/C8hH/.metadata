@@ -1,0 +1,16 @@
+﻿{
+  "Id": "C8hHH9qxD0iZR_siMA_Mpw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/C8hHH9qxD0iZR_siMA_Mpw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rm7F3CCyrUGlrX_C73XBDw",
+  "Name": "Select Close",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-26T12:42:40.5695218Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-26T12:43:34.9996844Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
