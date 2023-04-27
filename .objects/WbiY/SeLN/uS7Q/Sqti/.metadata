@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SqtiKNGvLkmSlIsGlG32hw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/SqtiKNGvLkmSlIsGlG32hw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/uS7QysQwcE6uJNbIlDQnzA",
+  "Name": "Please Enter Factor/Weight",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T09:27:07.6744107Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T09:27:37.9193832Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

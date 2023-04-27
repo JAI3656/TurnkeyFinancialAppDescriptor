@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="uIyfDA-41k-FNgaMEQ2UAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="B_syTgm3cEGC1aOOKa8K7Q" Reference="ny0UH-ena0uArefx6sxT_w/dDzNNI8ZjUmhjCWxuP4GDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="618, 682, 100, 27" ElementType="Button" FriendlyName="'Cancel'" FullSelectorArgument="&lt;uia automationid='PART_CancelButton' cls='Button' name='Cancel' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_CancelButton' cls='Button' name='Cancel' role='button' check:fulltext='Cancel' /&gt;" Guid="c2f54e20-68db-4291-bcaf-cb82e7bed63c" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGgAAAAfCAYAAAALO4jYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFNSURBVGhD7ZXRbYNAEETTnBEF0Qt1kHykBEqgARqgAqKxmGhyXiQSKfZ8zEpPwN3tWZoH57db1+3Blwgy51vQx/tnMKIU1Pd9MCCCzIkgcyLInAgyJ4LMiSBzIsgcW0HLsuxaeK7WPYNpmvZ1Xcu5/8ZSUCUkgkwEIYh5nsu5VxFBB8Mw3L+eak5BWFocZ/84jvcratu2H70AYywNXvfV8Qg6uBIEJOgXhqOPxx8F6R6QoetR+sx77KF9uOdcBB38JQjtoSBcOY+QKfBs/6oPXyHXRtABQqmOpBaErsUeBt2uZbgqS2FfW9w3ggSEgkCqOdAeRVj7G0FV0FWfEkEC/+ARpo7zzUdQOofnq4I4ry8A98Ka6usCEVTQFkNtjyOEelWQrmGpbOyjxd+MoHBKBJkTQeZEkDkRZE4EmRNB5pwKCj48CAqeRJA13f4FaBpktCMn5vEAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Visibility="Interactive">
-      <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target DesignTimeRectangle="648, 686, 41, 19" ElementType="Text" FriendlyName="'Cancel'" FullSelectorArgument="&lt;uia cls='TextBlock' name='Cancel' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='Cancel' role='text' automationid='' check:fulltext='Cancel' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAC0AAAAXCAYAAACf+8ZRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEGSURBVFhH7ZOLCYNAEERTngXZi3VYhSXYgA1YwYUnDIybjRoCFwO3MKj7fd7qo+u68m9q0LXUoGupQddSCj3Pc3HjOcuroXEcy7IsO98LdAZ5a2iC0zTtEn6tQ+i+77dT9mAmGrjJr/phGLYrtq7rrhbhkzmM93X/IXQWjALMN8Fno09H0N4DQM/H/Fn39PA67hX7GjrKawTNVXEG66Xe9c/q2JZyD6FJzNYZBYibajQ85mqgv4BLddHU9xAakUiS+1xxjeR+Ah2Ho6zOdQqtn4gB7tcJUewxnq9CK+6Hol7kZFtAp9BSNA2Kq2TQVWjPkfkB0MdNMy9D310NupYadC39IXRXnkwbejbU1MsaAAAAAElFTkSuQmCC" SearchSteps="Selector" />
-        </scg:List>
-      </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="db4d2b06fac8a017675c4812b8c89ef3.png" xmlns="">0DQlkql019k2Uge4CEILc6g</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="67909ff11eb3c2960b094f96cc3919f7.png" xmlns="">02qwPGQRqMkChEsDcCilzrw</imageRef>
     </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
   </ObjectRepositoryTargetData.Data>
 </ObjectRepositoryTargetData>
