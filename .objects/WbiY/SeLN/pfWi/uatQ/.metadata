@@ -1,0 +1,16 @@
+﻿{
+  "Id": "uatQVk4d5kycWhowTugezQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/uatQVk4d5kycWhowTugezQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "Check Box next to Status Codes",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T10:33:02.2687573Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T10:34:47.254722Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

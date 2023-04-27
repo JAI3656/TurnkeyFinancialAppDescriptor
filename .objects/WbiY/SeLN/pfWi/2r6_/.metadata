@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2r6_mhx9bkqdX35QgRBKdw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2r6_mhx9bkqdX35QgRBKdw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "To Close Selected Status Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T12:23:30.5056711Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T12:24:54.657714Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

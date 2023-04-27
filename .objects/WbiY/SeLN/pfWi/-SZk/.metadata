@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-SZkJwPqnk2A9aoBaL6XJQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/-SZkJwPqnk2A9aoBaL6XJQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "To Close Selected Lot",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T12:18:18.1213647Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T12:20:21.2872481Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
