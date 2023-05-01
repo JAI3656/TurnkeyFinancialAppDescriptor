@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1Dc5sTQapke0KOiAg9eJRw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1Dc5sTQapke0KOiAg9eJRw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Please Enter NoteInterestReceivable(Expense)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T09:33:59.3512458Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T09:34:55.072971Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

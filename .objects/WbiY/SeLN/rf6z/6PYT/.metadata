@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6PYTb8HKnEW7-mZX2BqpzA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6PYTb8HKnEW7-mZX2BqpzA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Popuptitle/AddNote",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T09:06:44.9064785Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T09:07:34.13224Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

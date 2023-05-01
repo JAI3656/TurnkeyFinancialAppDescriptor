@@ -1,0 +1,16 @@
+﻿{
+  "Id": "IARu5_U4BkqQKYYMR9ahYQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/IARu5_U4BkqQKYYMR9ahYQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Requirements Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T09:07:56.9217767Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T09:08:23.6479044Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

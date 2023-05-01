@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Igl5QFYUmkiud7lvkii3Bw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Add Note" CvType="Text" DesignTimeRectangle="1015, 260, 85, 18" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Add Note'" Guid="35dd8b26-2e59-467a-add0-c0377c26b3ba" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvType="CloseButton" DesignTimeRectangle="1714, 253, 35, 35" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='Button' idx='9' /&gt;" FuzzySelectorArgument="&lt;uia cls='Button' role='button' automationid='' check:fulltext='' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADDSURBVFhH7dNLCoQwFETR3mE2m/0p1RBwEMTUB1GfcFFQ884g+bXWtidV4HQFTlfgdAVOV+B07wf33v/N3q3ErkOBcSloZQ1qSygDlX8RvYeZwSoWSYduBeDAIgmMrkBcWCSD0RnIiUUWMJrB3FhkA6MjMIFFVjAaUFxuLPo2eGBxPz7PvmX75qE7g7nRMvgKyImWwCsQF5oGMwAHmgIrg1X0MlgdiJQ1KLCCHbHrSIfujgqcrsDpCpyuwOkKnO5h4Lbt8lMt1hbRjXsAAAAASUVORK5CYII=" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f7793d90b5b4ad098707cd2c6e8a053d.png" xmlns="">0v2kgWGDcD0uDJRPxp_IzhQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

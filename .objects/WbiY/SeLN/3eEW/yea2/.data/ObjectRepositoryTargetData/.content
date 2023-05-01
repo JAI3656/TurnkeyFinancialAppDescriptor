@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7Vp4yXcZUUmG4nMcrXIYIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Note exist for owner *." CvType="Text" DesignTimeRectangle="30, 96, 146, 14" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Note exist for owner 1.'" Guid="3ab9eeae-422c-4d7d-9e31-8e8008d24210" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Validation Failed' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="74165338cd0f0dab40dc2e3ef5c3bb18.png" xmlns="">0xKfA6zlAfU27Ke9nb6jKyA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

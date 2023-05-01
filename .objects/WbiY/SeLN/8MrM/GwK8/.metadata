@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GwK8vymCIEy_xKd8Gk2l-Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/GwK8vymCIEy_xKd8Gk2l-Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Please Enter InterestIncome Account(Expense)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T09:32:23.6913914Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T09:32:55.7490302Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

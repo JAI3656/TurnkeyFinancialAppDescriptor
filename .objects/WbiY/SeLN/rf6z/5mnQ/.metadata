@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5mnQxWCnxUuIT707briv7Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/5mnQxWCnxUuIT707briv7Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Next button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T09:27:56.5880055Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T09:28:12.5058012Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
