@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3TyjQmi8GEm_miYXtRKD_A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3TyjQmi8GEm_miYXtRKD_A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "Click on 3 dots icon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T07:35:34.2112858Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T07:36:10.2726648Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

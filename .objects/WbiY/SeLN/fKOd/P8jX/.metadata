@@ -2,15 +2,16 @@
   "Id": "P8jXVa5-SkOwtTvx1r-dJg",
   "Reference": "ny0UH-ena0uArefx6sxT_w/P8jXVa5-SkOwtTvx1r-dJg",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
-  "Name": "Owner Name",
+  "Name": "Select Owner Name Filter",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T21:48:07.4394635Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T21:48:51.2276191Z",
+  "Updated": "2023-05-01T07:39:22.6098199Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "W_mYhKAdrUW3e_NFZtbyCA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/W_mYhKAdrUW3e_NFZtbyCA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "Homescreentitle/AddNotes",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T07:31:45.8933953Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T07:32:43.3451018Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

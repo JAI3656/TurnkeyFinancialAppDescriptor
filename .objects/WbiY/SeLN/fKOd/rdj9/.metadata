@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rdj9vgZTsUOd_Pr210FdZg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/rdj9vgZTsUOd_Pr210FdZg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "Ok button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T08:41:51.9877253Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T08:42:32.6180024Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

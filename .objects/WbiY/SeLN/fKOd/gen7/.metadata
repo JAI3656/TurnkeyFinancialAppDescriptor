@@ -2,15 +2,16 @@
   "Id": "gen73vMkQUO0A0EK0vm2Qw",
   "Reference": "ny0UH-ena0uArefx6sxT_w/gen73vMkQUO0A0EK0vm2Qw",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
-  "Name": "Expense Code",
+  "Name": "Select Expense Code Filter",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T21:54:56.2450854Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T21:55:40.7232566Z",
+  "Updated": "2023-05-01T07:48:05.4126218Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

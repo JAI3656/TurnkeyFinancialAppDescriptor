@@ -2,15 +2,16 @@
   "Id": "KQgPqljsY0yG3D_34YX3QA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/KQgPqljsY0yG3D_34YX3QA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
-  "Name": "titleExpenseCode",
+  "Name": "ExpenseCode Label",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T21:56:44.3544162Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T21:57:11.4323964Z",
+  "Updated": "2023-05-01T07:49:31.2287587Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

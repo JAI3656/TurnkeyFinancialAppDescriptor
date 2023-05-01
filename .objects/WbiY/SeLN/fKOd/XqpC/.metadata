@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XqpC3srE7k-Llz1WOGeGag",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/XqpC3srE7k-Llz1WOGeGag",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "OR radiobutton",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T08:55:02.2689517Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T08:55:47.8482957Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

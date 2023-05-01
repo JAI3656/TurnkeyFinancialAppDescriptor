@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7odAnfV_TkC9FFNQCpp49A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/7odAnfV_TkC9FFNQCpp49A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "TextFilter2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T08:49:27.8217785Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T08:52:06.0085486Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

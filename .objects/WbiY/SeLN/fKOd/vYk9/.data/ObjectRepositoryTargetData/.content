@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Smt26LK3L0ib3_2awP9Scg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="1110, 555, 249, 36" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;uia cls='ComboBox' idx='4' /&gt;" FuzzySelectorArgument="&lt;uia cls='ComboBox' role='combo box' automationid='' /&gt;" Guid="eca7fdbb-43eb-43db-a460-b20fcb21df6a" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArgument="OR" CvType="Text" DesignTimeRectangle="1272, 472, 94, 32" ElementType="RadioButton" FriendlyName="'OR'" FullSelectorArgument="&lt;uia automationid='PART_RadioButton2' cls='RadioButton' name='OR' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_RadioButton2' cls='RadioButton' name='OR' role='radio button' check:fulltext='OR' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGIAAAAkCAYAAABypO9/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKgSURBVGhD7ZnbalNBFIarIoiViF4oVpDAjqcLkzRBoU0bwcRfQUVRPF14pBRTLHhARTzd5CXsK9gXyAvkBfIGeZGRNTiLmZ3Ze9u0xtnpuvhosmZlLtaXtWZ3MnMVUML/R0QEgogIBBERCCIiEEREIIiIQBARgZApooLH6gTW1Cw+qhn80BzCBx2r4pH3M8LWSRSxiNvqMN5x8ZM4grdqGbe8ewh/j1fEabxQe/FNF5q+/efwVF3CXV6/iHvqLJ5xl+zDV51j7yFsjRERZ/BcF3cPvqsIL1Ub15x1mxauqyJWuDvO44k3T8jGEUHjiDqBJNgdkEUd97kzmrjpzRHSYRH0zTdnAnWCnUQ0lpZUpVJR1WpVv46vn8Kq/uxRvBlZy2IwGKjhcMj82tx01rvdrrNO9Ho9JyfvsAh6OqJC0plgj6MrrZYqFouqUCg4RFGkWu0259GYOohPeo8aHnA8DVPgeOH7/b4mnmfn0PufGxtOLM+wiON4rYsYn/M+CYaoVHJy6ZCnPU6i48SToE5IKqa95hNB8qapK1jEAXzWRVzAHV5cbDS8AmyWm03Op3PFdJWJJeErrg1JMF2xq0TQAU1FpBFjYnQm+IpvU6vXOf8ybug99uMLx5KwC+2Dik9dYV7bIl51Ovo9/TWxvJMqolwue4tvM1+rcf6/FmEw8Wkil6OJRMQP+LzDIo5hXRdxJw7rOaw58STsAzltbVeNpgs7+Pg6j4ccT8MUOC6DJGQ9vlJHTNOIYhFU/ALe60Ju5x86ugSMr2VBRbaJj52kMRYXlmdYBEHnw3avOOQmdjwcEUTpz5wf59JPbmDHZ0QEIdfgk8crgpAfhiZLogiD/FQ6GTJFCJNBRASCiAgEEREIIiIQREQgiIhAEBFBAPUb6PtHFJYo/esAAAAASUVORK5CYII=" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f59486e2a179a379e689663d6eb3f82e.png" xmlns="">0xTJB82OFOEi_jbjEelsx4A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

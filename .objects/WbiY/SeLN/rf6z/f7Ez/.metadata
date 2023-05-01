@@ -2,12 +2,15 @@
   "Id": "f7EzhQD75021H5DsaE0wHw",
   "Reference": "ny0UH-ena0uArefx6sxT_w/f7EzhQD75021H5DsaE0wHw",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
-  "Name": "Status",
+  "Name": "Enter the data in Status",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T22:26:56.5469288Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T22:26:56.5469288Z"
+  "Updated": "2023-05-01T07:33:06.9074286Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

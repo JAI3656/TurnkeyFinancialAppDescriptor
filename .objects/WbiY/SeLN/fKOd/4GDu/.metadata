@@ -2,15 +2,16 @@
   "Id": "4GDu72NJZk6_B_XVjQUfPg",
   "Reference": "ny0UH-ena0uArefx6sxT_w/4GDu72NJZk6_B_XVjQUfPg",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
-  "Name": "titleOwnerName",
+  "Name": "OwnerName Label",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T21:49:08.5209355Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T21:49:31.1914349Z",
+  "Updated": "2023-05-01T07:44:10.7711779Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }
