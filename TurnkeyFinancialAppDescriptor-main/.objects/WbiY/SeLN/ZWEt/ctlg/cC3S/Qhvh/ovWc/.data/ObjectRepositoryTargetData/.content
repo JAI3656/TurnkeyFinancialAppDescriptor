@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="J5GiEbnLcEeLRLKq-4gOfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="267, 272, 211, 16" ElementType="Text" FriendlyName="'Notes'" FullSelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Notes' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Notes' role='text' automationid='' check:fulltext='Notes' /&gt;" Guid="fd100aed-8382-48f8-8819-4e7c4e9d7fdd" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE5SURBVHhe7djBbcJAEIXh1IByoh9ySS1Eog9QukC0ACWQEqAGt2D0kB6aXWOjRMyBzX/4JDzMwunXIt5m7/MewPMRF5CEuIAkxAUkIS4gCXEBSYq4Tqdzv98fioXFx+d1HmcAHhvE1XVdv/xa3Wa/iet4/CnOAv/ZIK715ruIibiAvxnEpZj003C73V1ndVyKR7ebKUbNFZZn3tfZuKtnzXXGM53zZwMtuRuXXjuGGJdj8Y73fFvVN5fe82udcUhxDrRqNC7dLoohxqVZ/YeHbjjfcjGu+oYz7/kzgVaNxiWO5VFc8adhjEvPcTfS9yi2qR3glU3G5bAcl4OIO/FZ4Tk0v+fYxvg2A1ozGZcoGMclikVBWIxHYWnm/XrXt16cxRiBlhRxAXge4gKSEBeQhLiAJMQFpJj3F2/E28H0G3SmAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="6e002f168bd8d14e065330f719519be7.png" xmlns="">0AGpWjhRxJUWpdAxAyS9yjA</imageRef>
-    </TargetAnchorable>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

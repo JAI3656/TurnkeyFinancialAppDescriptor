@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="hLQZ-7QUyEW8WGlkpOg09Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Add Background Code *" CvType="Text" DesignTimeRectangle="954, 418, 207, 23" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Add Background Code *'" Guid="552f4b69-8313-4b5c-85bb-28e445db3d3c" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="f2bc5304f9a322417d4546c9d65a801a.png" xmlns="">0LfxGHYqduUalNB5mZl7wlw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

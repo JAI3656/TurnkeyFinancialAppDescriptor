@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="-H_NBIRmMEa-4PEMK0uPMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="573, 136, 92, 34" CvTextArea="599, 146, 39, 14" CvTextArgument="Close" CvType="Button" DesignTimeRectangle="573, 136, 92, 34" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Close'" Guid="ccea17af-0392-4436-9f6d-5834c601d7f8" ScopeSelectorArgument="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Unsaved Changes' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="0c6b0c68a9565d2162db80e0a6ccd8d3.png" xmlns="">0Sw1SRlTeak-MyodKMfNpFw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

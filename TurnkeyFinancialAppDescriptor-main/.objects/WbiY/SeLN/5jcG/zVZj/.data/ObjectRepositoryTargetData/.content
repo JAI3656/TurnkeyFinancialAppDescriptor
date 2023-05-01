@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="1PScU0rzlEaE9f4WlyycQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1006, 745, 40, 50" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia automationid='btnFormPrev' cls='Button' /&gt;" FuzzySelectorArgument="&lt;uia automationid='btnFormPrev' cls='Button' role='button' check:fulltext='' /&gt;" Guid="ca70fb3b-1799-4287-8bcc-c46170fb6292" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAA2CAYAAAC8yXv8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVGhD7dUxCkJBDIRhTyXCu4uId1LsRS+h3uTZPE+x1coUdmncZKKBWfjZIsV+bJPVejP1StUFb3f7v05gdgKzE5idwOwEZicwO4HZ0cC3+6O31syZJwoYWBzc1txTOJiJRaFgNhaFgTOwKASchUVucCYWucDZWDQM/mDn+dnPl6urw/FkvmE1DMZSiDrfLJhhMH4FD+GHrTmrYTD6BdoFRtloNxhlokPAKAsdBkYZ6FAwYqPDwYiJpoAR0MvyMmeeaGBWArMTmJ3A7ARmJzA7gdkJzK4+uErFwFN/A14YeVs6XxKSAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="c73953059fd829908c4a6959d056b4d2.png" xmlns="">02KTZoZB2zUyBlTfZ86GTqA</imageRef>
-    </TargetAnchorable>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

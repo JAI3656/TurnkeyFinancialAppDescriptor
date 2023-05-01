@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="RluoCiT8x0er476BOJCmWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1373, 418, 64, 32" ElementType="InputBox" FriendlyName="'edit tbTranLot'" FullSelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='tbTranLot' cls='TextBox' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='tbTranLot' cls='TextBox' role='edit' /&gt;" Guid="76da53e9-720c-474e-89ed-27a13ce3868e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEQAAAAkCAYAAAAw55zoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEDSURBVGhD7dlJDsIwFINh7sMYSkrpQMt0/yM95EpA40Rin3jxrwiR/KmwgFXddKZ+CYSKQJp2sGG823h72nR/ZRm2YSO28v4ApBum5AU5h81Lgy8ItFJvKKHlk/IFwSOUOlxC2B6B5Pyd8S9sj0BSB0tKIJRAKIFQAqEEQgmEEgglEEoglEAogVACoQRCCYQSCCUQSiCUQCiBUBGIfmQmkP56Sx4uIWyPQM6XPnm4hD4GAYg7+iL/vcNmV9UxiD+3ttkd5hfbfrTr9EhekEPYho2u8vPmj0EAgirfzAfW230RYSs2Lw0CEOTri+3dybY7l7wkh7ANG/Gp4P0RSOkJJKizNxgypUwbVORNAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, FuzzySelector" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="b3fc1d35e6a11bdcd9e9921e1e73e288.png" xmlns="">0puHxZmWK10uKMfZlHi77Gw</imageRef>
-    </TargetAnchorable>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

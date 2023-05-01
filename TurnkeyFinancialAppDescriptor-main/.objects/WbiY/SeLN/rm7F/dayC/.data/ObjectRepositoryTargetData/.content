@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="sS9H7nApvkiAPtSKPccBEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Please enter Code." CvType="Text" DesignTimeRectangle="30, 96, 121, 14" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Please enter Code.'" Guid="28137a14-0926-4750-a81c-7eb7a1c07a89" ScopeSelectorArgument="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Validation Failed' /&gt;" SearchSteps="CV" SelectionStrategy="UIA" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="32560726d7f732c3e729b61f24e51562.png" xmlns="">0PpXXIjuXmkC6zdgnIctcdA</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="Lk5eItXq_kGsH1NcyeWOxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Add Non-Commodity Inventory Receiving" CvType="Text" DesignTimeRectangle="905, 64, 355, 23" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Add Non-Commodity'" Guid="6e97dd5b-432d-4612-a5b0-61213630d9e4" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="1af2f2c4e3d4d059d4b230eeb33bbb29.png" xmlns="">0k7zSHDTPd0eB4PLvWhwCsw</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

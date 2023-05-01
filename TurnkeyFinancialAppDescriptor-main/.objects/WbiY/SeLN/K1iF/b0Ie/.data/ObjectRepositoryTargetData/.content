@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="z49hBcvA0Ee_roZ-Gz5aTw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Please enter Invoice Number." CvType="Text" DesignTimeRectangle="30, 96, 188, 14" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Please enter'" Guid="948d9bfd-e730-4ae1-97c3-afbb382f2cc5" ScopeSelectorArgument="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Validation Failed' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="0f04f1ba61a8d0ee5f2c6fa6c50a81fb.png" xmlns="">0Ut8G4DkUMkuFBrXhnRZ7sQ</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="TtFukdQMeUCrt2XpPa6alQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="458, 136, 93, 34" CvTextArea="475, 146, 58, 14" CvTextArgument="Go Back" CvType="Button" DesignTimeRectangle="458, 136, 93, 34" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Go Back'" Guid="0db12027-2cd2-4b0e-91a7-ab0657f301ed" ScopeSelectorArgument="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Unsaved Changes' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="6f087ff7ce76fdf33237d8fb419145ac.png" xmlns="">0ugMhV1pREE-c_4vB3wiNfg</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
