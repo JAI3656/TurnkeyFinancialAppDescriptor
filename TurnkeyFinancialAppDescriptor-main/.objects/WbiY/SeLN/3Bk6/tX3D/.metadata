@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tX3DYs-CFkSxx86ve1D9_g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/tX3DYs-CFkSxx86ve1D9_g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3Bk6jOu-vEW5Er_qXAOb1g",
+  "Name": "Click to Drag a column to group Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T15:24:45.4146823Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:25:18.0679092Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

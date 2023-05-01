@@ -1,0 +1,16 @@
+﻿{
+  "Id": "kFVQ8W1lwUCjFH-oHpAFOQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/kFVQ8W1lwUCjFH-oHpAFOQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "Select TextFilter1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:02:58.4642716Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:04:39.9869969Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

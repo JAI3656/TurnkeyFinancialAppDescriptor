@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Yd_XqcavOkmPvWIZp-5V4A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Yd_XqcavOkmPvWIZp-5V4A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TqnCnyOXMkun4QgBIwU3ig",
+  "Name": "Min Cost",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T10:38:27.6630725Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:27.6630725Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

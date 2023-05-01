@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LLkFtfSk90SUxEAOmchB2w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LLkFtfSk90SUxEAOmchB2w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/aboGFkXRdkWXUmxbm0nphA",
+  "Name": "Enter Receiving Date",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T20:42:23.9725248Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T06:13:01.4026245Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

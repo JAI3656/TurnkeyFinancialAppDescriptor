@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LzWS-slxUkurwDTi4hfj9A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LzWS-slxUkurwDTi4hfj9A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/unIHq4SK2UmRCwYYnQ-_cg",
+  "Name": "Cattle/Lot",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-15T07:17:15.4477034Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-15T07:17:36.5907561Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

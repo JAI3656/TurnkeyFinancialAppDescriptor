@@ -1,0 +1,16 @@
+﻿{
+  "Id": "I2OHDDgKVESYBzdd8J5WaQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/I2OHDDgKVESYBzdd8J5WaQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/w2646ghJ60WEt8YsWsdPZA",
+  "Name": "Close Sales Transaction File",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-30T12:19:23.7565007Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-30T12:20:07.3508217Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

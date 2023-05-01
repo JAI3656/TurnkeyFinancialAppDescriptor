@@ -1,0 +1,16 @@
+﻿{
+  "Id": "izRolaHqY068oSiMowUIMg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/izRolaHqY068oSiMowUIMg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/9otwxKfEtU2YUeFeE8cw7Q",
+  "Name": "DescFilter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:31.2210535Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:31.2210535Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

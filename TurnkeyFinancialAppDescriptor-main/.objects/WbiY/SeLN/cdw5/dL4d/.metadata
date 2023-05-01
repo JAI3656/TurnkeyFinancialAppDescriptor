@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dL4dmCcK50iY9xV8QZpybA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/dL4dmCcK50iY9xV8QZpybA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/cdw5lPv9TkicCzwS7VPUVg",
+  "Name": "Enter Vendor Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T21:13:39.5591008Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T06:59:38.8893279Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

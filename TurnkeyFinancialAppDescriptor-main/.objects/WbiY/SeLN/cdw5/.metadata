@@ -1,0 +1,15 @@
+﻿{
+  "Id": "cdw5lPv9TkicCzwS7VPUVg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/cdw5lPv9TkicCzwS7VPUVg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "AddNonCommodityInventoryReceiving/Requirements",
+  "Type": "Screen",
+  "Created": "2022-12-19T20:50:44.2278136Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:13:39.1800249Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

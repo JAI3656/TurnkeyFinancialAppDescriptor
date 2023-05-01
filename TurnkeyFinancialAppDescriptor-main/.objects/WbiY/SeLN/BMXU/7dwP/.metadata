@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7dwPUce-8UCDtBLns_WpvA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/7dwPUce-8UCDtBLns_WpvA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BMXU9EsyuEmiavn1jJzv5A",
+  "Name": "Click on the Add Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-20T00:27:13.1807164Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:02:59.4312794Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

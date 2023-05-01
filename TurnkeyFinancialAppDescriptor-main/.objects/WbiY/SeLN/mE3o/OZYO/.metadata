@@ -1,0 +1,16 @@
+﻿{
+  "Id": "OZYOYp9_r0iwxKrVvRUEQw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/OZYOYp9_r0iwxKrVvRUEQw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/mE3oTkAoi0iV_WzQKrn_NQ",
+  "Name": "Enter Code",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T19:55:46.0291875Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-23T12:01:10.2794715Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "w27_3p4nE0O0BeTVCvRb-A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/w27_3p4nE0O0BeTVCvRb-A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Please Enter NoteInterestReceivable Livestock",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:36:17.3741716Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:37:22.0901132Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2GQCZKa3T0SdP22C-p2RTQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2GQCZKa3T0SdP22C-p2RTQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/vlEcOeGEb0qqxcFvxrUuEg",
+  "Name": "Enter NumberFitler2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T08:19:42.0143038Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:21:00.3788479Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

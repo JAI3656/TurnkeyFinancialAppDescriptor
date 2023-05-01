@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Z2vQKo7YHki3NlUkW0Rg7Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Z2vQKo7YHki3NlUkW0Rg7Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/LzWS-slxUkurwDTi4hfj9A",
+  "Name": "Backgrounds",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-03T06:27:56.6951645Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-03T06:28:18.5791135Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

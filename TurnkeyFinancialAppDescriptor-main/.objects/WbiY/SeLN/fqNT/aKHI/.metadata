@@ -1,0 +1,17 @@
+﻿{
+  "Id": "aKHIce3ylECSyVK6x1cZow",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/aKHIce3ylECSyVK6x1cZow",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fqNTgvrI6kKMHkLReZ8fWQ",
+  "Name": "DateFilter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-20T00:31:13.5569949Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-20T00:31:13.5569949Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

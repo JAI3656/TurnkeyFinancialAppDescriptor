@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DkbxQqsc6k-8kto3c7-9TA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DkbxQqsc6k-8kto3c7-9TA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "GracePeriod Livestock Message",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:40:49.5923222Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:41:19.3531924Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

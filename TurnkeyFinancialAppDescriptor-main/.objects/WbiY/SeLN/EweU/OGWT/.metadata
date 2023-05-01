@@ -1,0 +1,17 @@
+﻿{
+  "Id": "OGWTeeXaN0iB0Y-WW1D1ww",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/OGWTeeXaN0iB0Y-WW1D1ww",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/EweUaMNUQ0O3Ufz7A1_iwg",
+  "Name": "SerialNumber",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T21:30:12.7699337Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:30:12.7699337Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

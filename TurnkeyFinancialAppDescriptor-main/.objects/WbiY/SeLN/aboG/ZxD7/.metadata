@@ -1,0 +1,17 @@
+﻿{
+  "Id": "ZxD7Qa-o5ESffd37xhDF3A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ZxD7Qa-o5ESffd37xhDF3A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/aboGFkXRdkWXUmxbm0nphA",
+  "Name": "Click on UnitCost Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T20:47:17.9323248Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T07:04:02.8618163Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "oJ_MBXe_20WPCwf_-vHjZg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/oJ_MBXe_20WPCwf_-vHjZg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/MCRUw07uHUeKkWZHRthdog",
+  "Name": "3Dots",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T21:30:46.840889Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:30:46.840889Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

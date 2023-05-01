@@ -1,0 +1,16 @@
+﻿{
+  "Id": "W9qWeHtR7kGQDl5yNZb_yg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/W9qWeHtR7kGQDl5yNZb_yg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nRD3UDrl5k2ggwsxpGfmtw",
+  "Name": "Click on the Date filters",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T08:42:16.6052258Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:42:55.0845926Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

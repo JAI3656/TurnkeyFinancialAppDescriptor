@@ -1,0 +1,17 @@
+﻿{
+  "Id": "ZoUtY2mKkUSyf4t_1hscWQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ZoUtY2mKkUSyf4t_1hscWQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fqNTgvrI6kKMHkLReZ8fWQ",
+  "Name": "InvoiceNumber",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-20T00:31:13.6903065Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-20T00:31:13.6903065Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

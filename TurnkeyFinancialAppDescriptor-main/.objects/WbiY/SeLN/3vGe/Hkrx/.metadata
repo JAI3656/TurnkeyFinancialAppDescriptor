@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Hkrx9rpzW0uHZSz-MUSqsQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Hkrx9rpzW0uHZSz-MUSqsQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3vGeC3VgS0WrKNCEBmDxtQ",
+  "Name": "btnPrint",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-22T10:42:09.4575386Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-22T10:42:09.4575386Z"
+}

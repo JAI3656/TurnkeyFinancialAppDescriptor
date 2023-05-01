@@ -1,0 +1,16 @@
+﻿{
+  "Id": "CcRFBhml_0uXkVUg8hWTVw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/CcRFBhml_0uXkVUg8hWTVw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "Trash icon under Drop Down",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T12:16:40.2029342Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T12:17:32.4032411Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

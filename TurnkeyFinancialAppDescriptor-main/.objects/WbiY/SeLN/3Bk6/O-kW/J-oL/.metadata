@@ -1,0 +1,13 @@
+﻿{
+  "Id": "J-oLT8oq9UWHMChLHansgQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/J-oLT8oq9UWHMChLHansgQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/O-kWYK98PkeE9FSqbg_nuQ",
+  "Name": "Enter Value in Search Box",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T15:18:51.5846467Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:18:51.5846467Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "po8qsWtJakSxv6ewxcYpcg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/po8qsWtJakSxv6ewxcYpcg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/7Zu6eyFfT0CUSdUcKDHl7g",
+  "Name": "Non-Commodity Inventory Receivings",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:29.782527Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:29.782527Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

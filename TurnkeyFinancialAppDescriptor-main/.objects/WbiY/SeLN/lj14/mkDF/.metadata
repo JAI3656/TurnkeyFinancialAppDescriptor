@@ -1,0 +1,13 @@
+﻿{
+  "Id": "mkDFTd8TSEKA4UoR6oxl6Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mkDFTd8TSEKA4UoR6oxl6Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lj14VNGIzU6WBFds9NoqFw",
+  "Name": "Click on the Print Button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-01-04T13:05:34.5104839Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-04T13:05:34.5104839Z"
+}

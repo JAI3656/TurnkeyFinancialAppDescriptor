@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GqgPNDV25kqwX8pOAnC21Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/GqgPNDV25kqwX8pOAnC21Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fDAMJC1kR0SoRgV2cE8XEQ",
+  "Name": "Enter Gain Rate into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-17T10:37:46.3134602Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-17T10:38:23.5990058Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

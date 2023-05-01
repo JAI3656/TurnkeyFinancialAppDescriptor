@@ -1,0 +1,16 @@
+﻿{
+  "Id": "0PP1S_HEgk-SN2w5iTu1aA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/0PP1S_HEgk-SN2w5iTu1aA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oZWXjR2xmkiFLIha3lD6hw",
+  "Name": "Enter Hospital Price",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T15:57:23.0458322Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:58:12.5020714Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

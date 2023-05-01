@@ -1,0 +1,16 @@
+﻿{
+  "Id": "yoPxxsM1NUG3r9FF9GIkOA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/yoPxxsM1NUG3r9FF9GIkOA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/kt5uh20xEUSOv_XDuP9RnQ",
+  "Name": "FilterYard",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:57:30.3596682Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:57:59.1533975Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

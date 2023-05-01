@@ -1,0 +1,16 @@
+﻿{
+  "Id": "c6h7tRQ6RUqyTaM5JL1C4Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/c6h7tRQ6RUqyTaM5JL1C4Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Please Enter NoteInterest Receivable Expense",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:37:35.1745606Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:38:25.0532482Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

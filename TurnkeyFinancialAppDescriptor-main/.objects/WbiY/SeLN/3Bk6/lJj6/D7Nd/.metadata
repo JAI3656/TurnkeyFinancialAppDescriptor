@@ -1,0 +1,13 @@
+﻿{
+  "Id": "D7NdV538xkGEKKwlrqCSOg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/D7NdV538xkGEKKwlrqCSOg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lJj6HYKr6Um0czAnxk_AFw",
+  "Name": "Click on Smallest to Largest Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T15:04:32.1455199Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:04:32.1455199Z"
+}

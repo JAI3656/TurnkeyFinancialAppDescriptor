@@ -1,0 +1,16 @@
+﻿{
+  "Id": "b0qcaZEEf0q3bPDw7dhp_g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/b0qcaZEEf0q3bPDw7dhp_g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/16WD4NHgZUukMV9g1TkbrA",
+  "Name": "FreightCost",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T20:58:56.1397286Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T20:59:55.3582279Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

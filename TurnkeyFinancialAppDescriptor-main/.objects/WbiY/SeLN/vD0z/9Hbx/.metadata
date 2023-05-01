@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9Hbx6q4KOUG6EQ9C7Y_DEw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9Hbx6q4KOUG6EQ9C7Y_DEw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/vD0z00T1I0Sx-BEb2lOtnQ",
+  "Name": "Click Close button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-25T10:04:45.1414907Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T10:05:20.7760196Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

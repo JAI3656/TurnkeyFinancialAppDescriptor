@@ -1,0 +1,16 @@
+﻿{
+  "Id": "g_I__QABmEWimc5Lip7M-w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/g_I__QABmEWimc5Lip7M-w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Please Enter NoteReceivable Expense",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:33:16.5733286Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:33:43.2902581Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

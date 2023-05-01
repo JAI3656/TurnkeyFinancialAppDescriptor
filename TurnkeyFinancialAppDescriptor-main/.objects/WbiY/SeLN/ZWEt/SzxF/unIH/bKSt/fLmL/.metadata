@@ -1,0 +1,16 @@
+﻿{
+  "Id": "fLmLXAVfPEWYC0Ko1jZSNw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fLmLXAVfPEWYC0Ko1jZSNw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/bKStasM15UKoBDH6HGSWYQ",
+  "Name": "Grade and Yield Discounts",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-27T10:49:48.7499232Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-27T10:51:25.4633536Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

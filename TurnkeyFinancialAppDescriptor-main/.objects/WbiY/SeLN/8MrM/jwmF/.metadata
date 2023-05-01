@@ -1,0 +1,13 @@
+﻿{
+  "Id": "jwmF92MJy0SVZkUwFftGzQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/jwmF92MJy0SVZkUwFftGzQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Note Receivable (Expense)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T22:13:14.2848845Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T22:13:14.2848845Z"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "BM2_3IsxAkS1CMBJpl4upQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "ChartofAccountsHome",
+  "Type": "Screen",
+  "Created": "2022-12-19T14:57:01.9076981Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:57:14.8624732Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

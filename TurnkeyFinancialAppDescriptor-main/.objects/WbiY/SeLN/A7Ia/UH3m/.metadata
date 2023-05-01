@@ -1,0 +1,13 @@
+﻿{
+  "Id": "UH3meAoYAE2HCQ1W5Wl3lw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/UH3meAoYAE2HCQ1W5Wl3lw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/A7IasH42lkSViuJsbDdvuA",
+  "Name": "Amount",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T15:25:21.1958992Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T15:25:21.1958992Z"
+}

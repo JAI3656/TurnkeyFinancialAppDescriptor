@@ -1,0 +1,16 @@
+﻿{
+  "Id": "c0setTDAmESFfEDpqMvdZw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/c0setTDAmESFfEDpqMvdZw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/D-NkVqwRCkOIC7a7x-2Alg",
+  "Name": "Click on Text Filters",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T14:10:43.5379137Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T14:11:18.7330959Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "MCRUw07uHUeKkWZHRthdog",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/MCRUw07uHUeKkWZHRthdog",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "InventoryCheckIns-Checkouts/Home",
+  "Type": "Screen",
+  "Created": "2022-12-19T21:30:46.7954895Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:30:46.7954895Z"
+}

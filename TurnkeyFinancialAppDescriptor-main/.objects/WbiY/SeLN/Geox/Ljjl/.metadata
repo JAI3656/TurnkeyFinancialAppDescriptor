@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LjjlQXeldEiAAlLNIJ_gLw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LjjlQXeldEiAAlLNIJ_gLw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
+  "Name": "Credit Limit % is great than the max val of 10000",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T11:56:03.5050358Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T11:57:00.2066531Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

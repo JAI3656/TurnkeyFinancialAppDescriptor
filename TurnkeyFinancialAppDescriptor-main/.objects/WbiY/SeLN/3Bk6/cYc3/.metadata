@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cYc3GGd3Gkyze2wATZQEcw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/cYc3GGd3Gkyze2wATZQEcw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3Bk6jOu-vEW5Er_qXAOb1g",
+  "Name": "Click on Cost Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T14:42:30.7544231Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T14:43:23.7752358Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Id": "p6qhI2oX2U-sQdpalw75Jw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/p6qhI2oX2U-sQdpalw75Jw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/EAsmSqZLGUyLkQGxq4d4Ew",
+  "Name": "Click on Description Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:30.3426628Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-24T12:27:37.8456115Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

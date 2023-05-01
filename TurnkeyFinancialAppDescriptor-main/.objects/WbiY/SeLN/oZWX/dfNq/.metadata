@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dfNqATCnEkOnmBKMZnGHZQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/dfNqATCnEkOnmBKMZnGHZQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oZWXjR2xmkiFLIha3lD6hw",
+  "Name": "Enter Max Cost",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T15:54:22.2542966Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:55:14.7521253Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

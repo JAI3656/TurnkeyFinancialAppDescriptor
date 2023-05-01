@@ -1,0 +1,16 @@
+﻿{
+  "Id": "djI-Le9RXkialaj_Qw852g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/djI-Le9RXkialaj_Qw852g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TdkZnsjBek2UVu8MB0kYCQ",
+  "Name": "Source Cross-Reference Specifications Report",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-22T09:22:30.0480922Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-22T09:23:45.592028Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

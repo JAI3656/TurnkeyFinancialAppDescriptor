@@ -1,0 +1,16 @@
+﻿{
+  "Id": "53JGqIVlRUmuzYSq55ZCCw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/53JGqIVlRUmuzYSq55ZCCw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Please Enter InterestIncome Account(Livestock)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:34:37.7664733Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:35:16.8658265Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

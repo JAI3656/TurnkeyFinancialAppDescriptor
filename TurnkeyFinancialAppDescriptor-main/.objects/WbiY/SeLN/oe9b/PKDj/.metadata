@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PKDjlcokT0ejKT5S-VVE5w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/PKDjlcokT0ejKT5S-VVE5w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oe9bwzmqpUunZHa23NYYQg",
+  "Name": "Enter Transaction to be Searched",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T12:42:46.6867365Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-20T06:10:21.52138Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

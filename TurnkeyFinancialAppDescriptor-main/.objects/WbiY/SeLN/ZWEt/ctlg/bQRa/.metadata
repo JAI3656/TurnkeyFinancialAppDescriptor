@@ -1,0 +1,16 @@
+﻿{
+  "Id": "bQRavpDedUCYs8-C99hHjQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/bQRavpDedUCYs8-C99hHjQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ctlgYyFbiUiwSyPNOb-SXQ",
+  "Name": "Outside Cattle Billing",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:29.2492815Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:29.2492815Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

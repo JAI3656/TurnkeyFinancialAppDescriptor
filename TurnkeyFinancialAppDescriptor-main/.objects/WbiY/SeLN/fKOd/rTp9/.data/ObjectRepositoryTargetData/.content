@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S6XjaybTrEC6s4DSoFZzsA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="667, 628, 102, 30" CvTextArea="697, 636, 41, 13" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="668, 629, 100, 27" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Cancel'" FullSelectorArgument="&lt;uia automationid='PART_CancelButton' cls='Button' name='Cancel' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_CancelButton' cls='Button' name='Cancel' role='button' check:fulltext='Cancel' /&gt;" Guid="8c430fd0-1437-4923-b4e0-e7014fb1234a" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGgAAAAfCAYAAAALO4jYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFPSURBVGhD7ZXBaoRAEEQ9ePDgQRAED37O+sHJIZ9nqGBJrWnBBJKtQx0eu05P90I9Z7Z5rOsWfIkgcw5B728fwYhS0LIswYAIMieCzIkgcyLInAgyJ4LMiSBzbAX1fb81TXOA52rffzCO49Z1XVn7aywFVUIiyEQQghiGoay9igjamef56/RUNQVh6fXHdfZP03TU2rZ96gVYY12D17m6HkE7d4KABD1huPp4/VGQzoAM3Y+6PvM7ZmgfvrMWQTu/CUJ7KAifrCNkCryaX/XhFHJvBO0glOpKOoPQEShhD4M+72W4Kkth3xnOjSABoSCQqgbOVxH2/kRQFXTVp0SQwD94hKnrfPMRlNbwfFcQ6/oCcBb2VKcLRFABglQY6vk6Qqh3BekeorIxR2v8zQgKl0SQORFkTgSZE0HmRJA5EWTOpaDgwzdBwZMIsmbdPgHx7GSHoTsFbgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f2ff648c1b46fc16d11f5f5aa6cf1d09.png" xmlns="">0-JNwnqeFvU2A_49vvTlb7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

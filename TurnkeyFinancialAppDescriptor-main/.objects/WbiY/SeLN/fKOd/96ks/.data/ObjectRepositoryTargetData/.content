@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hqMvk6Hotk6cRNCqbJRb_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="512, 555, 212, 36" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;uia cls='ComboBox' idx='4' /&gt;" FuzzySelectorArgument="&lt;uia cls='ComboBox' role='combo box' automationid='' /&gt;" Guid="6ac8c167-bd1a-4dee-bc43-b0c24622dc1e" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArgument="AND" CvType="Text" DesignTimeRectangle="514, 472, 120, 32" ElementType="RadioButton" FriendlyName="'AND'" FullSelectorArgument="&lt;uia automationid='PART_RadioButton1' cls='RadioButton' name='AND' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_RadioButton1' cls='RadioButton' name='AND' role='radio button' check:fulltext='AND' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAHwAAAAkCAYAAABLw14kAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKhSURBVHhe7ZrtbSIxEIZTARCEICBQEEQXxKcUPhKicBAFqCXpgyYuLVwaoAEaoAMacfIa2RnM7LIcJ2WF58cjVn69/vPsjBfMxWw+V4I/iHDPEOGeIcI9Q4R7hgj3DBHuGSLcMw4K7/Z6qlKpqGwupxKJhCZ3daXHev0+e48QXwKFj0YjVSgUrOQgisWi+j0es2sI8YMV3mg2VSqV0kJRze12Ww0fH23+MByq1teYqfrU5aWeQ9cQ4sme8GarpSUmk0lVr9fVdDbbySkv06mq1Wq22judDjtPiA87wtHGUdmQTSv6EIP7e1vp48mEnSPEAysclWz2bFQ2nRSFX7e3+t5SqcTmYSwWC7XZbNSf9/e9bLVa6ez17W0vwzjuxbVZw8XkwhYrHG/jEIY9O6yNB4H2ns1m9RqDwYCdE8RyudRigZthbL1esxkVaoTTHA8JxrA+HfcZK7xcLmtZp+zDeNnDGtWbGzYPwojCp1vJEI3KR+Z2AIyFCQdGulT6Fis8k8loWU9f+zidcAzY902X4HIOSDTVi0r8+/GxkyPDmJFOsyjCAbeur1jheFGDLLRmOuEYJs/Peo10Os3mHKaCcQ1paN9ubmRBHG3PUYXjfmnrW35UuGm3dIxKBFS4m4vw4/nRlg4RkORC5bjC0Q1MF8DcKMJpF/EdK/z6f760Vats7gJxrghXnCucjuH+Q8LDHgQfscLvul1bnad+LetH+FoWJoI+CJxwsxWAMOFYg84RiHBIzufzWtgpP7zgMIXLXSAyaF811YtrTriZwwmnmDWEb6xwgP371J9W5eQs3uwIB/VGQ8v7l8MTOTGLP3vCgRyPni+scCB/gDhPAoUb5C9O58VB4cJ5IcI9Q4R7hgj3DBHuGSLcM0S4Z4hwr5irT47uFiLXJv5CAAAAAElFTkSuQmCC" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c34aff6b2ed7a6c1a5be38dd3c8c0df9.png" xmlns="">0xDX1C0uJjkWavoSVUoDWrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

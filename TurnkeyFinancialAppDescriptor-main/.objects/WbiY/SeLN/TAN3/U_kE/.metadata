@@ -1,0 +1,16 @@
+﻿{
+  "Id": "U_kEaqcdtkSNmz7ulU1EVQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/U_kEaqcdtkSNmz7ulU1EVQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TAN3dB8MqU2qqcMHFU5Fww",
+  "Name": "Enter Unit Price",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T11:43:06.2280512Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T11:44:12.7413839Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

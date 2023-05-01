@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Lvbm7dLRwEuCN8JcKNe6EA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Lvbm7dLRwEuCN8JcKNe6EA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
+  "Name": "Click on X Button next to Sequence",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T11:51:55.8430903Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T11:52:38.2784812Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

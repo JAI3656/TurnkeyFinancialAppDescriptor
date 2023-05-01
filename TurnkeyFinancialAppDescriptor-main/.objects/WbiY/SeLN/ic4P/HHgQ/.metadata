@@ -1,0 +1,16 @@
+﻿{
+  "Id": "HHgQ0Gg00kCxq8_lONfe0Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/HHgQ0Gg00kCxq8_lONfe0Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ic4PAlcmoUKH0VIyHTLxTQ",
+  "Name": "Click on Supplemental Tab",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-18T08:30:49.2836769Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-18T08:31:23.0085928Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

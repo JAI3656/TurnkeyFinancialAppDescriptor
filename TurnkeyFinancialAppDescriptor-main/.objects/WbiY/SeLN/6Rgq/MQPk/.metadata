@@ -1,0 +1,13 @@
+﻿{
+  "Id": "MQPkSPwMqE2E_3SkQ7GDmg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/MQPkSPwMqE2E_3SkQ7GDmg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/6RgqYJBMNEKGa-H6nkqUFw",
+  "Name": "Enter Lot/Pen into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-02-14T13:17:58.1766598Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T13:17:58.1766598Z"
+}

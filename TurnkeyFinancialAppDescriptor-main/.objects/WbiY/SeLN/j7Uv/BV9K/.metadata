@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BV9K4LHPN06Hhf8oSKgAlw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BV9K4LHPN06Hhf8oSKgAlw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/j7UvzSda9Uy7C1GKOUsoHA",
+  "Name": "Click 'X' to Close GL Recurring Process",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-16T11:47:50.7197547Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-16T11:48:28.7548827Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

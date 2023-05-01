@@ -1,0 +1,17 @@
+﻿{
+  "Id": "3ipalXFFq06sjkIPgzKYVA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3ipalXFFq06sjkIPgzKYVA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/cdw5lPv9TkicCzwS7VPUVg",
+  "Name": "Enter Drug Lot no.",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:26:01.0872918Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T06:59:18.509342Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

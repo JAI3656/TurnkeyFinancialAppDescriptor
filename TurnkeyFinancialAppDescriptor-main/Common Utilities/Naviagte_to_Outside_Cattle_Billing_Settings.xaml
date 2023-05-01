@@ -1,0 +1,166 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Naviagte_to_Feedyard_Management__Outside_Cattle_Lot_Charges" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1113,1542" sap2010:WorkflowViewState.IdRef="Naviagte_to_Feedyard_Management__Outside_Cattle_Lot_Charges_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:cr="clr-namespace:CommonUtilityLibrary.ReportUtil;assembly=CommonUtilityLibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>CommonUtilityLibrary.ReportUtil</x:String>
+      <x:String>ReporterForUiPath.Enums</x:String>
+      <x:String>ReporterForUiPath.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities.Design</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>CommonUtilityLibrary</AssemblyReference>
+      <AssemblyReference>ReporterForUiPath</AssemblyReference>
+      <AssemblyReference>ReporterForUiPath.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence sap2010:Annotation.AnnotationText="Earlier This Common Utility was part of System Control Information -&gt; Settings(OC) -&gt; Outside Cattle Billing Settings" DisplayName="Naviagte_to_Outside_Cattle_Billing_Settings" sap:VirtualizedContainerService.HintSize="514,1477" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="472,1343" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+      <TryCatch.Try>
+        <uix:NApplicationCard WebDriverMode="{x:Null}" AttachMode="ByInstance" CloseMode="Never" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="434,1116" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="04474730-1d74-4b42-86d1-0dde50f9ea6c" Version="V2">
+          <uix:NApplicationCard.Body>
+            <ActivityAction x:TypeArguments="x:Object">
+              <ActivityAction.Argument>
+                <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+              </ActivityAction.Argument>
+              <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,827" sap2010:WorkflowViewState.IdRef="Sequence_9">
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+                <uix:NClick ClickType="Single" DisplayName="Click 'Accounting'" sap:VirtualizedContainerService.HintSize="334,156" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="04474730-1d74-4b42-86d1-0dde50f9ea6c" Version="V1">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable ContentHash="ynCH9cP_OEu1mq9AVwkRBg" DesignTimeRectangle="56, 184, 182, 16" ElementType="Text" FriendlyName="'Accounting'" FullSelectorArgument="&lt;uia cls='TextBlock' name='ACCOUNTING' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='ACCOUNTING' role='text' automationid='' check:fulltext='ACCOUNTING' /&gt;" Guid="4177acd1-2cad-407f-8530-bd6aca53bc6b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAALoAAAAUCAYAAAA6GCdvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVGhD7Zl/ahNBFMc9i4gUFRUq1OYXRbJJNpBLVPAMikcoXkC9gHoCe4bcadxv4Fu/fjNJZ1sxGXx/fOjOvDfv7XQ/s2zpg4ePTlIQ1Mbjk6fpybMX6fnL03T66iydvR6k4WiSLi7epOm0SYu2TavVKk3myzRZLFOIHlRJseid5CF6UC2loo/jjR7UTB/RQYgeVEmIHvwX/BXRf15fp6urT1vz4Nv3H2m9Xm9AnsY+f/l6EwP7Yu8/fLyJXb59t6mr+UBroBdqaLzpNsB70PtSkIN17IefnNdamqNzWsv7B4fj3qJDAEjjEgM/ABCUcmCNioA6zPUYgDhcWyo6xsjlnIpOUNN7Ycxe+Ik63k9zgO+VOToODkep6MN5m0YdW6Lj4eKBQwSVCvP+4ElOLo3lJFZJS0VHLRX7rqJjjH6c85x9ew2Og2LRZ+2GLdEhDgRyYTivucQPhaICOaxZKjpyUY8S3kd0rNX6mrNvr8FxUCr6YLbY8IfoLpyLxmsHa3aJAYF2HQIekD6icx7X4K6i4xoHhtea4zXRD+z7HQT/llLRz2fLdN7YG10fto9VNIfC5mJeU2HNvqKjHg+Xy4cY5SV6Dx7HevS/ba+5XsHhKH+jt9ui882lUECIsOu7Vd+MDqX0eRUnJ5HPuXw8XL6ur+g8ZNgDc3J7DdGPi2LRm0Ununy67BISsuMhA1xTBgBJOEZM5UA+xxDE5fNayNGxy+aiU3KXDzW8F8asnYtj39o/t1fMea/gcBT/MdpJPmjmv0XHw9YHS1w4CED8YEAExlwK5OpaiKpxoPFcbRUd4N68T07k20TPiQ30fnLx4HD0EX2oogdBTZSKPprO00g/XYKgJopF7yQfh+hBrZSKPm7aTvbMP4yCoAb6fKOH6EG1lIuON3qbfgFcK6h1078yBQAAAABJRU5ErkJggg==" InformativeScreenshot="1dfdb40021d021b45725455dc3cbd35a.png" Reference="ny0UH-ena0uArefx6sxT_w/ctlgYyFbiUiwSyPNOb-SXQ" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+                      <uix:TargetAnchorable.Anchors>
+                        <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                          <uix:Target DesignTimeRectangle="8, 172, 230, 40" ElementType="RadioButton" FriendlyName="'Accounting'" FullSelectorArgument="&lt;uia cls='RadioButton' /&gt;" FuzzySelectorArgument="&lt;uia cls='RadioButton' role='radio button' automationid='' check:fulltext='&amp;#x9;ACCOUNTING' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAOoAAAAsCAYAAABrJSTnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASVSURBVHhe7ZxBaxNBFMf9LCJSVFRQtGmatrZJN0kbpZSmaCEHBW8K3hRviifxC6inelJP9mavvfY7Pfe/7IPHc5JOmnWnrf/Cj+zOvH2zE95vZ7MJvaR/kv9dvjJHCKmBq3PX5dqNW3Lz9h25c/e+3J9fkObikqysrEq73ZFuryeDwUCWu/2CUlOKSkidRIuaBUSdb7QIITXQbK3I8oM1WW1nknU3ZGNzIA8fbcn29o4Mh7vyZG9PRqMRV1RCUsJbX0LOAbGiLuWSglJTikpInVBUQs4B0aJmuag5paYUlZA6oaiEnANiRW1lPd76EpKKaFG7FJWQZMSL2i8oNaWohNRJ9GfUXFKuqIQkYqqHSRSVkDRwRSXkHBD9GbWuFfX1m7fy6+BAPn78JHfvNYIxhPxvTCMqKDWtXlQI+vvwUD5/+So7w8eFqNinsIScAVGtoJ18ANsHQSksIYlFhYDHx8fF6/cfP8eCW2HEHR0dFattKNcs6IUg1IfxMbaep+3DxUX7wKQ+XJC07+mz50VeGw9sDoyFHLYfFzI9B3teFsTgOB0Pr9puc9kY22Zz+fFJOpKK+u79h0JCFATANtpQJOP6ql5VUcAoei8h8AJDMC1uHGMLGXk01vcBzEmPjRUV+4jVNiuqgpx+LOzrWHhFHj+ejQF+rhpj90k6YkVtZj1ZzCk1rUZULVgUCMA22rRAQ32hPLOA3ChYn1/HtbFKSA7bh1y+3Uqmc/MxXlTksmKeVlTsYzxt8zGT5krOBtGirvcKSk0vjqgofAjgC17bbawy6VysAB7NqXPz/V5UxCKfSjSLqDjW5rcxk+ZKzgaxoi6sdwtKTS+GqF4YL4pue3DMuMKGAOPOU+fgx1VComo7tsFpRcU23kfdtjE+J8YDk94DUi+xojbW+9LoXLAV1Rar37eieCadi89p0Zw6N98/TlTkQ/ysogIcj/FPmmtoLJKO+BW1929ERTGgCAG2UUAoWLz6vhcvXwXznBZdOSwYC30YHxcIfwxAuy1+i0rl223hhyTwbdi28iCnvl/aBqYVVS8SmIPGhOZKUc8W0aJ2urmoFd/64inu/v63okhOAsXkC3IWxgkFWVGkANtazABFrvvow3lpH+J1HwXuz9XnQozd97J4UVVSLw9y+LGwr7lD/Zi3HT80V7T5sUg6oh8m5ZIudLJqRcVXLgCFcxKIw/eooTynATltYSpeGBSwgmNsLApZ+3xRI9YeC9FsP7D9odxWVIBz8+OERDxJ1JCYwJ5PqJ+kYxpRm1WLiuKdFv46ifyPxIq62M5ksepbX0JIHNGi5pK2KCohaYgVtdXp5bJW/NSXEBLHNJ9RKSohiYgXlSsqIcmYakWt+ieEhJA4oh8m5ZJSVEISEf0wab1XUGpKUQmpk+gVtXiYxBWVkCREr6idfEXlwyRC0hC/ovZzUWv4d6GEkL+ZRlRQakpRCamTaFHbuaht3voSkoRYUZu5pKDUlKISUicziTrfaBFCaqDZWpHlB2uy2s4k627IxuZAHj7aku3tHRkOd+XJ3p6MRiNprnFFJSQZsSvqQiFqX/4AT4jAydib2ukAAAAASUVORK5CYII=" SearchSteps="Selector, FuzzySelector, Image" />
+                        </scg:List>
+                      </uix:TargetAnchorable.Anchors>
+                    </uix:TargetAnchorable>
+                  </uix:NClick.Target>
+                </uix:NClick>
+                <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="StepStatusPass_8" In_Description="Click on the Accounting " In_StepName="Step" />
+                <uix:NClick ClickType="Single" DisplayName="Click 'Outside Cattle Billing'" sap:VirtualizedContainerService.HintSize="334,156" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="04474730-1d74-4b42-86d1-0dde50f9ea6c" Version="V1">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable ContentHash="jhma5I-b602xKZsV0Ej28g" DesignTimeRectangle="267, 370, 211, 16" ElementType="Text" FriendlyName="'Outside Cattle Billing'" FullSelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Outside Cattle Billing' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Outside Cattle Billing' role='text' automationid='' check:fulltext='Outside Cattle Billing' /&gt;" Guid="11f357e2-4bbf-4aab-9454-eee4820579bd" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKnSURBVHhe7ZfbTRxBEEUdg+Uv8rF/HAuWyMOWs0BOAULAIUAMm8JaB+mOzjY17A5mzCyujyO6uqrf92qWDx8/Xeybpnl92lxNsxJtrqZZiTZX06xEm6tpVqLN1TQr8cRc33/83O92u4mbm9uD/N/w+cvXxzkvv12VeXJV/zHu7n5P+72/fyhrlsB8c3usoDbrg++MNvPRvr7+9Uj6uWva7Dn9zfvhwFw88ChOhHGqwRiLgarcKSDMqv85RmEi9Ih2Dgu7il9irhgIaFd7mDNX8z6ZzJWvipPhVNP8a3NZrEtY21xzxmlz/V9M5uKheXAnQ4SAcfxlc8zf/CyK0NwXsdpAzJk8onOO+uTcb46ZudoTZ/G8Y0yNzcX8zlfrjebKPGBDzZnL67Hn8V7oB/cz/tj5m7flwFx+SBNR2Ewwxn7sjEkuRHgxT/qpTTzOSy1iShxccwwL2MKuYtd6j+zLJgo5S/C5fQ9uP2eurMF6vhPaud8YLXGzPV7tywW089gRnEULEYuFNuYiHFMZyetVjPMsNddompC6QJ1Nx7lylz6n215zNJfPlJjazDnm3Ndsh0X/cwHt9I9x9dgIgnkjnqyByCxo5yohVVATsY4whwVvAVvYVWxzeY45xjrHNpTbXtN7G+8wMbXjWav7brbDZC7gwW0W4OHpT4wB8qA8tustEmNR2UAeSz455vc6c6TOxmB9Ysi+U5e9eT9V7HN43BzkYyZgrqztud1eai7yuR9g7Cl31LwdB+YCHp9HCxFDlR/NmBxicZ1riNNmfGpSn1zE43xyI66zyNPH+hZwhApVPFcLMY0Za7wH9p29u73UXLQZ632Mtc22eGKu5nzAZFV/sw3aXGcKXy5/IZvt0eY6I/KTEPxTu9kmba6mWYk2V9OswsX+D3+TLsSEMKhFAAAAAElFTkSuQmCC" InformativeScreenshot="b27143c7f1c99204e452629d23b205ff.png" Reference="ny0UH-ena0uArefx6sxT_w/bQRavpDedUCYs8-C99hHjQ" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Visibility="Interactive" />
+                  </uix:NClick.Target>
+                </uix:NClick>
+                <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="StepStatusPass_10" In_Description="Click 'Outside Cattle Billing'">
+                  <cr:StepStatusPass.In_StepName>
+                    <InArgument x:TypeArguments="x:String">
+                      <Literal x:TypeArguments="x:String" DisplayName="Literal&lt;String&gt;" Value="" />
+                    </InArgument>
+                  </cr:StepStatusPass.In_StepName>
+                </cr:StepStatusPass>
+                <uix:NClick ClickType="Single" DisplayName="Click 'Outside_Cattle_Billing_Settings/Settings(OC)'" sap:VirtualizedContainerService.HintSize="334,156" sap2010:WorkflowViewState.IdRef="NClick_3" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="04474730-1d74-4b42-86d1-0dde50f9ea6c" Version="V1">
+                  <uix:NClick.Target>
+                    <uix:TargetAnchorable ContentHash="rUgZEUbF8kuSOJQ6kppwLg" DesignTimeRectangle="267, 225, 211, 16" ElementType="Text" FriendlyName="'Outside_Cattle_Billing_Settings/Settings(OC)'" FullSelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Outside Cattle Billing Settings' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Outside Cattle Billing Settings' role='text' automationid='' check:fulltext='Outside Cattle Billing Settings' /&gt;" Guid="027822bc-ea94-4a52-bf63-0e9d2212c86c" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAN8SURBVHhe7ZddblNBDEZZA+Kp+4EX1gIS+wCxi4otlCWUJZQ1ZAtBp9IXnThzmxt6b5UfPxxlPPbYHo/dpO/ef7jbNk2zPD1cTbMSPVxNsxI9XE2zEj1cTbMSPVxNsxIHw/X9x8/tZrPZ8fDwe0//Gj5++vzs88vXb0M9utH+MR4f/+zyfXr6O7Q5BfxN5TgC28QH14w1/ljf3/96JvvUmjU5Z38p8Jl8Euc1LOXnltgbLh64NieNMXfAOMsAjXRz4AFH+y9RG5NGP9YEbuyR/D/DlQEC1qMcpoZraWr+cwa3njm1Bs0hu+HKt4qVYe7QvPVwuVlPYe3hmhqctxqu+gdyDj1cy7MbLh6aB7cypBEYHD+cZT4ZDkijeS8P5QHCZ/Q0nXXYR+d9g/+XhnmUE3ex3ypj48bCv/WjeNjGP8QPeKCmhsvxyLnWhX3wPuen7h9d3Qf8xUdy5jN7nKsyNo7FvnPJPcD1JJbzYB1d7nvN7A2XH9KwDxTXxaqyHyBnogsUls8MT/axjVz9YsujRQ62OYYb2I09km3rHMkrDWlyl+B7uw5eO6bjcafEIJ5rwjr15azlSvSuG3uWyWWUw0j229ovNnkHfPlNsInsu98Ki31zAes8QBoujxfY43NU7Og4w9o4TnC8EdVPmiX3iV2V01i5QyV2AbsMBHCv1NL39Nox3cj1TpGxjc+q816FM8mNdb1LfNZhqrJj1RpE9p0Ae86xTi2tv3ZO+p/LxYIq+wFCHjQPlRg0WS10dKNGGoFNmrWCDze8m6U2QZVjC/YxRbWz7IHy2jGdW61hZGzrXUf1HhG7ek/jHEayY9U+iYx/n8Gec5Fj4364ZnbDBVy8FoMisx+ZwqTIPLbt64MEN5UHyGfRR4d/x5kidm4Y4iND8o5dcnM+I9n38Lkp0HMmMr4S2769Rp+8Hc9NbBl96gOcnaqR3yt3Z82Z+r7B+Yxk5+U8LHM31wEfo3iuwzWzN1zApSlWqEWwvhYvOgpsO9sgZ8352MQ+ujSP9dFVbOfHzR7x3cBpVBjJU7ZAzuybauMcyDu5e+3mdTw3cZU56zyqbbAd2MY1h8RNvfNWVXYs9vkMlrkLMpBHzjun7F07B8PVXA5u6nOEwfUfmlujh+tC4Rvo3BuXb6h8U98iPVwXRH5WnetPqzk/oW+JHq6mWYkerqZZhbvtP5X8drNVdkZQAAAAAElFTkSuQmCC" InformativeScreenshot="0ecbf13d135aa2bbf6a2e0c1023ce459.png" Reference="ny0UH-ena0uArefx6sxT_w/CySn4UEGO06LLPabshhnIw" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive" />
+                  </uix:NClick.Target>
+                </uix:NClick>
+                <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="StepStatusPass_9" In_Description="Click on the Outside Cattle Billing Settings " In_StepName="Step" />
+              </Sequence>
+            </ActivityAction>
+          </uix:NApplicationCard.Body>
+          <uix:NApplicationCard.TargetApp>
+            <uix:TargetApp Area="0, 0, 0, 0" ContentHash="QRCJsZTNW02aCIRtgqX-gw" FilePath="TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App" InformativeScreenshot="ce29d8d0f24aee5212793bef253e3a8e.png" Reference="ny0UH-ena0uArefx6sxT_w/ZWEtHDHy_06aytITdB2i3g" Selector="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" />
+          </uix:NApplicationCard.TargetApp>
+        </uix:NApplicationCard>
+      </TryCatch.Try>
+      <TryCatch.Catches>
+        <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="438,21" sap2010:WorkflowViewState.IdRef="Catch`1_1">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <ActivityAction x:TypeArguments="s:Exception">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
+            </ActivityAction.Argument>
+            <Sequence sap:VirtualizedContainerService.HintSize="376,245" sap2010:WorkflowViewState.IdRef="Sequence_8">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[exception.Message]" />
+              <cr:StepStatusFail In_StepName="{x:Null}" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="StepStatusFail_1" In_Description="Failed at selected step" />
+            </Sequence>
+          </ActivityAction>
+        </Catch>
+      </TryCatch.Catches>
+    </TryCatch>
+  </Sequence>
+</Activity>

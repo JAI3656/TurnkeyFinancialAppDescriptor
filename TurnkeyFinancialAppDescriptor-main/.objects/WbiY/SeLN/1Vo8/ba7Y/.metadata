@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ba7YFf3K5k-qwfE_osw8Hg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ba7YFf3K5k-qwfE_osw8Hg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/1Vo8gVYvrUGH5vUVKOddVw",
+  "Name": "Close AR Owner Conversion",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-30T12:04:33.7285944Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-30T12:05:02.6606532Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

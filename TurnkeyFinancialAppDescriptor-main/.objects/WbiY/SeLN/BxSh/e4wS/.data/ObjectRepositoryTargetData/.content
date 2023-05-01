@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="stGPjnnICUOuDejNtR4CiA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="891, 385, 120, 32" ElementType="InputBox" FriendlyName="'edit RiskManagerVal'" FullSelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='RiskManagerVal' cls='TextBox' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='RiskManagerVal' cls='TextBox' role='edit' /&gt;" Guid="d73514d1-e36c-4b1d-9ef2-7512d33e7534" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAHwAAAAkCAYAAABLw14kAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVHhe7dtLkoIwFIXh3o/tI2IQeQhq9/6XdK1DlRaYuwCTcwb/iEsmH4RJ+KmbzhRPAicrAW/awYbxbuPtz6b7v8ow2MEQlp++K/BumNwFVL7BdGn8BsfT4N2g8m/5pr/BsQV4wyr/YJuA65tdbrBNwL1BVU4CJ0vgZAmcLIGTJXCyBE6WwMkSOFkCJ0vgZAmcLIGTJXCyBE6WwMkSOFkCJ0vgZAmcrARchxjLzT3E2F9v7rDKP9gm4OdL7w6r/HsZr8DDMervkwKDaajqFDyeW/vdHeaLbT/adXq4C6jvD3YwDFWcTV/GK3BUxWYe2Gz3qoBgCdOl8Qocxfpi+3Cy7S64i6jvD3YwxK796ZuAq7ITOFWdPQFuaWcecCoNSQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6638e06cfdaa13a9d4199fb17c0786a3.png" xmlns="">0cKsZadYdV0KcypLroL9cnw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

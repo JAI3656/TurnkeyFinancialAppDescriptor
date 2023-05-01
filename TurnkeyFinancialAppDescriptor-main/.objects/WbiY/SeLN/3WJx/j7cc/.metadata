@@ -1,0 +1,16 @@
+﻿{
+  "Id": "j7cckhmXpUiT32JKXZqHOA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/j7cckhmXpUiT32JKXZqHOA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3WJx4a_EDk6AttEe5CoEcw",
+  "Name": "Click on X to Close Activate Grade Yield Discount",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-27T11:11:14.0114508Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-27T11:12:16.5764752Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

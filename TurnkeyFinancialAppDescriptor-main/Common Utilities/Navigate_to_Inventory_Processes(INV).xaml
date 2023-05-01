@@ -1,0 +1,154 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Navigate_to_FeedyardManagement_FeedyardAccounting_Processes" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1360,1334" sap2010:WorkflowViewState.IdRef="Navigate_to_FeedyardManagement_FeedyardAccounting_Processes_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:cr="clr-namespace:CommonUtilityLibrary.ReportUtil;assembly=CommonUtilityLibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>CommonUtilityLibrary.ReportUtil</x:String>
+      <x:String>ReporterForUiPath.Enums</x:String>
+      <x:String>ReporterForUiPath.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
+      <AssemblyReference>CommonUtilityLibrary</AssemblyReference>
+      <AssemblyReference>ReporterForUiPath</AssemblyReference>
+      <AssemblyReference>ReporterForUiPath.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Navigate_to_Inventory_Processes(INV)" sap:VirtualizedContainerService.HintSize="556,1269" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="514,1177" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+      <TryCatch.Try>
+        <Sequence DisplayName="Navigate_to_Inventory_Processes(INV)" sap:VirtualizedContainerService.HintSize="476,950" sap2010:WorkflowViewState.IdRef="Sequence_1">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <uix:NApplicationCard WebDriverMode="{x:Null}" AttachMode="ByInstance" CloseMode="Never" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="434,858" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="fc2edd65-9160-42de-b98c-2649c94638b6" Version="V2">
+            <uix:NApplicationCard.Body>
+              <ActivityAction x:TypeArguments="x:Object">
+                <ActivityAction.Argument>
+                  <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+                </ActivityAction.Argument>
+                <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,569" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                  <sap:WorkflowViewStateService.ViewState>
+                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    </scg:Dictionary>
+                  </sap:WorkflowViewStateService.ViewState>
+                  <uix:NClick ClickType="Single" DisplayName="Click 'Inventory'" sap:VirtualizedContainerService.HintSize="334,156" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc2edd65-9160-42de-b98c-2649c94638b6" Version="V1">
+                    <uix:NClick.Target>
+                      <uix:TargetAnchorable ContentHash="m5LbuBiV-02Qc00kMUN9-Q" DesignTimeRectangle="56, 344, 182, 16" ElementType="Text" FriendlyName="'Inventory'" FullSelectorArgument="&lt;uia cls='TextBlock' name='INVENTORY' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='INVENTORY' role='text' automationid='' check:fulltext='INVENTORY' /&gt;" Guid="11deaa06-6ed0-47cb-9fb8-76a418398b98" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAALoAAAAUCAYAAAA6GCdvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ5SURBVGhD7ZphihNBEEY9i4gsKprMxCSoyCK76Aq5hIJnUDzC4gXUC6gncM+QO7V5gQ8+yzGp/BBsqB+P7a6urqmBN51ZmFu375y1ouiNu2f3270Hj9rD2djGxaqt1k/a02fP2/n5i3ZxcdleXV21zWbT5sOizeaLVqIXXZIVfRge72Uv0YsuOUV0KNGLLjlF9HFYlehFn2RFR/JxWJfoRZ9kRV+MiB5O9J83N+3y5ev9+POXr/u5r3sO69fXn/5Y//b9R3v/4WN78/Zd2263v8E6exmT4/uYU1PrEeoqN67FOr6meyAe74cep+6x+P9Jn+jjcif78rDoiBJlVs6UJMQVY93l9BxJ6HGJ7jH2U0dz7fWYxPa512GsOb353li/6IdTRIeDoksixWKOj4GHQlIdEp19ngsZ0ZmT5zlALT2QsQ77NWdNPdHHVH9FH5wm+pFXF8RwOaZy/MR3MY+Jzpi/yo+CgteD+Csg/FqxDnFimqt/3Z/iRV9kRR+G5Z6jojN2WTzHBXOBtYaYYiqPHI2joMAeF93rO16TOn5d3w/6JflbraIP8qIn/hmV3MSQJub4nFw/3f0hcFxK4Drsy4iuHiJ+La8jqT0XqOO9Fv2RfnUZ1nnRATEAoVx0SRqlzIoOOnmPic7cexLqjXF8YLiW14BYt+iPvOi7V5d58tVFIKTnAMIQi/ISz4qOpMSOic5YD4Vi9OgnfRSdeeyjRO+ff/KOLiSViw7s04kqJKVDbEp0yIgO7PeasVYUHWJ/JXr/pEWf81FXfetSdEr+RK+vF4uOyYrOaV4netEtWdFn89WO8I5eFL2QF31Zohf9khZ9xom+ar8ALJ5xWpnr8BgAAAAASUVORK5CYII=" InformativeScreenshot="615bcb73f0d889766c17319f841ba703.png" Reference="ny0UH-ena0uArefx6sxT_w/2S27GGgXn0ieZnsvqur3bA" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+                        <uix:TargetAnchorable.Anchors>
+                          <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                            <uix:Target DesignTimeRectangle="8, 332, 230, 40" ElementType="RadioButton" FriendlyName="'Inventory'" FullSelectorArgument="&lt;uia cls='RadioButton' idx='5' /&gt;" FuzzySelectorArgument="&lt;uia cls='RadioButton' role='radio button' automationid='' check:fulltext='&amp;#x9;INVENTORY' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAOoAAAAsCAYAAABrJSTnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAS6SURBVHhe7ZtNbxtVFIb5LQihCirimfG34yZNUzkldasqiisayQuQ2IHEDsRPqFhVbKB/oLBqd3Sbbf7T4b7DnOr09lo+Lp6ZunkjPfL9OHPn3tF9csZj+xP9k/D36Wc3CCEN8PmNL+WLm3vyVaeQojuQwXAsk/1bcnh4JMfHd+Xk3j2Zz+eSdwZSZAOpNKWohDSJX9RRYPi2qMPRlBDSAJPpoRzcviNHxzOZnZzK6f25PHj4SM7OzmWxeCxPLi5kuVxKvjcuZa00ZUYlpEm8GTULt76g0pSiEtIkXlE7Wa+k0pSiEtIkblHzbkmlKUUlpEn8ohayF6g0paiENMkmooJKU4pKSJO4HyYVhWQUlZB28D9MChk1UGlKUQlpEq+oe1k3iMqHSYS0gj+j8uMZQlrD/R4VH88woxLSDl5R87xXylppWp+o54tv5PLysgTlVAwh141NRAWVptsTtdsfybffff+Gl69eyQ8//lSCsu1DbGoMQj52NhG1yGv4ri8ERPb85/Xrkhd//V1mUoCytiMGsakxCPnY8YoKSYs8+plbasBNgXwQ8unT3968WmwfRSXXFa+o3QKi1pRRVcJYUsXGpMZ4X5Cp786+Lst//Pm8rK+KQT/mEvdjXj//8ms5t6urq7dAP45FGTH2ONQxpvbHYFyNjfvicWyfrgHt8Xowx9QayYePO6MW/SBrvz5RU32WJkTFRo9l1JjUJke7tq1ahxXRtquoti1eox5r21RMW7fjoKx1zM0eW8c1JM2wiaig0rSeW1+Asm5sRdu3vcliUVUCbYtjbBlgXiqFrkP7FMTjOBsLPKKijjgbA/RaoRyPg+O1jj6dE+aRmh/ZDTYTtcZb31SfJd7E2yAlqt3cqRgVBNg5rVqHiooyXjU+FgzEa8Q/Dduv2HPF46AdbVrX+ev6tJ3sFl5R87xfUmm6fVGxmQCe9qLNgvZ4E2+DlKgo281uY3B+FQRtKqD22buAVBxitBwLBuI12vEtdkyMY88bXyPN5KvGIruBX9SaHyZhw4Fnz34v6xa04zXehP8XbN6UqGjDpo9jbB2xNrvqOrSuWKkAzoPjcPw6UXUOMfZcdhyV0sYCjGPnSnYP961vPqxX1FSfpUlRATY2wHmtqCpZPJ9V64hFBZr51omKup2TonNDORYe54qvUzwu2T38ooZb36zGW19sOPAhZFQFQtkYgDmgLZZP12HbQEpUSIa2daKirFJrG+ZoMy3qdhy9VloHdVw70ix8j1pJmBJVpdAYBcdpRlMwN8RadO6xqMAjKsDxdsx4rFhUEM+Pou4+blEzfCm/hu/6pjb4KrjZyHXFn1Eb+vUMIeRdvKIim9aSUQkh6/GK2skGgRreoxJC1uMXtU9RCWkLt6gdZNQaPkclhKzHL+owvEet4feohJD1bCRqRlEJaQWvqJCUohLSEl5R82IUoKiEtIJX1KIXRO1SVEJawZ1RIWqPohLSCm5R+0HUQKUpRSWkSdy3voNxYEJRCWkDr6jd4SSwT1EJaQOvqL3Rfkml6X+iDkdTQkgDTKaHcnD7jhwdz2R2ciqn9+fy4OEjOTs7l8XisTy5uJDlcin98S3pjafMqIS0gTej9scHgQP5F9vPX8vtyhwFAAAAAElFTkSuQmCC" SearchSteps="Selector, FuzzySelector, Image" />
+                          </scg:List>
+                        </uix:TargetAnchorable.Anchors>
+                      </uix:TargetAnchorable>
+                    </uix:NClick.Target>
+                  </uix:NClick>
+                  <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="StepStatusPass_1" In_Description="Click on the Inventory " In_StepName="Step" />
+                  <uix:NClick ClickType="Single" DisplayName="Click 'Processes (INV)'" sap:VirtualizedContainerService.HintSize="334,156" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fc2edd65-9160-42de-b98c-2649c94638b6" Version="V1">
+                    <uix:NClick.Target>
+                      <uix:TargetAnchorable ContentHash="S_TzBxXfXkyjbAO00TXvcQ" DesignTimeRectangle="267, 114, 211, 16" ElementType="Text" FriendlyName="'Processes (INV)'" FullSelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Processes (INV)' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='Processes (INV)' role='text' automationid='' check:fulltext='Processes (INV)' /&gt;" Guid="6f2493c2-16fc-4abb-be0c-ca41d1164f6e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIgSURBVHhe7ZjdSUNBFIStQXxKP/piLQr2odhFsIVYQiwh1pAWrnyBCZPjbpSYFZLMwwe752/vXWZyxavrm9kUQjg+MVcIg4i5QhhEzBXCIGKuEAYRc4UwiB1zrVaf03q93vLw+LRTfMrwLrwT68XifXp+ed2s5/O3bdxZLj82PdSxrnn6mMOdaVYIzjdz3d7db9YuxnNAZmHdMhexXj153YvQXQFrz4UAXXOBC+yUqQao5gLy/q49MwJxn3cu9xSOy4/mYo9wWINEhdj4RRcuLtae83mKIWjFvVbnc45imu1nurj19YH6BQL6PN4yF2f0DEMte+XU09uHAF1zISiJTWaR2LRXHz3sZUTPifrrj1ipr3FoiZW5LnB6qGGGm6JFndcyl+Jau7nA38nvCZhFr/YhwN5/aChehV3FChJsKwd1NlAPrF3IMqgMAMz0XtAzMdufr0Kvz+qZC5iLcaq51KOc4kBdzBUqe/8sFL81F3WtHPRmC+ZL2Ioxk9i+uYIaalsir70ySitHnLzeR3HWxGq993gshIPMJSFrT4/2NSck2Bp3yEv0QmLuzXV4Dt6hxqv4/ZyWWZgBnOlxzm/dUWtGCAeZCxAnYhPeV3OKM7/GEbr2OgOhKkaP+j0OnCNji2oIqKb7yVwycp1FX70HINY6N1w2O+Y6Z0YZoBo3BHEx5tLXqJX7CxhLX8EQnIsxVwj/TcwVwiBirhCGMJu+ANifP+G4BeihAAAAAElFTkSuQmCC" InformativeScreenshot="4363c6120f246a041f894f7eb5f581b1.png" Reference="ny0UH-ena0uArefx6sxT_w/7Zu6eyFfT0CUSdUcKDHl7g" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive" />
+                    </uix:NClick.Target>
+                  </uix:NClick>
+                  <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="StepStatusPass_2" In_Description="Click on the Processes(INV)" In_StepName="Step" />
+                </Sequence>
+              </ActivityAction>
+            </uix:NApplicationCard.Body>
+            <uix:NApplicationCard.TargetApp>
+              <uix:TargetApp Area="0, 0, 0, 0" ContentHash="QRCJsZTNW02aCIRtgqX-gw" FilePath="TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App" InformativeScreenshot="ce29d8d0f24aee5212793bef253e3a8e.png" Reference="ny0UH-ena0uArefx6sxT_w/ZWEtHDHy_06aytITdB2i3g" Selector="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" />
+            </uix:NApplicationCard.TargetApp>
+          </uix:NApplicationCard>
+        </Sequence>
+      </TryCatch.Try>
+      <TryCatch.Catches>
+        <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="480,21" sap2010:WorkflowViewState.IdRef="Catch`1_1">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+              <x:Boolean x:Key="IsPinned">False</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <ActivityAction x:TypeArguments="s:Exception">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
+            </ActivityAction.Argument>
+            <Sequence sap:VirtualizedContainerService.HintSize="376,245" sap2010:WorkflowViewState.IdRef="Sequence_3">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[exception.Message]" />
+              <cr:StepStatusFail In_StepName="{x:Null}" sap:VirtualizedContainerService.HintSize="334,22" sap2010:WorkflowViewState.IdRef="StepStatusFail_1" In_Description="Failed at selected step" />
+            </Sequence>
+          </ActivityAction>
+        </Catch>
+      </TryCatch.Catches>
+    </TryCatch>
+  </Sequence>
+</Activity>

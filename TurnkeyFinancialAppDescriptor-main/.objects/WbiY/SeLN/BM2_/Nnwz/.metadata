@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NnwzND3F2kS4mAsH2t7juQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/NnwzND3F2kS4mAsH2t7juQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "FilterBalance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T15:01:21.1688719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T15:01:57.7849422Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

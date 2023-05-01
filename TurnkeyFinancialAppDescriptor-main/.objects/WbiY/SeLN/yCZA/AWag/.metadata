@@ -1,0 +1,16 @@
+﻿{
+  "Id": "AWagOnOJ3EC-_WUCFcIp6Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/AWagOnOJ3EC-_WUCFcIp6Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yCZAXSqJKUi3Da4CrJ02jg",
+  "Name": "Click on Head In Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-17T06:07:00.8480651Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-17T06:07:44.5849167Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

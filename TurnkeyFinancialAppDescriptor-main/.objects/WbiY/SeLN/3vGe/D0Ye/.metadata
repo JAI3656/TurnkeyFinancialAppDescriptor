@@ -1,0 +1,13 @@
+﻿{
+  "Id": "D0Ye76CyU0ufzLL65rGSkw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/D0Ye76CyU0ufzLL65rGSkw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3vGeC3VgS0WrKNCEBmDxtQ",
+  "Name": "CheckboxViewParameters",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Created": "2022-12-22T10:42:09.3681694Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-22T10:42:09.3681694Z"
+}

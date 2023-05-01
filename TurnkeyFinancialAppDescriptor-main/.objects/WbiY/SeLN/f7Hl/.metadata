@@ -1,0 +1,15 @@
+﻿{
+  "Id": "f7Hlm6_E8EmPpfY_H3bKaA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/f7Hlm6_E8EmPpfY_H3bKaA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Grade Yield Discounts Home",
+  "Type": "Screen",
+  "Created": "2023-03-27T10:52:19.2888457Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-27T10:52:44.7521728Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

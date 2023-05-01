@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Sxx2QP18I0uzFizIKpVHdg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Sxx2QP18I0uzFizIKpVHdg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/5jcGw0PswE-9NUyjfuBbqw",
+  "Name": "Enter Carcass Weights - 699",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-29T08:50:15.2751083Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-29T08:51:36.9533105Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "mIZGIFsCe0SABlMAy1qRew",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mIZGIFsCe0SABlMAy1qRew",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/dGZ-G1LBXEKRjD3xVYV-3Q",
+  "Name": "Enter Description",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-26T15:43:53.83309Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T15:43:53.83309Z"
+}

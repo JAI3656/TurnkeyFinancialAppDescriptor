@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DnOf0PIrE0-nb34qlp_2HA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DnOf0PIrE0-nb34qlp_2HA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Click on the PTD Usage Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T19:38:24.1188199Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T12:12:12.9711704Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

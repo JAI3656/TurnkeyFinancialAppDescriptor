@@ -1,0 +1,13 @@
+﻿{
+  "Id": "wmxNa5xgJE-aN5vQGaMLwQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/wmxNa5xgJE-aN5vQGaMLwQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/WCF_R1SeQUa95o-CPHKboQ",
+  "Name": "Enter Accounting Date into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-03-17T11:05:54.9763256Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-17T11:05:54.9763256Z"
+}

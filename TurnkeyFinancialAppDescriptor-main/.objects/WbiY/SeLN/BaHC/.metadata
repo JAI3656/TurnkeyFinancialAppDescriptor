@@ -1,0 +1,15 @@
+﻿{
+  "Id": "BaHCbRM35kWla03nf4twLQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BaHCbRM35kWla03nf4twLQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Inactivate Drug Inventory",
+  "Type": "Screen",
+  "Created": "2023-02-16T11:36:17.6146993Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-16T11:40:35.1155716Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

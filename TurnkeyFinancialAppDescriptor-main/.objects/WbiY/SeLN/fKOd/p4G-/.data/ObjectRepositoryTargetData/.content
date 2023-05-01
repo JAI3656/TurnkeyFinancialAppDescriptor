@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ot_yV4A4ZUuzsaRIgSU42g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="513, 385, 248, 35" CvTextArea="523, 396, 42, 16" CvTextArgument="Equals" CvType="InputBox" DesignTimeRectangle="514, 386, 244, 33" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'Equals'" FullSelectorArgument="&lt;uia automationid='PART_MenuComboBox1' cls='ComboBox' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_MenuComboBox1' cls='ComboBox' role='combo box' /&gt;" Guid="5623eb8e-5a45-496f-9de2-9fc93694f6e7" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArgument="Show rows where:" CvType="Text" DesignTimeRectangle="514, 353, 244, 19" ElementType="Text" FriendlyName="'Show rows where'" FullSelectorArgument="&lt;uia cls='TextBlock' name='Show rows where:' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='Show rows where:' role='text' automationid='' check:fulltext='Show rows where:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAPgAAAAXCAYAAAAmw4JcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKQSURBVHhe7ZjbbRsxFETTXFxL3IeaiFuIG1ADakAdqBEFx8ARRhT1gCEjDjEfB8vL+yKNO7uCf/x8eTmWUtakAi9lYSrwUhamAi9lYSrwUhamAi9lYSrwUhbmQuD7/f54OBxO/Hp9/dj//fZ23O12Z7HlnM1m8/H3m/lK+RecCZzhRMjaDKx2BX6fCrx8N04C50vNFzudSQV+nwq8fDfOvuAIPL/giQL/8/5++vm+3W4vYvQBsez78vDnPiAE/UCttMW++Knh+Z7Vi9rWmIkT0eLLPWzPAdTAVuB5tvGlOJ47z4mt3zzvI/ad3bOUkTOB5zCNg+PgjUJiqNOfOdgOpCJgbW4OP/ZsWK1rbu5l3Gd6cZfcz5dAgmi9p4L35Wb9mQ+wPYt+78l+vlTw5XncG+/CM9cZX0py8U82YKDGYRuHEVJIfrnSj20N1g4+QsKmBzaDP9YW4kbfs3rNas+ghuKnbuZlXwVsnvHmEudaqKNIyaWGPmKtLfbPvVKuMRW4MHwOZA6y5MASm8MJKSa/OKzJw+ZJDDXGwZdZ32f2Yk0sKLSRrJ1P4lNwGSf4gTVnsFfiXVjnGfJsybW/VSkjNwXOIDmcjwh8/LKMOcYoAtbkKz7jklnfr+jFHuIZ9wVf9qCW9RXlIwInJ/0JPUaBm1vKZzgJnOFUrMKwupfDLdj6eY4CURTaxGRNhhl7FEUy6/usXvr0jwJLEBq59lDMebZ7Aid3PHcy9vdM1M249F07bylw9gVnYJIUwExoKXBgnfkpOGBQ2c+BRRC3vlKzvvCMXvdqJPiISUFh5/3pdUvgMPbMu431wXsk7Ffg5RFu/kQvpfzfVOClLEwFXsrCVOClLEwFXsrCVOClLMvL8S+weJxAJ+pDUQAAAABJRU5ErkJggg==" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="22d30266b276719200132b70fdcacb7b.png" xmlns="">0iWcr3qhW8U6LgH_ATjkpBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

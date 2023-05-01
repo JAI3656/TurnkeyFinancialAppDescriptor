@@ -1,0 +1,16 @@
+﻿{
+  "Id": "lGzRicXUeECPMo6THcWClw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/lGzRicXUeECPMo6THcWClw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/bmwf51JH9ka_cRbvgkb0Aw",
+  "Name": "Enter Dose",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T16:06:14.5060915Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T16:06:58.3848514Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,17 @@
+﻿{
+  "Id": "0w8LQi5F6EqirSDN5Z8nqw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/0w8LQi5F6EqirSDN5Z8nqw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/cdw5lPv9TkicCzwS7VPUVg",
+  "Name": "Enter Location",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:16:20.547073Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T07:03:20.4876963Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

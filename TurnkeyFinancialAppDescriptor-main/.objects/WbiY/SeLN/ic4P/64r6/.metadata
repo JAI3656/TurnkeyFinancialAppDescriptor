@@ -1,0 +1,16 @@
+﻿{
+  "Id": "64r6yf_rSUe0rs7SpnCDKA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/64r6yf_rSUe0rs7SpnCDKA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ic4PAlcmoUKH0VIyHTLxTQ",
+  "Name": "Click on Descriptions Tab",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-18T08:28:24.0461447Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-18T08:28:57.9064794Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

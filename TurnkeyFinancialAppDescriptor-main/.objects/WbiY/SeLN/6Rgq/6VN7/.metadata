@@ -1,0 +1,13 @@
+﻿{
+  "Id": "6VN7Rp9xYEa2L5I3zOPxew",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6VN7Rp9xYEa2L5I3zOPxew",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/6RgqYJBMNEKGa-H6nkqUFw",
+  "Name": "Click 'X' to Close Add Other Receiving Cost",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-02-14T13:17:58.5717248Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-14T13:17:58.5717248Z"
+}

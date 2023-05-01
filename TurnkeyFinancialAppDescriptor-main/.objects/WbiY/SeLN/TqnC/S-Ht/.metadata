@@ -1,0 +1,16 @@
+﻿{
+  "Id": "S-HtP2pty0qkeCfrGQv5Gg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/S-HtP2pty0qkeCfrGQv5Gg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TqnCnyOXMkun4QgBIwU3ig",
+  "Name": "Last Cost",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:27.633637Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:27.633637Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

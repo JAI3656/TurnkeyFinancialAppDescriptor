@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dlBy25yTmE2U1_K7RPF5bg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/dlBy25yTmE2U1_K7RPF5bg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/j7UvzSda9Uy7C1GKOUsoHA",
+  "Name": "Enter Transaction Date into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-16T11:46:21.5375312Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-16T11:46:56.9582652Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

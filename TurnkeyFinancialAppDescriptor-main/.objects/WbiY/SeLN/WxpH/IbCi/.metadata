@@ -1,0 +1,16 @@
+﻿{
+  "Id": "IbCiNfsj7U2QxeKKp-1dSA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/IbCiNfsj7U2QxeKKp-1dSA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/WxpHvn28j0mLA5gTI2K00g",
+  "Name": "Click on Avg Wt Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-29T06:12:13.0541832Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-29T06:12:44.8880431Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

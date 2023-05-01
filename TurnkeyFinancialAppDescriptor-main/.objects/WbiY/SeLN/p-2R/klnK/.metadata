@@ -1,0 +1,17 @@
+﻿{
+  "Id": "klnK-3-J00q4pW98_6OLMg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/klnK-3-J00q4pW98_6OLMg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/p-2RUB2Go06vAWPyFX29sA",
+  "Name": "OnUsage",
+  "Type": "Element",
+  "TaxonomyType": "Toggle",
+  "Created": "2022-12-19T14:47:37.0305325Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:47:37.0305325Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

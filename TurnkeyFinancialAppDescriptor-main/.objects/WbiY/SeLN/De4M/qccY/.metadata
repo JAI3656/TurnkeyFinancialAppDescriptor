@@ -1,0 +1,13 @@
+﻿{
+  "Id": "qccYf9M10U-U37h-xFcM8g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/qccYf9M10U-U37h-xFcM8g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/De4MoyfawkWV8bsiLrl-eQ",
+  "Name": "Click Condensed CheckBox",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-01-03T06:55:28.2505669Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-03T06:55:28.2505669Z"
+}

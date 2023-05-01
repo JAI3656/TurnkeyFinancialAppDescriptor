@@ -1,0 +1,15 @@
+﻿{
+  "Id": "XLz2GDL4aEmikUbPSbWwKQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Notes Settings/GL Interfaces",
+  "Type": "Screen",
+  "Created": "2022-12-19T11:45:30.7612653Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:46:00.272792Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

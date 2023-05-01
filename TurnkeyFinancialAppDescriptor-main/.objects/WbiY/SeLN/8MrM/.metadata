@@ -1,0 +1,12 @@
+﻿{
+  "Id": "8MrMMU0Xakqw1hGWGX-qmw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add_Note/Livestock&Expense",
+  "Type": "Screen",
+  "Created": "2022-12-19T21:59:08.0580194Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:59:08.0580194Z"
+}

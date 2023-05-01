@@ -1,0 +1,16 @@
+﻿{
+  "Id": "qy4uyQrZX0297tO_9ZbH0g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/qy4uyQrZX0297tO_9ZbH0g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/0pCwTr7hhkqpTNKH4s4qgg",
+  "Name": "Enter Companies into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-16T11:22:21.3680262Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-16T11:22:59.9205448Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

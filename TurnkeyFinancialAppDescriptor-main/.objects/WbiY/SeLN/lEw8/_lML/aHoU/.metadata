@@ -1,0 +1,13 @@
+﻿{
+  "Id": "aHoUyPzdpUW8GoAaVFhACg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/aHoUyPzdpUW8GoAaVFhACg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/_lMLtCMrZUGouUcI7Uy0Bg",
+  "Name": "Click on OK Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T13:08:45.3477563Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T13:08:45.3477563Z"
+}

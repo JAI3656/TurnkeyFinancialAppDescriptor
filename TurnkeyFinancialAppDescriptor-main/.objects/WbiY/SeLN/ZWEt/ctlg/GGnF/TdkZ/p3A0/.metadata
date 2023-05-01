@@ -1,0 +1,16 @@
+﻿{
+  "Id": "p3A07OxrHEGV7p1I71mo4A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/p3A07OxrHEGV7p1I71mo4A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TdkZnsjBek2UVu8MB0kYCQ",
+  "Name": "GL Inquiries",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-03T06:44:09.3721902Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-03T06:44:40.2099898Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

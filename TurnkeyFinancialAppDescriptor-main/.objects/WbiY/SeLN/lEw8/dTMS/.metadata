@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dTMS8yuxCU-jbGmQ2tJFTQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/dTMS8yuxCU-jbGmQ2tJFTQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Click on Favourites Icon",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T19:30:04.2000682Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T12:07:35.0320683Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

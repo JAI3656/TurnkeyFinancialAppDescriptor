@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SzxFvMuUtUOcdZs39ojBRw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/SzxFvMuUtUOcdZs39ojBRw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZWEtHDHy_06aytITdB2i3g",
+  "Name": "Shared Maintenance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-15T07:14:28.1110815Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-15T07:16:35.0914594Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

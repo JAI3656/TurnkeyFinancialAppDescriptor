@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="y-MFYvifnEukRtLe5oGhKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1407, 342, 44, 44" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='Button' idx='27' /&gt;" FuzzySelectorArgument="&lt;uia cls='Button' role='button' automationid='' check:fulltext='' /&gt;" Guid="7ff01456-fd07-46a1-8a19-0142da6f567c" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADTSURBVFhH7dNRCoMwEIThnkVEQumlW7xnyhQCPgQxOzOU4Ao/Cmr2e0gey1rqDK3bs27lVacBtxLsLsHuEuwuwe4S7G4Y/P7sv3rvRoquEwLjYtDMGqEtwQxk/kXhPRwZzGIRdehGAAososDoCkSFRTQYnYGUWCQBox5MjUUyMDoCHVgkBaMGxaXGonuDGxb343Pv22j3PHRnMDWaBl8BKdEUeASiQofBEYACHQIzg1n0MJgdiJg1QmAG24quQx26f5Rgdwl2l2B3CXaXYHeTgUv9AohDlRBfX9VuAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Image" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1073, 431, 350, 32" ElementType="InputBox" FriendlyName="'edit rateCodeDesctbx'" FullSelectorArgument="&lt;uia automationid='rateCodeDesctbx' cls='TextBox' /&gt;" FuzzySelectorArgument="&lt;uia automationid='rateCodeDesctbx' cls='TextBox' role='edit' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAWIAAAAkCAYAAACzKjC/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGSSURBVHhe7d1NalNRFMDxQKG6ASuKLiDPfpg+U0PSNOnnFlyBILgPcR2O3YIDtyM4dXr0Dhra9ILN66Nn8hv8Zu+e4Z/D5cIbHE1mAUAeIQZIdifEk+k85ouzWJxexPLsEoAelKaWtpbGrnf3Vohn82V1AAD9Ka292d5ViEulawcA6N/NzXgV4rIy1z4GoH+luasQx2AQNT92nsfXYRNXy/PqEAC6K3fGqxC3bRs1H5smvr16Hb+3t+ODawuA3v03xNc+D4fx68nTuPCKAqBX9w5x8f3Fy/jS7FYHAdDNRiH+NGzi57Od6iAAutkoxPPDw/iztVUdBEA3G4W4KC8paoMA6EaIAZIJMUAyIQZIJsQAyYQYIJkQAyQTYoBkQgyQTIgBkgkxQDIhBkgmxADJhBggmRADJBNigET3+nnoOiEG6M/xyakQA2S6jrAQAySYTOcxao+EGOAxnSzPY3q8+Bfgcezuv+2+Eb/ZOwDgAUqE2/FEiAEe297+KA5G72L8fnorwhuHeP0wAA8nxACpZvEXZPfKuSr0sNUAAAAASUVORK5CYII=" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ebc2e9b6771ddb437a4805994b687ad4.png" xmlns="">0R5eUu2fn20GyGQMMrLSvXw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

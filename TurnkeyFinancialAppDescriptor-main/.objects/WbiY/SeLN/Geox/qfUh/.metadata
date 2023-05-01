@@ -1,0 +1,16 @@
+﻿{
+  "Id": "qfUhb3yeCEOtvY2dJj4M4A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/qfUhb3yeCEOtvY2dJj4M4A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
+  "Name": "Click on Querry Button next to Sequence",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T11:53:00.0495889Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T11:53:43.5304388Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "yIB8oKdK4EyH6zuKmgJ3og",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/yIB8oKdK4EyH6zuKmgJ3og",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GgqYkKKhikKjRwWMMoxosQ",
+  "Name": "Click on Activate Button Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-03T06:45:38.6237159Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-03T06:46:04.7261689Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

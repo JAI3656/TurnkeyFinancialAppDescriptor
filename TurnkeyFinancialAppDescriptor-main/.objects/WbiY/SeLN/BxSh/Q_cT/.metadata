@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Q_cT1K3I5keBOIBQ8I-LGg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Q_cT1K3I5keBOIBQ8I-LGg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BxShwhW5pUiqBUW5UoUW5Q",
+  "Name": "EquityHeadHedged Limit Message",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:47:42.1156075Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:48:22.3179693Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "OmkojYRhVEyMiZ9_M3kMMw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/OmkojYRhVEyMiZ9_M3kMMw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3LqyqEtpqkitiT57c7wa6w",
+  "Name": "Enter NumberFitler2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T08:29:14.8466108Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:29:14.8466108Z"
+}

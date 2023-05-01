@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Bjd9QYpvVEqiAHqfmBIkbQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Bjd9QYpvVEqiAHqfmBIkbQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/bmwf51JH9ka_cRbvgkb0Aw",
+  "Name": "Enter Rounding Rule",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-28T13:37:41.6591261Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-28T13:38:36.3044449Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

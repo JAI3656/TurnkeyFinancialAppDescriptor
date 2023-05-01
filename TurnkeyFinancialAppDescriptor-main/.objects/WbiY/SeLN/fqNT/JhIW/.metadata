@@ -1,0 +1,17 @@
+﻿{
+  "Id": "JhIWW3cIwU2DJJIuIi_ABw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/JhIWW3cIwU2DJJIuIi_ABw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fqNTgvrI6kKMHkLReZ8fWQ",
+  "Name": "UnitPrice",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-20T00:31:13.8872308Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-20T00:31:13.8872308Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

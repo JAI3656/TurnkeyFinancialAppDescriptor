@@ -1,0 +1,13 @@
+﻿{
+  "Id": "t-RjMR8xt0SLY1cB-FyX_Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/t-RjMR8xt0SLY1cB-FyX_Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/Yk36Jli2PkSwAmSHAHqyAw",
+  "Name": "Click on Transfer Toggle Switch Button",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-03-17T09:16:26.1734988Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-17T09:16:26.1734988Z"
+}

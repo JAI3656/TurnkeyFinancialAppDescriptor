@@ -1,0 +1,15 @@
+﻿{
+  "Id": "7_nfD_lkS0q7cKYLJelFGA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/7_nfD_lkS0q7cKYLJelFGA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add Recurring Entry",
+  "Type": "Screen",
+  "Created": "2022-12-19T12:28:40.6252396Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T12:32:02.2617771Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "z5tNx0UL2UKSLZ66PMqHBQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/z5tNx0UL2UKSLZ66PMqHBQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/dkn8VZRJMUC0PFjbtRbxmg",
+  "Name": " Cost/Price",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T14:48:35.1404814Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:48:35.1404814Z"
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "BeD26LqwUE-s5phzes0M2g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BeD26LqwUE-s5phzes0M2g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Add Date Interest Rate",
+  "Type": "Screen",
+  "Created": "2022-12-19T14:38:39.5688707Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:38:45.8890606Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "jKeljkAhwUWejWWJPG5rgQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/jKeljkAhwUWejWWJPG5rgQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/sXPlGkPdKk-3-9S1-vfXVg",
+  "Name": "Account",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-19T12:55:26.5015131Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T12:55:26.5015131Z"
+}

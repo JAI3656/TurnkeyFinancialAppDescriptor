@@ -1,0 +1,13 @@
+﻿{
+  "Id": "BpPmHetmI0-4wlERQ0L8ew",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BpPmHetmI0-4wlERQ0L8ew",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/H3VY1KwTnk-6ekYHRVd77Q",
+  "Name": "Select Transaction File",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T12:47:08.0325672Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T12:47:08.0325672Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jeYMLVJNZk-o3YaUJh7Nww",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/jeYMLVJNZk-o3YaUJh7Nww",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fliywHUU9Uu-ttIIcbqHdg",
+  "Name": "Enter Check In Weight",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-25T12:07:39.9207228Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T12:08:26.642174Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

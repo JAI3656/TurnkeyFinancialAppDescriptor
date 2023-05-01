@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XCf9_idVNEeWEpQPVnmn1w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/XCf9_idVNEeWEpQPVnmn1w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Please Enter ExpenseRateCode",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-28T06:54:39.7360475Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-28T06:55:39.1771571Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

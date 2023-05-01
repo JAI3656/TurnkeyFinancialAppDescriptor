@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GQiaVNoknE6o9grv-wQcdQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/GQiaVNoknE6o9grv-wQcdQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
+  "Name": "Select NumberFilter1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T06:18:13.5238643Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:20:00.9659244Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

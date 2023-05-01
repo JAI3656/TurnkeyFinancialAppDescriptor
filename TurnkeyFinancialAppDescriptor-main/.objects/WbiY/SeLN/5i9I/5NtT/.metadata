@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5NtT7mdX5UuQVaAmUUS39Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/5NtT7mdX5UuQVaAmUUS39Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/5i9IhDYnJEuxUwv3JtWGJA",
+  "Name": "Click on Location Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-01-25T11:57:31.8846023Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T11:58:12.0162393Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

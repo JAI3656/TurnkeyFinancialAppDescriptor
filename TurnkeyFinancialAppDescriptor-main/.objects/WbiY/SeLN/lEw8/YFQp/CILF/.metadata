@@ -1,0 +1,16 @@
+﻿{
+  "Id": "CILFhikQk0ynH3ATEmqmMA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/CILFhikQk0ynH3ATEmqmMA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/YFQpiFhuq06b-2PjBF2_uA",
+  "Name": "Click on Cancel Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-27T12:50:24.8161202Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T12:51:10.6920582Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

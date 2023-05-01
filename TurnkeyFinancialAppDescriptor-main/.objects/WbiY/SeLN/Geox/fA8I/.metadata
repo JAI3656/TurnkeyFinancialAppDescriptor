@@ -1,0 +1,16 @@
+﻿{
+  "Id": "fA8IMXYal0SQtiw9le9Elg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fA8IMXYal0SQtiw9le9Elg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
+  "Name": "To Close Selected Owners",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T12:31:42.9708225Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T12:34:13.4295184Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

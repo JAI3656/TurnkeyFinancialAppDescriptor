@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Yc0aKYAUW0OR6CxK-c-Xsw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Yc0aKYAUW0OR6CxK-c-Xsw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "Checkbox next to Companies",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T10:35:03.7156834Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T10:37:15.5266543Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

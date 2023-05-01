@@ -1,0 +1,16 @@
+﻿{
+  "Id": "uj4rjhWqP0GSFlmplRCt7Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/uj4rjhWqP0GSFlmplRCt7Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/E05RVaUKQU-nsKgbtBiXaw",
+  "Name": "Enter Sequence into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-02T07:31:42.8538635Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-02T07:32:18.1022549Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

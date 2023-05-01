@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zZdUjS5FfkqL4UB8puFBlA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/zZdUjS5FfkqL4UB8puFBlA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/16WD4NHgZUukMV9g1TkbrA",
+  "Name": "FreightAccount",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T21:01:42.7693497Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T21:02:40.0850362Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

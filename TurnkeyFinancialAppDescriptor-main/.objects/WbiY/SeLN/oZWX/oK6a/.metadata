@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oK6a0nL3P0q3mhrjUfY2xQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/oK6a0nL3P0q3mhrjUfY2xQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oZWXjR2xmkiFLIha3lD6hw",
+  "Name": "Enter % Markup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-26T15:59:20.1263183Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-26T16:00:15.0122595Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

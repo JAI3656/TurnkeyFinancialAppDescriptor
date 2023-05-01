@@ -1,0 +1,14 @@
+﻿{
+  "Id": "pzct-0c5N0WEdP0GgmBY6Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pzct-0c5N0WEdP0GgmBY6Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/jUtFXw3Pr0WjHb-Ugb5LiA",
+  "Name": "Number Filters",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-12-19T14:46:55.2297467Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:46:55.2297467Z"
+}

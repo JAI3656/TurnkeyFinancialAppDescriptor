@@ -1,0 +1,16 @@
+﻿{
+  "Id": "V2emgw3HjEWaw-KHtPzQeA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/V2emgw3HjEWaw-KHtPzQeA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BxShwhW5pUiqBUW5UoUW5Q",
+  "Name": "Click on Save button/Add Note",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T22:03:56.6374501Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T06:47:27.7426306Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

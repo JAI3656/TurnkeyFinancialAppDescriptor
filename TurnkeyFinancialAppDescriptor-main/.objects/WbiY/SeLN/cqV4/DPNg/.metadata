@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DPNgu7qF6kKJNxkZFA2MIw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DPNgu7qF6kKJNxkZFA2MIw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/cqV41eMcxEu8KO_1RgVReg",
+  "Name": "ARAccount",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T11:06:33.864267Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:06:53.15664Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

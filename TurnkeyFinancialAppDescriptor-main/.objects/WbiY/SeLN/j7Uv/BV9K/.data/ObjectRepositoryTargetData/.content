@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WK-ooh4RtEWMi_T9HI_maQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1277, 437, 40, 40" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='Button' idx='9' /&gt;" FuzzySelectorArgument="&lt;uia cls='Button' role='button' automationid='' check:fulltext='' /&gt;" Guid="420d6b5f-9fea-4b77-9711-5e39a9912509" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADISURBVFhH7dNLCoMwFIVh11IcuO2W7lM5hYCDIOY8EOsVfhTU3G+QTK95We9UgdMVOF2B0xU4XYHT/T/4/fn+6r0biV2HAuNS0Moa1JZQBir/InoPM4NVLJIO3QjAgUUSGJ2BuLBIBqMjkBOLLGDUg7mxyAZGe2ACi6xg1KC43Fj0bHDD4r5/7n3L9sxDdwRzo2XwGZATLYFHIC40DWYADjQFVgar6GGwOhApa1BgBdti15EO3RUVOF2B0xU4XYHTFTjdzcDLugFwsZT+1bcZXgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="FuzzySelector, Image" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1102, 505, 40, 30" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia automationid='PopupCalendarButton' cls='Button' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PopupCalendarButton' cls='Button' role='button' check:fulltext='' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACwAAAAiCAYAAAAkjjtxAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEdSURBVFhH7ZYxCsIwFEA9lQi9gwjeQcQrKN5A8RzqrM51s2PddNKpW7eOkVeIhBJsGokhmA8P2v789PGbkPb6g0SERBR2TRR2TRR2zX8JH44n8Xg8O0GNbi5TrIWLohBVVYlLlok0PRvBWGqo1c1pgpUwXeLFw9FYm/8ENdTadtpKmE9Lt3Q5E6hlDl2uDWvhb+Pnwnl+Fav1xgpqfy7MJtLlTKDWqzAbab5Yvu8n01mNvCenblDvwmVZ1utyu9vXojK45hnBGDk+CrfRFA5uSbDzOQikFF0FmW/iXZiTi0CabspQu67iXfh2u9fSdJous15BXQYqXoSDOpqD+/mBoH4vJXSJT9sF285KvhL2QRR2TRR2TRR2TWDCiXgBI0X5ON+oA9wAAAAASUVORK5CYII=" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f052c67eb0a534aa424f09325d3392bf.png" xmlns="">0dEpscl10lESwvCCf8-Xf9Q</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

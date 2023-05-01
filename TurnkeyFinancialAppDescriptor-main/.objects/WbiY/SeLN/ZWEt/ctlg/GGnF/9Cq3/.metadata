@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9Cq3Y8-0xUGLwj1mCipl9Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9Cq3Y8-0xUGLwj1mCipl9Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GGnFGmRsp0iIICf5Z9zTrg",
+  "Name": "Maintenance (GL)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T10:38:28.6815681Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T10:38:28.6815681Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

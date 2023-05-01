@@ -1,0 +1,16 @@
+﻿{
+  "Id": "HCzpl5yRcE-oFJMSIqeOXw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/HCzpl5yRcE-oFJMSIqeOXw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/aboGFkXRdkWXUmxbm0nphA",
+  "Name": "Unit Cost Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-25T07:12:12.6317265Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T07:12:50.1613644Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

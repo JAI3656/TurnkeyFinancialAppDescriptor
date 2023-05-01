@@ -1,0 +1,17 @@
+﻿{
+  "Id": "O03-4_9ZA0ai9jQNGYTVEg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/O03-4_9ZA0ai9jQNGYTVEg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/7Gr8BEig3E295Jipf9VdhA",
+  "Name": "Yard",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T14:21:08.0962893Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T14:21:08.0962893Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

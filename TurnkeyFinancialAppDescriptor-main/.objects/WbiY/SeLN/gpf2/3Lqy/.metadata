@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3LqyqEtpqkitiT57c7wa6w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3LqyqEtpqkitiT57c7wa6w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/gpf2NPrJzkS65nRLCgLUEQ",
+  "Name": "Click on the Qty Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-20T00:47:52.4231203Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-27T08:17:19.8605961Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

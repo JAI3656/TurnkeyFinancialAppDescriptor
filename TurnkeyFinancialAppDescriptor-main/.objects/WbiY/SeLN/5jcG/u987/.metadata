@@ -1,0 +1,16 @@
+﻿{
+  "Id": "u987fOJJ50ebju8TlyeQlw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/u987fOJJ50ebju8TlyeQlw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/5jcGw0PswE-9NUyjfuBbqw",
+  "Name": "Enter Carcass Grades - 3A",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-03-29T10:30:07.2503612Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-29T10:31:19.0480024Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

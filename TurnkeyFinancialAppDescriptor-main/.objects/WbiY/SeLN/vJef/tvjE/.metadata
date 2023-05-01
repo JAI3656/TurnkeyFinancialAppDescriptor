@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tvjE_NaiZk-zaxJ_gF3Yzw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/tvjE_NaiZk-zaxJ_gF3Yzw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/vJefoR5rEUSWFtAc1UkBBg",
+  "Name": "Enter Factor/Weight into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-03T06:24:54.8875681Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-03T06:25:34.9722684Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "SUgd9tCXDEqHg2YjkeWpvA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/SUgd9tCXDEqHg2YjkeWpvA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Close Add Feed Inventory Master",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-19T20:15:04.9001886Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T20:15:04.9001886Z"
+}

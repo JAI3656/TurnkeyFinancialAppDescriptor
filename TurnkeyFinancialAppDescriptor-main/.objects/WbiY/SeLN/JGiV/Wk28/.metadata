@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Wk28M71rDkCWWJeJEWo0wQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Wk28M71rDkCWWJeJEWo0wQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/JGiVMibPgEqDd1fi1C8-rQ",
+  "Name": "PencilIcon/Background Codes",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-27T06:02:56.2289807Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-27T06:04:36.9070571Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

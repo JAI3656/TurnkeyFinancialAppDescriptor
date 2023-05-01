@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BwUe5_3ynE-0mw2WZg79OA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BwUe5_3ynE-0mw2WZg79OA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Capital(Livestock)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-19T11:40:49.6920689Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:41:19.464164Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

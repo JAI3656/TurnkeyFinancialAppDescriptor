@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RsGQhmn0P0CSsEsAL3RIjQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/RsGQhmn0P0CSsEsAL3RIjQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/cdw5lPv9TkicCzwS7VPUVg",
+  "Name": "Enter Cost Option",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-08T06:54:42.4702603Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T06:55:21.8858261Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

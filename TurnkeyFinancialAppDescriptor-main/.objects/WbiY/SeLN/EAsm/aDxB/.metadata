@@ -1,0 +1,13 @@
+﻿{
+  "Id": "aDxBdNM_-0-u5sH_skNG1w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/aDxBdNM_-0-u5sH_skNG1w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/EAsmSqZLGUyLkQGxq4d4Ew",
+  "Name": "Equals/Or dropdown",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-04-25T11:51:38.9538041Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-04-25T11:51:38.9538041Z"
+}

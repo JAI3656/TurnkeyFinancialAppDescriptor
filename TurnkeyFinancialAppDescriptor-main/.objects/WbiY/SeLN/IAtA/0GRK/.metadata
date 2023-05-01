@@ -1,0 +1,13 @@
+﻿{
+  "Id": "0GRKQpyJbUqMG3khtVLEKw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/0GRKQpyJbUqMG3khtVLEKw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/IAtA91cwZEKcixUhKzyGqQ",
+  "Name": "Enter Dates",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-01-25T10:22:08.0212476Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-25T10:22:08.0212476Z"
+}

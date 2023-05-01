@@ -1,0 +1,16 @@
+﻿{
+  "Id": "up3qxUOP40O8ssxZqH9otw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/up3qxUOP40O8ssxZqH9otw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
+  "Name": "SuppressOwnerTotalsOnNotesHistoryAnalysisToggle",
+  "Type": "Element",
+  "TaxonomyType": "Toggle",
+  "Created": "2022-12-19T11:58:28.1950575Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-19T11:59:44.7330919Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
