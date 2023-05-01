@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JAMmQdK3Skenqf62_-Vw_g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/JAMmQdK3Skenqf62_-Vw_g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BxShwhW5pUiqBUW5UoUW5Q",
+  "Name": "Equity Head Unhedged Value Validation Message",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-01T10:48:52.9707388Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-01T10:49:52.4009146Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
