@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LQ2_6ERO7kWn4zC1mKe99Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LQ2_6ERO7kWn4zC1mKe99Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Click x icon of CapitalizationCode",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:56:10.2266075Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T13:03:42.1011438Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

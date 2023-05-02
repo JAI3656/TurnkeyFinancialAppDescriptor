@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Z3ZoDovp2UCJMy0DHGx0cQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Z3ZoDovp2UCJMy0DHGx0cQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BxShwhW5pUiqBUW5UoUW5Q",
+  "Name": "Equity Head Hedged minm value validationpopup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:30:14.8254965Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:30:50.3971706Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

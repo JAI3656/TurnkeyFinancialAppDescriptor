@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BXQ06D5D2UqYlgh2PQf-sQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Lot" CvType="Text" DesignTimeRectangle="553, 210, 24, 22" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Lot'" FullSelectorArgument="&lt;uia cls='TextBlock' name='Lot' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='Lot' role='text' automationid='' check:fulltext='Lot' /&gt;" Guid="c8d08179-4f64-40f9-8f84-a488cb1bcc9b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAYAAACkVDyJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADwSURBVEhLY1BS0fhPTzxqIdXxqIVUxyPMQvarG/8z/L/0X7QqG0URNTFNLORdO/k/88uDWOVoYiHMHGxyJFkoZ28Ldz1IHdOXk/+5Diz8LxXuD5YH6QOJo2NkM0iykPXeTrA8x6mVYItBloH4IAeAHAOyGNlBIDYII5tBtIVCneVwy5DFQQaCxPkWd8PFqBKkMIPR5WDBiOyToWmhwPRGsBwo3pDFYQ4BycPESLYQZCjIIBiGOQBXogGJYzMHpA49zrFaiI5BhoPkQSkRZAkoO4DEYdkCJI5sjnhWHDylohcAKBbSA49aSHU83C3U+A8AcWaSU5w9vswAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="725e5c88a1dcb035d9fe3eeb1477d13f.png" xmlns="">0OKCX0UUHGkuZz9bi3oyUVA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

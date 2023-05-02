@@ -1,0 +1,16 @@
+﻿{
+  "Id": "F1aCMtUZtEu3CKkbg1oMAw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/F1aCMtUZtEu3CKkbg1oMAw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Click x icon of ExpenseRateCode",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T13:11:55.1248405Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T13:13:07.5631455Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "J8rtZQ-gL0ORnN8r2Uqw6Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/J8rtZQ-gL0ORnN8r2Uqw6Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/3eEWgcIDS0CsOHwWiK345A",
+  "Name": "Credit Limit maxm value validation",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:34:07.8194016Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:34:35.6305331Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

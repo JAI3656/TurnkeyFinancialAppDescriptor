@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NLCgrrV-PUGj6Ch5xTrRfQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/NLCgrrV-PUGj6Ch5xTrRfQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "CreditLimit maximum value validation popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:23:43.5985589Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:24:25.4074596Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

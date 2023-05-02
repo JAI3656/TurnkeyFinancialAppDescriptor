@@ -1,0 +1,16 @@
+﻿{
+  "Id": "lljHhr98QkW2_ygIkBLuxA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/lljHhr98QkW2_ygIkBLuxA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BxShwhW5pUiqBUW5UoUW5Q",
+  "Name": "Equity Head UnHedged minm value validationpopup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:31:23.4501862Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:31:47.502646Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

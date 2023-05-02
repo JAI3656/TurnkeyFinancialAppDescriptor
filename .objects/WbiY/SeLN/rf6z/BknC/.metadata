@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BknC2i8IREG9UvHdm_qJDw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/BknC2i8IREG9UvHdm_qJDw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Click x icon of CreditLimit",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:46:11.2136205Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:47:02.2586802Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

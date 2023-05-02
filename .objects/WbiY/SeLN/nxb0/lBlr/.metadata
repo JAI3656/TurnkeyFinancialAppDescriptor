@@ -1,0 +1,16 @@
+﻿{
+  "Id": "lBlr92IJY0Kzc7icmkYsoQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/lBlr92IJY0Kzc7icmkYsoQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Amount Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T11:42:39.7710482Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T11:42:56.3280475Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

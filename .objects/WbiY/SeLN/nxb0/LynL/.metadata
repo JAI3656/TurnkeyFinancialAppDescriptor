@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LynLka6CN0unRJlnFMQb9Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LynLka6CN0unRJlnFMQb9Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Yard Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T11:36:00.3244669Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T11:36:29.175752Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

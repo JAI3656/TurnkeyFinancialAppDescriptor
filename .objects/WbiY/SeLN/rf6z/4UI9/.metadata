@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4UI9pqbEw02CauoXbkOsjw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/4UI9pqbEw02CauoXbkOsjw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Credit limit minimum value validation popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:21:33.0055276Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:22:11.1270049Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

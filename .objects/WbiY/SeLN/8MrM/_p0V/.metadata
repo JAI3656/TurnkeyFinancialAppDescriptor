@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_p0VgvtK-0qctTNdG-P4dg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_p0VgvtK-0qctTNdG-P4dg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "GracePeriodExpense minm value validationpopup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:29:02.7344269Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:29:47.2889672Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

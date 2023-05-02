@@ -1,0 +1,16 @@
+﻿{
+  "Id": "QH48E7KRFkuJGE3zKHm9tA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/QH48E7KRFkuJGE3zKHm9tA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Date Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T11:41:14.2382117Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T11:41:31.3918159Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

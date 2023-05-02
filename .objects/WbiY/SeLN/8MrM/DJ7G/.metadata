@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DJ7G_WXEDEqFjEKVgyYkug",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DJ7G_WXEDEqFjEKVgyYkug",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Click x icon of Interest Receivable Livestock",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T13:24:41.7713663Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T13:25:55.4333553Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6vpvrNmTi0iUrBmGSnKhOQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6vpvrNmTi0iUrBmGSnKhOQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
+  "Name": "Click x icon of AlphaAbbrev",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T13:09:03.9711321Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T13:11:37.5407273Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

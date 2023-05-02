@@ -1,0 +1,16 @@
+﻿{
+  "Id": "a5S2x10DUUWSSV3GrGksqQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/a5S2x10DUUWSSV3GrGksqQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "FreeInterestDays Minimum value validation popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:25:15.1661516Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:26:01.6593483Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

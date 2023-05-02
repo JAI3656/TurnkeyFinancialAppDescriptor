@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eoIiKdGc7UqdTbxT7yD0dQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="CloseButton" DesignTimeRectangle="1555, 418, 19, 32" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='lblExpense' cls='TextBlock' name='Expense' /&gt;&lt;nav up='1' /&gt;&lt;uia automationid='DeleteButton' cls='Button' idx='2' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='DeleteButton' cls='Button' role='button' check:fulltext='' /&gt;" Guid="c2a66b98-d058-4884-82b6-810e8fcf13ec" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAAkCAYAAABixKGjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEjSURBVEhL7dbRSsJQHMfx3sKboYV4EcMURR2uOVvtJiiCLsTsQao7Zd13I1QPob3anuAnv2DYDmc7JzxHbxS+iP63z3Yz9j/pez5sZRcfRzF2KR5dY9Yd475zaR7Pej+P8NYYYWADn3k3+D6LMGkH5vHbMP7Fk0ZoHmfEv06v7OHsiOc6HD6ZPmO+SHIniHHO42SzUpwnpmlaeAHVvBRnRYAKZkqciZAOzLRwloGr9Y8WzLRxRpgffsvmYoe/8wzOQPF3UUq8CNK5QCmuAlTzUtzqE7prR1zaHnCLL+jPmsXVYuls1zpjOJeipRMgqQ7N4UEYwRsGuHP7+KgM8HTx587dZgsmenV6eKn7+UVUduB/6jU7eHQ9PLQlK7T4h8ks4j42Y4jtHDOj708AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5408dd5d2b617f3df7c5cf7505479ae1.png" xmlns="">0L9lRprGppk2z2qpUuNpg1g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IiA5Rv57O0GLHjgX27EYIw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Credit Limit is greater than the maximum value of 99,9999,999." CvType="Text" DesignTimeRectangle="31, 116, 404, 17" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Credit Limit'" Guid="f770446e-bb9d-49fb-9442-c5c1d50f6c85" ScopeSelectorArgument="&lt;wnd app='turnkeynet.ui.universal.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Validation Failed' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="90962542a7b686cbb707f658f128c3b0.png" xmlns="">0cfSBswl0nUySc5BCdapxxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

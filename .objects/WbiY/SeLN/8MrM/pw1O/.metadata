@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pw1OtL1znUilPyXd-eKV8w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pw1OtL1znUilPyXd-eKV8w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Click x icon of InterestIncome Livestock",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T13:18:40.2985363Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T13:21:03.8943715Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

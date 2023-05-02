@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DLvUOFM73kmmYhK2r7gwGQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DLvUOFM73kmmYhK2r7gwGQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "GracePeriod livestock minm value validationpopup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T12:27:50.0692879Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T12:28:44.8763432Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
