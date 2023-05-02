@@ -5,7 +5,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1197,1234</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>598,1276</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Navigate_Using_Search_Bar_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -89,31 +89,31 @@
       <AssemblyReference>ReporterForUiPath</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Navigate_Using_Search_Bar" sap:VirtualizedContainerService.HintSize="608,1169" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Navigate_Using_Search_Bar" sap:VirtualizedContainerService.HintSize="608,1211" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="546,1058" sap2010:WorkflowViewState.IdRef="Sequence_3">
+    <Sequence sap:VirtualizedContainerService.HintSize="546,1100" sap2010:WorkflowViewState.IdRef="Sequence_3">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="484,947" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="17d94535-0453-43b6-8883-20ef014810a8" Version="V2">
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="484,989" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="17d94535-0453-43b6-8883-20ef014810a8" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
               <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
             </ActivityAction.Argument>
-            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,657" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,659" sap2010:WorkflowViewState.IdRef="Sequence_2">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
-              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Enter Module Name in Search Bar" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="388,217" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="17d94535-0453-43b6-8883-20ef014810a8" Text="[moduleName]" Version="V3">
+              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Enter Module Name in Search Bar" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="388,217" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="17d94535-0453-43b6-8883-20ef014810a8" Text="[moduleName + &quot;[k(Enter)]&quot;]" Version="V3">
                 <uix:NTypeInto.Target>
                   <uix:TargetAnchorable ContentHash="xRH4M1sAz0WGMSKorzz3rQ" CvTextArgument="Search" CvType="Text" DesignTimeRectangle="56, 114, 167, 28" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'Enter text in Search Bar'" FullSelectorArgument="&lt;uia automationid='searchMenuOptionsBox' cls='TextBox' name='Search' /&gt;" FuzzySelectorArgument="&lt;uia automationid='searchMenuOptionsBox' cls='TextBox' name='Search' role='edit' /&gt;" Guid="beb2e94c-9a67-42a3-a1e4-ee8c2fc9c9d3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAKsAAAAgCAYAAABtn4gCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKdSURBVHhe7ZxBa9RAGIb9LSJ2S3dXtrpb255E6EkKXkQ8SOmhghSRllJRaUsPlVIVD9q/G3kDb/ky+TbbnU02E3gPD0lmJpOFffLOZJfJg4ePepkQXUCyis5QknVldZCN1ifZs8lWNnm+LcRSgXfw73GvX/ASFGRdG4zcDoRoA/ho/byTFYnqnSBEa2xsFxL2TlZEr3uCEC3yZDQuyzre0BxVpMfT8WZZVq+hECkgWUVnqEXWFy933HIh6iRaVgh6fnGZ/fr9J7v6cZ1d3/zMt2/evnPbC7EoUbJCVMh5dHxSKH+/t5+XH3z4WCgXog6iZEWihqKSV7uv87SNnRrg3L//bnOQ1F6bJjj89Dm/2bw6kQZRskIor5x8+36Wf/leXRWQE7J7dU0jWdNnblmRmLMS7/TL1xyvrgoktle+DCRr+swtK8C81CsnEHXaNKGKWTcBpwfAigXRbJ1NZ9wA+Dwo5w3EY8BRgrKyHEjetIiSddZTPwSIHc4hiZfKYZ9WbCsV2tg67Nv+sO/1T+F5DWxnTXfEcomSFaIiXb2HKCTZosM5k4/HkBEy2TZeGbHXD4Wblt7oK+yvzWmJKBMlK8DPUxABD1NMKxzjC8a2jt9bKRpTL8TKFdax3AqHtPRSFaCvcNiXrGkRLStAsuJLhgCYo3IIhah1CEtZIFEoEsE1rZzApmco3DQBJWv6LCRrFfMKC+lCWZis4T7hOTYtmcI89mS1icwbTLKmT2OyAgp73z8IkIjeUE5sHaBokIpl2K9KVmCvw7aSNX0alRXE/pMlREjjsgpRF5JVdIaSrFrWIlLEXdaiBYMiRdwFg1qKLVJkZdVZig36w3X3BCHaoD+c8pILotcHiTbh64PgYehmSVYhUkWyio7Qy/4DgNU9umDFCQ8AAAAASUVORK5CYII=" InformativeScreenshot="6623fbbe14f75376bb93b75040858a43.png" Reference="ny0UH-ena0uArefx6sxT_w/j3gflH2ssEOVUObL8DjDzA" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
                 </uix:NTypeInto.Target>

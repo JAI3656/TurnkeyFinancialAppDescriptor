@@ -1,0 +1,13 @@
+﻿{
+  "Id": "lduEJuwfEU69UvgGbzpiew",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/lduEJuwfEU69UvgGbzpiew",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Click on Save button",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-05-02T11:28:20.3203961Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T11:28:20.3203961Z"
+}
