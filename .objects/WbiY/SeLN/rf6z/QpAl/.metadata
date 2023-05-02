@@ -2,12 +2,15 @@
   "Id": "QpAlFfGIxkyErubkltxq7g",
   "Reference": "ny0UH-ena0uArefx6sxT_w/QpAlFfGIxkyErubkltxq7g",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
-  "Name": "Expense Rate Code",
+  "Name": "Enter Expense Rate Code",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T22:26:56.9441418Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T22:26:56.9441418Z"
+  "Updated": "2023-05-02T06:16:41.6062899Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

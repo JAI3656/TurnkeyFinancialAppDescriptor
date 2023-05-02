@@ -2,12 +2,15 @@
   "Id": "3FGXzuQYEE-n8MJLUvC2ag",
   "Reference": "ny0UH-ena0uArefx6sxT_w/3FGXzuQYEE-n8MJLUvC2ag",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
-  "Name": "Clear Filter",
+  "Name": "Click Clear Filter on Filter",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2023-05-01T08:39:10.9619422Z",
   "CreatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-05-01T08:39:10.9619422Z"
+  "Updated": "2023-05-02T05:42:28.9726683Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

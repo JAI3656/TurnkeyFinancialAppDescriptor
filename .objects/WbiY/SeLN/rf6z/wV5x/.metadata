@@ -2,15 +2,16 @@
   "Id": "wV5xapwR0keLo2t3DQVfaw",
   "Reference": "ny0UH-ena0uArefx6sxT_w/wV5xapwR0keLo2t3DQVfaw",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
-  "Name": "Closing Date",
+  "Name": "Enter the date in Closing Date",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T22:29:36.2974906Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T22:30:06.7986734Z",
+  "Updated": "2023-05-02T06:02:37.9542457Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

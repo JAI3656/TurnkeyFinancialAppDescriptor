@@ -2,14 +2,14 @@
   "Id": "d3THJR7UMkW2H1kRlrq0rA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/d3THJR7UMkW2H1kRlrq0rA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
-  "Name": "Select All",
+  "Name": "Click Select All Checkbox",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2023-05-01T08:40:51.6037647Z",
   "CreatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-05-01T08:41:27.6202115Z",
+  "Updated": "2023-05-02T05:44:01.2487359Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]

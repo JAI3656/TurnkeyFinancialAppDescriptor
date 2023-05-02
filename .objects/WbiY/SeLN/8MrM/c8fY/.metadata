@@ -2,12 +2,15 @@
   "Id": "c8fYVN2lMU-tw0xz-XB2Eg",
   "Reference": "ny0UH-ena0uArefx6sxT_w/c8fYVN2lMU-tw0xz-XB2Eg",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
-  "Name": "Interest Receivable (Expense)",
+  "Name": "Enter Interest Receivable (Expense)",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T22:13:14.5505973Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T22:13:14.5505973Z"
+  "Updated": "2023-05-02T06:22:46.4520417Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

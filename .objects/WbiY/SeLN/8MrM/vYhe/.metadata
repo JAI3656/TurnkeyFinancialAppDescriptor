@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vYheM0wSMk2YIL2S9fg5fg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/vYheM0wSMk2YIL2S9fg5fg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
+  "Name": "Livestock and Expense Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T06:24:21.328421Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T06:24:50.7614245Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

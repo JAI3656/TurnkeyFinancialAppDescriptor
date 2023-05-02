@@ -2,12 +2,15 @@
   "Id": "_zcHM5C6EkWAid39QrU7aw",
   "Reference": "ny0UH-ena0uArefx6sxT_w/_zcHM5C6EkWAid39QrU7aw",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/BxShwhW5pUiqBUW5UoUW5Q",
-  "Name": "Equity/Head Hedged",
+  "Name": "Enter Equity/Head Hedged",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T22:03:56.5768482Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T22:03:56.5768482Z"
+  "Updated": "2023-05-02T06:14:07.460825Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

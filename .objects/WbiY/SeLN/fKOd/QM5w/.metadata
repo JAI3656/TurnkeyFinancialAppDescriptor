@@ -2,14 +2,14 @@
   "Id": "QM5w_-FBz0CmMKcY-u7COg",
   "Reference": "ny0UH-ena0uArefx6sxT_w/QM5w_-FBz0CmMKcY-u7COg",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/fKOdsepe7kGoq1xOQd2AMQ",
-  "Name": "Equals/OR Combobox2",
+  "Name": "Select Equals/OR Combobox2 on TextFilter",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2023-05-01T08:52:30.0140579Z",
   "CreatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-05-01T08:53:41.7858891Z",
+  "Updated": "2023-05-02T05:51:00.6329009Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]

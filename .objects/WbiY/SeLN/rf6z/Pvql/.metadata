@@ -2,14 +2,14 @@
   "Id": "PvqloNRULEKnrmOj3Lp_EQ",
   "Reference": "ny0UH-ena0uArefx6sxT_w/PvqloNRULEKnrmOj3Lp_EQ",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
-  "Name": "Previous button",
+  "Name": "Click Previous button",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2023-05-01T09:27:13.4928157Z",
   "CreatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-05-01T09:27:34.3595169Z",
+  "Updated": "2023-05-02T06:18:22.8361793Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]

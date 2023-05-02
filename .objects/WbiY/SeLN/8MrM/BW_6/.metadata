@@ -2,12 +2,15 @@
   "Id": "BW_6lbfFwUCblB8dnm1K6A",
   "Reference": "ny0UH-ena0uArefx6sxT_w/BW_6lbfFwUCblB8dnm1K6A",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
-  "Name": "Interest Receivable (Livestock)",
+  "Name": "Enter Interest Receivable (Livestock)",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T22:13:14.4941675Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T22:13:14.4941675Z"
+  "Updated": "2023-05-02T06:23:06.6107625Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }
