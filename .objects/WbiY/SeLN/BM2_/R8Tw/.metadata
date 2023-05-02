@@ -1,0 +1,13 @@
+﻿{
+  "Id": "R8Tw7QS16UiJgWqgStPWSQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/R8Tw7QS16UiJgWqgStPWSQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Select Text Filter on Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T07:03:04.1671905Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T07:03:04.1671905Z"
+}

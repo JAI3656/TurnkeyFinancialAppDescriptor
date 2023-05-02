@@ -1,0 +1,13 @@
+﻿{
+  "Id": "xY4-L_iadEWy4piuqHMeGw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/xY4-L_iadEWy4piuqHMeGw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Select Sort A to Z",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T07:00:47.1526169Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T07:00:47.1526169Z"
+}

@@ -2,15 +2,16 @@
   "Id": "wUO4U85pSUCQv0J67G4o2A",
   "Reference": "ny0UH-ena0uArefx6sxT_w/wUO4U85pSUCQv0J67G4o2A",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
-  "Name": "FilterGLAccount",
+  "Name": "Click on GLAccount Filter",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T14:59:52.5378506Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T15:00:26.4251716Z",
+  "Updated": "2023-05-02T06:43:37.3305873Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

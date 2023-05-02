@@ -1,0 +1,13 @@
+﻿{
+  "Id": "3NKKNX68eU-ha5jQbkooPA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3NKKNX68eU-ha5jQbkooPA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Select Number Filter2 on NumberFilter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T06:59:35.5477568Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T06:59:35.5477568Z"
+}

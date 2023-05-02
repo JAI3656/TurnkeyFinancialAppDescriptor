@@ -1,0 +1,13 @@
+﻿{
+  "Id": "s7flHRk2IEiLOcTuaCyTNA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/s7flHRk2IEiLOcTuaCyTNA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Click Cancel button on Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T06:55:08.8387389Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T06:55:08.8387389Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "8YwZTV16bE2zvt5L5QBPWw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/8YwZTV16bE2zvt5L5QBPWw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Enter the data to be search on Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T06:58:07.9393128Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T06:58:07.9393128Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "1A4PrEqyA0CQMyte5f6NFQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1A4PrEqyA0CQMyte5f6NFQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Select TextFilter2 on TextFilter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T07:03:55.9823653Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T07:03:55.9823653Z"
+}

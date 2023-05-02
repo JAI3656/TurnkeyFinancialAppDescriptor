@@ -1,0 +1,16 @@
+﻿{
+  "Id": "v2CzfpQ7-EOGDk-272GVmQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/v2CzfpQ7-EOGDk-272GVmQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "GLAccount Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T06:49:32.4171989Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T06:50:37.4742836Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

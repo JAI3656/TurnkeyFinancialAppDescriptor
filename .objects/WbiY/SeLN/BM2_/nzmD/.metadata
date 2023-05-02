@@ -2,15 +2,16 @@
   "Id": "nzmDvVDt4UWXBFQA_6iAkQ",
   "Reference": "ny0UH-ena0uArefx6sxT_w/nzmDvVDt4UWXBFQA_6iAkQ",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
-  "Name": "FilterDescription",
+  "Name": "Click Description Filter",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T15:00:33.8777906Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T15:01:10.7038495Z",
+  "Updated": "2023-05-02T06:48:00.1962143Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

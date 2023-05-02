@@ -1,0 +1,13 @@
+﻿{
+  "Id": "0LK0oMqjzUaesvSa2E68dw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/0LK0oMqjzUaesvSa2E68dw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Click AND radiobutton on Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T06:54:45.3754064Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T06:54:45.3754064Z"
+}

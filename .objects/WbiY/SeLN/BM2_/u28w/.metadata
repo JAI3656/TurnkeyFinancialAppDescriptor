@@ -1,0 +1,16 @@
+﻿{
+  "Id": "u28wiGrRaUWX0krBXWtD2A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/u28wiGrRaUWX0krBXWtD2A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BM2_3IsxAkS1CMBJpl4upQ",
+  "Name": "Datagrid HEADER",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T06:53:31.9433609Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T06:53:52.9283301Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
