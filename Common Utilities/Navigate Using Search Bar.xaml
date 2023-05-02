@@ -1,0 +1,137 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Navigate_Using_Search_Bar" this:Navigate_Using_Search_Bar.moduleName="Notes" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:cr="clr-namespace:CommonUtilityLibrary.ReportUtil;assembly=CommonUtilityLibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:this="clr-namespace:" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="moduleName" Type="InArgument(x:String)" />
+  </x:Members>
+  <mva:VisualBasic.Settings>
+    <x:Null />
+  </mva:VisualBasic.Settings>
+  <sap:VirtualizedContainerService.HintSize>1197,1234</sap:VirtualizedContainerService.HintSize>
+  <sap2010:WorkflowViewState.IdRef>Navigate_Using_Search_Bar_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Runtime.InteropServices</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>CommonUtilityLibrary.ReportUtil</x:String>
+      <x:String>ReporterForUiPath.Enums</x:String>
+      <x:String>ReporterForUiPath.Activities</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>ReporterForUiPath.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>UiPath.Mail</AssemblyReference>
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>CommonUtilityLibrary</AssemblyReference>
+      <AssemblyReference>ReporterForUiPath</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Navigate_Using_Search_Bar" sap:VirtualizedContainerService.HintSize="608,1169" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence sap:VirtualizedContainerService.HintSize="546,1058" sap2010:WorkflowViewState.IdRef="Sequence_3">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="484,947" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="17d94535-0453-43b6-8883-20ef014810a8" Version="V2">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,657" sap2010:WorkflowViewState.IdRef="Sequence_2">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Enter Module Name in Search Bar" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="388,217" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="17d94535-0453-43b6-8883-20ef014810a8" Text="[moduleName]" Version="V3">
+                <uix:NTypeInto.Target>
+                  <uix:TargetAnchorable ContentHash="xRH4M1sAz0WGMSKorzz3rQ" CvTextArgument="Search" CvType="Text" DesignTimeRectangle="56, 114, 167, 28" DesignTimeScaleFactor="1" ElementType="InputBox" FriendlyName="'Enter text in Search Bar'" FullSelectorArgument="&lt;uia automationid='searchMenuOptionsBox' cls='TextBox' name='Search' /&gt;" FuzzySelectorArgument="&lt;uia automationid='searchMenuOptionsBox' cls='TextBox' name='Search' role='edit' /&gt;" Guid="beb2e94c-9a67-42a3-a1e4-ee8c2fc9c9d3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAKsAAAAgCAYAAABtn4gCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKdSURBVHhe7ZxBa9RAGIb9LSJ2S3dXtrpb255E6EkKXkQ8SOmhghSRllJRaUsPlVIVD9q/G3kDb/ky+TbbnU02E3gPD0lmJpOFffLOZJfJg4ePepkQXUCyis5QknVldZCN1ifZs8lWNnm+LcRSgXfw73GvX/ASFGRdG4zcDoRoA/ho/byTFYnqnSBEa2xsFxL2TlZEr3uCEC3yZDQuyzre0BxVpMfT8WZZVq+hECkgWUVnqEXWFy933HIh6iRaVgh6fnGZ/fr9J7v6cZ1d3/zMt2/evnPbC7EoUbJCVMh5dHxSKH+/t5+XH3z4WCgXog6iZEWihqKSV7uv87SNnRrg3L//bnOQ1F6bJjj89Dm/2bw6kQZRskIor5x8+36Wf/leXRWQE7J7dU0jWdNnblmRmLMS7/TL1xyvrgoktle+DCRr+swtK8C81CsnEHXaNKGKWTcBpwfAigXRbJ1NZ9wA+Dwo5w3EY8BRgrKyHEjetIiSddZTPwSIHc4hiZfKYZ9WbCsV2tg67Nv+sO/1T+F5DWxnTXfEcomSFaIiXb2HKCTZosM5k4/HkBEy2TZeGbHXD4Wblt7oK+yvzWmJKBMlK8DPUxABD1NMKxzjC8a2jt9bKRpTL8TKFdax3AqHtPRSFaCvcNiXrGkRLStAsuJLhgCYo3IIhah1CEtZIFEoEsE1rZzApmco3DQBJWv6LCRrFfMKC+lCWZis4T7hOTYtmcI89mS1icwbTLKmT2OyAgp73z8IkIjeUE5sHaBokIpl2K9KVmCvw7aSNX0alRXE/pMlREjjsgpRF5JVdIaSrFrWIlLEXdaiBYMiRdwFg1qKLVJkZdVZig36w3X3BCHaoD+c8pILotcHiTbh64PgYehmSVYhUkWyio7Qy/4DgNU9umDFCQ8AAAAASUVORK5CYII=" InformativeScreenshot="6623fbbe14f75376bb93b75040858a43.png" Reference="ny0UH-ena0uArefx6sxT_w/j3gflH2ssEOVUObL8DjDzA" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+                </uix:NTypeInto.Target>
+              </uix:NTypeInto>
+              <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="388,25" sap2010:WorkflowViewState.IdRef="StepStatusPass_1" In_Description="Enter Module Name in Search Bar" In_StepName="Step" />
+              <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click on Module Name" sap:VirtualizedContainerService.HintSize="388,157" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="17d94535-0453-43b6-8883-20ef014810a8" Version="V3">
+                <uix:NClick.Target>
+                  <uix:TargetAnchorable CvTextArgument="Notes" CvType="Text" DesignTimeRectangle="267, 178, 211, 16" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Notes'" FullSelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' /&gt;&quot;, moduleName)]" FuzzySelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' role='text' automationid='' check:fulltext='{0}' /&gt;&quot;, moduleName)]" Guid="c9ea1f3c-0108-4c21-8eb7-c2742abdb7df" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE5SURBVHhe7djBbcJAEIXh1IByoh9ySS1Eog9QukC0ACWQEqAGt2D0kB6aXWOjRMyBzX/4JDzMwunXIt5m7/MewPMRF5CEuIAkxAUkIS4gCXEBSYq4Tqdzv98fioXFx+d1HmcAHhvE1XVdv/xa3Wa/iet4/CnOAv/ZIK715ruIibiAvxnEpZj003C73V1ndVyKR7ebKUbNFZZn3tfZuKtnzXXGM53zZwMtuRuXXjuGGJdj8Y73fFvVN5fe82udcUhxDrRqNC7dLoohxqVZ/YeHbjjfcjGu+oYz7/kzgVaNxiWO5VFc8adhjEvPcTfS9yi2qR3glU3G5bAcl4OIO/FZ4Tk0v+fYxvg2A1ozGZcoGMclikVBWIxHYWnm/XrXt16cxRiBlhRxAXge4gKSEBeQhLiAJMQFpJj3F2/E28H0G3SmAAAAAElFTkSuQmCC" InformativeScreenshot="94328b3dc4df1fcb56c83506c8bf3fb4.png" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+                </uix:NClick.Target>
+              </uix:NClick>
+              <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="388,25" sap2010:WorkflowViewState.IdRef="StepStatusPass_2" In_Description="Click on Module Name" In_StepName="Step" />
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="0, 0, 0, 0" ContentHash="QRCJsZTNW02aCIRtgqX-gw" FilePath="TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App" InformativeScreenshot="ce29d8d0f24aee5212793bef253e3a8e.png" Reference="ny0UH-ena0uArefx6sxT_w/ZWEtHDHy_06aytITdB2i3g" Selector="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" Title="Turnkey Financial" />
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+    </Sequence>
+  </Sequence>
+</Activity>
