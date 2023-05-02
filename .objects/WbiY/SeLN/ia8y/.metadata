@@ -1,0 +1,15 @@
+﻿{
+  "Id": "ia8yXo7wMEi6bEOXxhG9BA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ia8yXo7wMEi6bEOXxhG9BA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "ValidationFailed/GenerateOption",
+  "Type": "Screen",
+  "Created": "2023-05-02T10:05:28.4821339Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T10:05:45.5262618Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ZdAM_Jp57k6U3anXMfsFyw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ZdAM_Jp57k6U3anXMfsFyw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/0jFRsFwznUCwAe5CtU42uQ",
+  "Name": "Please Enter Account Number",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T09:23:22.8313371Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T09:23:46.2020877Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

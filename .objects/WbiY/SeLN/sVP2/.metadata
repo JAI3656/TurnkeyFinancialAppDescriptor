@@ -1,0 +1,15 @@
+﻿{
+  "Id": "sVP2U_3Kr0Wp-fiwBdoZ1Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/sVP2U_3Kr0Wp-fiwBdoZ1Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Save Failed/Add ChartofAccount",
+  "Type": "Screen",
+  "Created": "2023-05-02T09:47:42.181504Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T09:48:05.9841791Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "QsjnpAItnEmahVT7tjROSA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/QsjnpAItnEmahVT7tjROSA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/A7IasH42lkSViuJsbDdvuA",
+  "Name": "Budget and Balance Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T10:04:32.7163801Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T10:04:56.3408364Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

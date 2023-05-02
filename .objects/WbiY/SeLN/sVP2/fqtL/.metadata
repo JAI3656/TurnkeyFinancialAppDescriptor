@@ -1,0 +1,16 @@
+﻿{
+  "Id": "fqtL5OMuEkaEAk8XD0yqDA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fqtL5OMuEkaEAk8XD0yqDA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/sVP2U_3Kr0Wp-fiwBdoZ1Q",
+  "Name": "Please Enter Account Number",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-02T09:48:22.5197203Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-02T09:48:45.2921964Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

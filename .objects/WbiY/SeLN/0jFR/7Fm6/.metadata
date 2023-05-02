@@ -2,12 +2,15 @@
   "Id": "7Fm6jDEopUGK3VRyzYJXig",
   "Reference": "ny0UH-ena0uArefx6sxT_w/7Fm6jDEopUGK3VRyzYJXig",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/0jFRsFwznUCwAe5CtU42uQ",
-  "Name": "Financial Description",
+  "Name": "Enter Financial Description",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T15:29:52.8269689Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T15:29:52.8269689Z"
+  "Updated": "2023-05-02T09:46:33.4541809Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }
