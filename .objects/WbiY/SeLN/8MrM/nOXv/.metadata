@@ -2,14 +2,14 @@
   "Id": "nOXvzrLlDUa1HKYBso6LWA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/nOXvzrLlDUa1HKYBso6LWA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/8MrMMU0Xakqw1hGWGX-qmw",
-  "Name": "Enter Free Interest Days(Livestock)",
+  "Name": "Enter Free Interest Days(Expense)",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T22:13:14.6144289Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-05-02T06:19:50.6999365Z",
+  "Updated": "2023-05-03T12:23:27.1595906Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]

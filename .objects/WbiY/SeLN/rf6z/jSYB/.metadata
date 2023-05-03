@@ -1,15 +1,15 @@
 ﻿{
-  "Id": "BknC2i8IREG9UvHdm_qJDw",
-  "Reference": "ny0UH-ena0uArefx6sxT_w/BknC2i8IREG9UvHdm_qJDw",
+  "Id": "jSYBe6foY0qmIpVoLdYhZA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/jSYBe6foY0qmIpVoLdYhZA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/rf6zYI3ExkaOUI21DdsFzQ",
-  "Name": "Click x icon of CreditLimit",
+  "Name": "Drop Down List View Item",
   "Type": "Element",
   "TaxonomyType": "Element",
-  "Created": "2023-05-02T12:46:11.2136205Z",
+  "Created": "2023-05-03T11:49:23.2874537Z",
   "CreatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-05-03T11:28:19.1855475Z",
+  "Updated": "2023-05-03T11:51:39.9651226Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
