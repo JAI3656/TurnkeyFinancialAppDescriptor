@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Wx1st5HUyEikHuPi61CvoA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Wx1st5HUyEikHuPi61CvoA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/0jFRsFwznUCwAe5CtU42uQ",
+  "Name": "Click x icon of AccountNumber",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-03T05:04:35.2920692Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T05:05:16.7024767Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

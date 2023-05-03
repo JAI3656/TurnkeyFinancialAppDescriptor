@@ -1,0 +1,16 @@
+﻿{
+  "Id": "33df-dvGsE2kCqqf8g8CuQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/33df-dvGsE2kCqqf8g8CuQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/0jFRsFwznUCwAe5CtU42uQ",
+  "Name": "Click x icon of Financial Description",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-03T05:05:27.1010742Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T05:06:14.4178708Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

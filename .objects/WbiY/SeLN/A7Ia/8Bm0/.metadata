@@ -1,0 +1,16 @@
+﻿{
+  "Id": "8Bm08WJs_0-31_0ruAk0Ww",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/8Bm08WJs_0-31_0ruAk0Ww",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/A7IasH42lkSViuJsbDdvuA",
+  "Name": "Amount maxm validation popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-03T05:14:19.8200122Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T05:14:56.8708337Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

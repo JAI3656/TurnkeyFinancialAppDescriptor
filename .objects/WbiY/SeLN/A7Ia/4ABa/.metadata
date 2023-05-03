@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4ABaR-3i8EO9EZim574BAg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/4ABaR-3i8EO9EZim574BAg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/A7IasH42lkSViuJsbDdvuA",
+  "Name": "Amount minm validation popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-03T05:13:42.0043494Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T05:14:10.6323954Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

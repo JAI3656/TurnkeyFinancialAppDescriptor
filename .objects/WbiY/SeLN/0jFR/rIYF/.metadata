@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rIYF_aLCckidzU6Aihwm2A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/rIYF_aLCckidzU6Aihwm2A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/0jFRsFwznUCwAe5CtU42uQ",
+  "Name": "Click x icon of 1099 type",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-03T05:09:12.105436Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T05:10:52.3906049Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

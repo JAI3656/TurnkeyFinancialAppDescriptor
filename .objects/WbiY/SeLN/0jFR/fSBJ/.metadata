@@ -1,0 +1,16 @@
+﻿{
+  "Id": "fSBJf0AKvUG28OT9ZMVJXg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fSBJf0AKvUG28OT9ZMVJXg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/0jFRsFwznUCwAe5CtU42uQ",
+  "Name": "Click x icon of Typical Balance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-03T05:07:42.6034485Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T05:08:53.7902621Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

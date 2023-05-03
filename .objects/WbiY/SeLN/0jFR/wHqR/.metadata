@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wHqRSN602EKbLgy0hyMXOw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/wHqRSN602EKbLgy0hyMXOw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/0jFRsFwznUCwAe5CtU42uQ",
+  "Name": "Click x icon of Additional Description",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-03T05:06:26.6961259Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-03T05:07:14.9188752Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
