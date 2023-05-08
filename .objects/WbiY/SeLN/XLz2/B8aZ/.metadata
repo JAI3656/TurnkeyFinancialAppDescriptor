@@ -1,0 +1,16 @@
+﻿{
+  "Id": "B8aZTkxqjEeOw7HvYJ4QYA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/B8aZTkxqjEeOw7HvYJ4QYA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Please enter Note Interest Receivable (Livestock)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:53:39.3326467Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:53:57.3587007Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

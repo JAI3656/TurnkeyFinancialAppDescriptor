@@ -1,0 +1,16 @@
+﻿{
+  "Id": "bUEKH3CXJUylq2ZumMbDJw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/bUEKH3CXJUylq2ZumMbDJw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Please enter Capital (Livestock)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:57:57.4953114Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:58:24.2471217Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "l1-Mq0uNYEuRwUeYyYoksA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/l1-Mq0uNYEuRwUeYyYoksA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Please enter Account Receivable (Livestock)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:55:40.9487359Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:56:10.3934917Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
