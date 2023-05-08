@@ -1,0 +1,16 @@
+﻿{
+  "Id": "k1ZY1jyaP0WU-AzoGSMlYA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/k1ZY1jyaP0WU-AzoGSMlYA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Please Enter Status",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:16:35.6081702Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:17:03.9581226Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

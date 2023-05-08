@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XNLPT_kYOECVOZG5Ihcbyw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/XNLPT_kYOECVOZG5Ihcbyw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Click x icon in Status",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:12:39.7022531Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:15:59.9770853Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

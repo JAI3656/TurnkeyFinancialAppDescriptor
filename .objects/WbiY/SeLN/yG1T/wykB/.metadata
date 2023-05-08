@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wykBcTcU3U-y3dXEiUtIpg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/wykBcTcU3U-y3dXEiUtIpg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Please Enter Subnote Name",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:09:50.9349507Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:10:38.9413051Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ZF4NhaLGhUqZ1a6Ph6hyzg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ZF4NhaLGhUqZ1a6Ph6hyzg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Get the value of Livestock Principal Balance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:33:39.3094494Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:35:23.4737945Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "UwMDrW8ExkKmFsbfvA2caw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/UwMDrW8ExkKmFsbfvA2caw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "Click x icon in Status Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:49:57.7254855Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:50:40.7273754Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

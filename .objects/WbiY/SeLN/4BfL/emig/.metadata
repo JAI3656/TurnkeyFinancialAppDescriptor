@@ -1,0 +1,16 @@
+﻿{
+  "Id": "emigo4jPnkK993Jr7yiD8w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/emigo4jPnkK993Jr7yiD8w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "ExpenseBalance Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:55:46.7244161Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:56:12.6726326Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

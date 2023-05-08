@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Oz6qPBLUQ0SV2Y-uDFE8Lw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Oz6qPBLUQ0SV2Y-uDFE8Lw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Click x icon in Subnote Name",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:11:16.9416062Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:12:00.6232021Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

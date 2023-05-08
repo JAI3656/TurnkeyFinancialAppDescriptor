@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DfPy1dwk9E-iFtSkTjXTFg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DfPy1dwk9E-iFtSkTjXTFg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Click x icon in Lot",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:06:31.6772577Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:08:52.7540169Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

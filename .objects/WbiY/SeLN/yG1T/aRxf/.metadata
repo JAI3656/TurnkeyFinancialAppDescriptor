@@ -1,0 +1,16 @@
+﻿{
+  "Id": "aRxfV7ETtUaH8wwXfw-ZwA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/aRxfV7ETtUaH8wwXfw-ZwA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Please Enter LivestockRateCode",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:20:54.4779332Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:21:29.4764978Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

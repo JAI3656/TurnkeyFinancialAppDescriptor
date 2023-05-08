@@ -1,0 +1,16 @@
+﻿{
+  "Id": "EE32u5c_8kWhSbRh1O3fQA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/EE32u5c_8kWhSbRh1O3fQA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Click x icon in Owner",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:05:40.6664539Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:06:20.4137443Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
