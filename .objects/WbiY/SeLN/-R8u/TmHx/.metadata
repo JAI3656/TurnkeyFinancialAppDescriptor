@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TmHxuxNF4USXzpHtBtA3Lg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/TmHxuxNF4USXzpHtBtA3Lg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Click on X next to Selected Account",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:26:55.3792364Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:28:34.7673386Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

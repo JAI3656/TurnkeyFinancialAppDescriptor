@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="s34pQgFrhkKk0CuRp2uphg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="853, 359, 97, 34" CvTextArea="865, 366, 42, 13" CvTextArgument="Delete" CvType="Button" DesignTimeRectangle="851, 317, 100, 76" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Delete'" Guid="6789792d-d435-4734-9f2a-d09d640a5706" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4f3578436579d5522f3915c62ac81f86.png" xmlns="">0YosmZRb4wkSPwXUNq9mi8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

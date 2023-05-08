@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9ugZeqOzH02Hwntj7cIHgw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9ugZeqOzH02Hwntj7cIHgw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Click on Checkbox next to selected Account",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T12:23:04.0162621Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T12:24:24.0796043Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ANTLkCP0mUuLR3tM6RgxYA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ANTLkCP0mUuLR3tM6RgxYA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Accounts Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:41:42.6308457Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:42:05.2239987Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

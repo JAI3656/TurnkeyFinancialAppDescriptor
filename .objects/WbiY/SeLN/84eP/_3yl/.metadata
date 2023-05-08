@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_3ylaiwZ8kmwBesLry9Jyw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_3ylaiwZ8kmwBesLry9Jyw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/84ePIbuXFUGZsgYEvJDnUA",
+  "Name": "Click on Delete Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:58:42.0926128Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:59:29.9305171Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

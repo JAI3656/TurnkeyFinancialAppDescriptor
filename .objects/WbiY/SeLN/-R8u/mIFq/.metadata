@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mIFqZlukBU6PiQOKwa8wDw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mIFqZlukBU6PiQOKwa8wDw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Please enter Accounting Period Pop up",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:04:01.3111679Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:04:38.192178Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

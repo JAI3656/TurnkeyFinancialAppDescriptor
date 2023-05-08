@@ -1,0 +1,16 @@
+﻿{
+  "Id": "48HCUHGXd0iX5ayffzEXYA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/48HCUHGXd0iX5ayffzEXYA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Accounting Period Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:42:20.3562068Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:42:50.2725932Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

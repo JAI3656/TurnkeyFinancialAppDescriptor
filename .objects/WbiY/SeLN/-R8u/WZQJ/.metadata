@@ -1,0 +1,16 @@
+﻿{
+  "Id": "WZQJ2W8J3EOBF26gSB5oHQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/WZQJ2W8J3EOBF26gSB5oHQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Profit Center Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:43:34.0770774Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:44:02.4764719Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cFJNXbZjkUm7GtxVQsONcg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/cFJNXbZjkUm7GtxVQsONcg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
+  "Name": "Show Budget and Comparatives label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:37:03.190931Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:37:28.3536682Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XvitgjUGOkuefQE-LXripw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/XvitgjUGOkuefQE-LXripw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/1Vo8gVYvrUGH5vUVKOddVw",
+  "Name": "Click on Trash icon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T12:09:49.0860767Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T12:10:19.2065204Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

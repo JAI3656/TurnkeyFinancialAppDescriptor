@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mp1DEuyUuEm0hvrLGWXYgw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mp1DEuyUuEm0hvrLGWXYgw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-R8uLkCKtEuEkMyMVkZIJg",
+  "Name": "Click on Drop Down icon next to Accounting Period",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:03:02.4397183Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:03:43.0552516Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

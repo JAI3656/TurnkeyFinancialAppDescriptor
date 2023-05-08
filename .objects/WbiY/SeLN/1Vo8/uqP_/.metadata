@@ -1,0 +1,16 @@
+﻿{
+  "Id": "uqP_lajhaUWG55ErfUvulQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/uqP_lajhaUWG55ErfUvulQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/1Vo8gVYvrUGH5vUVKOddVw",
+  "Name": "Click on X icon next to selected owner",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T12:14:19.4553556Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T12:15:49.2903578Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "eK8sq8eU-kSXkbJdVXv-kQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/eK8sq8eU-kSXkbJdVXv-kQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/84ePIbuXFUGZsgYEvJDnUA",
+  "Name": "Click on Select Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:57:52.3665194Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:58:25.334714Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

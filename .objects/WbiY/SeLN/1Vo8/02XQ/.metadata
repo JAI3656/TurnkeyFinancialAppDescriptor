@@ -1,0 +1,16 @@
+﻿{
+  "Id": "02XQqEmrlECHtVTDhtkhpg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/02XQqEmrlECHtVTDhtkhpg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/1Vo8gVYvrUGH5vUVKOddVw",
+  "Name": "Click on Checkbox next to selected Owner",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T12:10:42.5330984Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T12:13:57.1151454Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "PkHQYwVJLkOTXd0GiGkdug",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/PkHQYwVJLkOTXd0GiGkdug",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/U4Sl5VuiGkqfOe_40pU7xg",
+  "Name": "Companies Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:37:58.302596Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:38:20.1186208Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

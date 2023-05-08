@@ -1,0 +1,15 @@
+﻿{
+  "Id": "84ePIbuXFUGZsgYEvJDnUA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/84ePIbuXFUGZsgYEvJDnUA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "AR Owner Conversion Transaction File",
+  "Type": "Screen",
+  "Created": "2023-05-08T11:49:36.8866982Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:50:02.6136882Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

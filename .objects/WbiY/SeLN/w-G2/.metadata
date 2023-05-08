@@ -1,0 +1,15 @@
+﻿{
+  "Id": "w-G2T6pSV0SXgs--KwFUWA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/w-G2T6pSV0SXgs--KwFUWA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Options Under Pencil icon",
+  "Type": "Screen",
+  "Created": "2023-05-08T12:01:18.9668388Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T12:01:45.1880624Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
