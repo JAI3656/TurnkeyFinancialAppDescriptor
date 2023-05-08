@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TE7sbjuoHkaidbCRjrkVJQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/TE7sbjuoHkaidbCRjrkVJQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/A7IasH42lkSViuJsbDdvuA",
+  "Name": "Datagrid Header/Budget and Balance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:21:41.6612165Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:22:11.02507Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

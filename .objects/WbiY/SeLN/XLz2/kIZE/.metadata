@@ -1,0 +1,16 @@
+﻿{
+  "Id": "kIZE5LE-ZUSEMfOWgxpe7w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/kIZE5LE-ZUSEMfOWgxpe7w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Notes Settings popup title",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:13:45.4699056Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:14:11.3615548Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
