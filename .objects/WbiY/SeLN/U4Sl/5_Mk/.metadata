@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5_Mkl_KSvkmTRmoPIru6Hg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/5_Mkl_KSvkmTRmoPIru6Hg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/U4Sl5VuiGkqfOe_40pU7xg",
+  "Name": "Click on Drop Down icon next to Dates",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:40:23.1649931Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:41:01.6031079Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

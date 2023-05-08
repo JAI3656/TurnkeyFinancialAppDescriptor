@@ -1,0 +1,16 @@
+﻿{
+  "Id": "vI9XhuLfbEq9zb86qJALCw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/vI9XhuLfbEq9zb86qJALCw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
+  "Name": "Please enter Accounting Period",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:51:13.000931Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:51:38.6272166Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "32yiZsPp2UuDquwH0gJa3g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/32yiZsPp2UuDquwH0gJa3g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/U4Sl5VuiGkqfOe_40pU7xg",
+  "Name": "Click X next icon to Selected Companies",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:47:02.2644512Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:48:54.9630122Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

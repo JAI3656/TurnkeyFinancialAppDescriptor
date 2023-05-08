@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_YqVPgf_bkCM-JPQ8uWP9w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_YqVPgf_bkCM-JPQ8uWP9w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/U4Sl5VuiGkqfOe_40pU7xg",
+  "Name": "Click on View Paramters Check box",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:33:19.1069084Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:34:03.3434788Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

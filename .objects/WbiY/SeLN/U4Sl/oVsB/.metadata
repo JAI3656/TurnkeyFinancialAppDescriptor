@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oVsB8tmHv02CQMxVMfn4lw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/oVsB8tmHv02CQMxVMfn4lw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/U4Sl5VuiGkqfOe_40pU7xg",
+  "Name": "Click X next to Dates",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:34:21.9019894Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:35:02.8264111Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

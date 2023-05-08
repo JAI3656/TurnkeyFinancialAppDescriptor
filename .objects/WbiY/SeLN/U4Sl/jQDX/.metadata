@@ -2,15 +2,16 @@
   "Id": "jQDXJAUPQkOS5MXohPsFhA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/jQDXJAUPQkOS5MXohPsFhA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/U4Sl5VuiGkqfOe_40pU7xg",
-  "Name": "FavouritesIcon",
+  "Name": "Click on Star icon",
   "Type": "Element",
   "TaxonomyType": "Icon",
   "Created": "2022-12-19T12:18:27.2564772Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T12:19:05.6745906Z",
+  "Updated": "2023-05-08T09:32:46.4948202Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

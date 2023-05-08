@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5mmFtQiHPUeC4FutI03luA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/5mmFtQiHPUeC4FutI03luA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/U4Sl5VuiGkqfOe_40pU7xg",
+  "Name": "Enter To Date",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:00:59.7692278Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:01:42.9593374Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1zKSNAD6-EiyW9OCrKh0Fg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="1226, 542, 16, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia automationid='lblBudgetComparitives' cls='TextBlock' name='Show Budget and Comparatives' /&gt;&lt;nav up='1' /&gt;&lt;uia automationid='QueryButton' cls='Button' idx='2' /&gt;" FuzzySelectorArgument="&lt;uia automationid='QueryButton' cls='Button' role='button' check:fulltext='' /&gt;" Guid="012f02fd-7a55-4701-937c-971e27d1e380" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAeCAYAAAAsEj5rAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADXSURBVEhL7ZFBDoIwEEV7CVHaouhJjIlnMCZeRuN51MvgjpXcY+wHCgWKNFZ3XbzMdOb3JQW23e3plwShP/8TZtmTzpfrIGADOeRtu0Z4OJ7oVRSTUuyRQ9627zx5SjolA4NvOCZ1kQHrT+lLXWXAKgRaers/nGVgVAggyfPcWQY+Cr8hCP0JQn+C0B8WzTnNIk6oVR/XVZ+7mBkTvWdtqLuMFqI6oyqqC7WomcX1vN2xZLkhLtMSqXqRrMte9FHzBnWWqgLcR+ViVc6ZeUmHxnoT21zIlN4+lycb+dzvfAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cb4b404461c5cab38dc9e5f6570cb8e7.png" xmlns="">0Azax-wXe70-zwyjtgVWi7A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
