@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Ut-cQY04N0CFDtzYwlAePw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Ut-cQY04N0CFDtzYwlAePw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
+  "Name": "Companies Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:49:28.5464433Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:49:52.3737456Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

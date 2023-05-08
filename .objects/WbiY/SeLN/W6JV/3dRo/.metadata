@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3dRoCwhgmEi9vOOarTu1RQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3dRoCwhgmEi9vOOarTu1RQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/W6JVpFFdhEes9DwTdfZkiQ",
+  "Name": "Click Close to Close Validation Failed Pop Up",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:55:34.8106689Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:56:13.6572699Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

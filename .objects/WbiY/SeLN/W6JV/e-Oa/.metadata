@@ -1,0 +1,16 @@
+﻿{
+  "Id": "e-Oaso1yMEe4hMrp52MHqA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/e-Oaso1yMEe4hMrp52MHqA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/W6JVpFFdhEes9DwTdfZkiQ",
+  "Name": "Validation Failed Text",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:54:06.3312953Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:55:19.1526816Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

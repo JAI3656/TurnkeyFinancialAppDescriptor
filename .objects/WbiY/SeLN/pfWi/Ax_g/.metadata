@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Ax_gwAZI3EuGcOB7vA76iw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Ax_gwAZI3EuGcOB7vA76iw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "Lots Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:59:10.042896Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:59:37.3456997Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

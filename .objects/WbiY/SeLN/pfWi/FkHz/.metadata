@@ -1,0 +1,16 @@
+﻿{
+  "Id": "FkHzSYSXwU6GQvQ_aLB-lw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/FkHzSYSXwU6GQvQ_aLB-lw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "Companies Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:57:55.2823029Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:58:17.90733Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

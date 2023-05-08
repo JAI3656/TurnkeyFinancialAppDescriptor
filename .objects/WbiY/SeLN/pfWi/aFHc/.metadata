@@ -1,0 +1,16 @@
+﻿{
+  "Id": "aFHckh11FE2ffhlAUs0arw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/aFHckh11FE2ffhlAUs0arw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "Effective Date Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T14:00:34.09004Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:01:05.4777932Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

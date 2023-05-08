@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1_iuntnb6kGAshxM92O3bw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1_iuntnb6kGAshxM92O3bw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
+  "Name": "Credit Lim % label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:50:39.0337687Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T13:51:12.2944051Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "u39-_oKOmEqVRIIZQDaPbw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/u39-_oKOmEqVRIIZQDaPbw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/pfWi2fKJK0ONfwpoCXDQNQ",
+  "Name": "Status Codes Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T13:59:58.6655007Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T14:00:26.200879Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
