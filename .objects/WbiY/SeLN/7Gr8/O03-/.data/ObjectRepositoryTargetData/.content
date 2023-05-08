@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="Nx4VRs3kL022VorDRHrCKA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="456, 269, 32, 22" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Yard'" FullSelectorArgument="&lt;uia cls='TextBlock' name='Yard' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='Yard' role='text' automationid='' check:fulltext='Yard' /&gt;" Guid="2137fbb2-6736-472f-8c51-95f9aea9e044" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACQAAAAaCAYAAADfcP5FAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFSSURBVEhL7ZRRSwJBFIX7ORGRhERECBH44NO+6UOQUCBRFJJoJIIYQeCfnvgGzjI7zHqXlciHeTiMc3buvd+9O+tRURTukJSBLGUgSxnIUgaSOusPd7zduJvJY8Uvgbqf7/7A9etT5UD//s77p9+rir+vTKC6wnWg+8oEQnHxv5oOagQUAwiw9zzxe9azr6X3EL9vH8ZlvIrQ0MnP2u/xB6OhO1/Ny7iLxbQZEBLE5ezNr0qKSEoywPScwnquIoACIV9NkJs4nUMmkKaUCgiLIHWtKalQODXg8YCRhwRpAiFNKZwOIljj5rVyJkwqoDBGk4wL1/lJIB1mlUcgHp1dTV/8XuBtgGgs5TcGSiWOx54CAh4PAHm8ek24NZASc2/ww69mFxDFufj4utQ0Iq81UPjpkoxnAtgFhLjkmiaT4W8hjpWSQP+pDGQpA1k6MKDC/QLXmi5MC+7bxAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, Image" Version="V1" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="2c4f0e9d48a6419324c62cbd58cbd321.png" xmlns="">0oFZCwunZpkWrN7FhIizFRg</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">None</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
