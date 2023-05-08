@@ -1,0 +1,16 @@
+﻿{
+  "Id": "SXa_7Fo24kKvSqotVn91gA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/SXa_7Fo24kKvSqotVn91gA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "Homescreen title/Subnotes Home",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-04T10:04:36.7763895Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-04T10:05:02.9764009Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

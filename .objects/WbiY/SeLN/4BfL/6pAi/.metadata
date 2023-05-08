@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6pAicrPLOke5B8oN_uuhfw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6pAicrPLOke5B8oN_uuhfw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "SubNote Name Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-04T11:23:43.4761456Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-04T11:24:07.0730334Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

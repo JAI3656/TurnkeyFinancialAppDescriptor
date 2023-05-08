@@ -1,0 +1,16 @@
+﻿{
+  "Id": "uWV_I_v5x060f236d94G3g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/uWV_I_v5x060f236d94G3g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "Lot Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-04T11:18:44.1611741Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-04T11:19:06.0363532Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

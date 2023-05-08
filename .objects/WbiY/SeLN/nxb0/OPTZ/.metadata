@@ -1,0 +1,13 @@
+﻿{
+  "Id": "OPTZ6E8i8E2diTQGZBAGsA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/OPTZ6E8i8E2diTQGZBAGsA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Click x icon on Owner",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T08:52:10.0999778Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T08:52:10.0999778Z"
+}

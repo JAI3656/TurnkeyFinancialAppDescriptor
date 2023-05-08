@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Rc0ztP1e1U6F00iAU3LroA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Rc0ztP1e1U6F00iAU3LroA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Total Amount gettext",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T08:57:27.0067795Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:04:17.539401Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

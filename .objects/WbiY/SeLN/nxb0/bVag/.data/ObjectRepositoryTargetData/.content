@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4LpFLcHKlkyxIV51C8EskQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="820, 451, 248, 37" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;uia cls='ComboBox' idx='2' /&gt;" FuzzySelectorArgument="&lt;uia cls='ComboBox' role='combo box' automationid='' /&gt;" Guid="ac066e11-e155-4e1d-b5b0-d0fd262eca6f" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArgument="Date Filters" CvType="Text" DesignTimeRectangle="839, 344, 70, 19" ElementType="Text" FriendlyName="'Date Filters'" FullSelectorArgument="&lt;uia cls='TextBlock' name='Date Filters' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='Date Filters' role='text' automationid='' check:fulltext='Date Filters' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEoAAAAXCAYAAACswNlYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGYSURBVFhH7ZPRbcMwDAW7XD1Ls4eXaFZoFvACXiAbeBEXF+ABz7Qc027yVX4cEomkRF6Uj8+um4t9SlSSEpWkRCUpUUlKVJISlWQhahzHeZqmBex5zru53++rHvq+n39ut8d35dHX9/W6qH0nK1E05HvDMDwa/LpcFvtbUE9NK5YBURkBUdSRHs+wKwoYPPuy/rUoGvBnTw5rwV+Dfep9X4MQ933lt9gSRQ0xrSUqnu05+jfEfeqoV5y1ZhTRQ0oUUKxfzF8Ml3gT8UWpAcnRYIpHjorS2vsD+ojS1Bd15Ht9vPclohyJ0DqK8gYF90hchIY5T2jYo6JY+x3EVE+dnwXPZoeUqNgkax/Gm2yJirngQzrc04qdEdWCGHXUK1dwPjmtWEqU73OJLgS9qGeiWmdu8UpRvna2RAl69hlgVxTN+aHE4zqK8rhe31bTkb+IIkdrBvU+nJYonzvOACtRXOi0mqZhxWmIz/hrei2f2gMfOHJWlH6wmOP3SgZ1UYTPBB6DhahimxKVpEQlKVFJSlSSEpWim38Bx5GSEa8mfAYAAAAASUVORK5CYII=" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b9189b0d90a159fabad8f47b25ebdfb5.png" xmlns="">0x7tPJW3DZkaah9QOYqUwbg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

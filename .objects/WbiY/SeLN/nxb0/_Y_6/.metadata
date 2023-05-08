@@ -1,0 +1,13 @@
+﻿{
+  "Id": "_Y_6AaCP7UuDDfRX8guTqA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_Y_6AaCP7UuDDfRX8guTqA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Click on TotalAmount Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T08:51:22.6676858Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T08:51:22.6676858Z"
+}

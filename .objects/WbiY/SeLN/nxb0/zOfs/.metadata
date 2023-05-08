@@ -1,0 +1,13 @@
+﻿{
+  "Id": "zOfs_zHJWEGZzll4pxKWSw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/zOfs_zHJWEGZzll4pxKWSw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Select DateFilter2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T08:56:22.5977714Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T08:56:22.5977714Z"
+}

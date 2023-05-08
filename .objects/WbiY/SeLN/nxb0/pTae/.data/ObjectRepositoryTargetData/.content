@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qmVLROJyd0m0TTiMUAysOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="435, 580, 246, 34" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;uia cls='ComboBox' idx='4' /&gt;" FuzzySelectorArgument="&lt;uia cls='ComboBox' role='combo box' automationid='' /&gt;" Guid="2d4938f0-aff3-4b7e-98bc-5d424a939e0b" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvElementArea="588, 651, 103, 30" CvTextArea="619, 660, 42, 13" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="590, 653, 100, 27" ElementType="Button" FriendlyName="'Cancel'" FullSelectorArgument="&lt;uia automationid='PART_CancelButton' cls='Button' name='Cancel' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_CancelButton' cls='Button' name='Cancel' role='button' check:fulltext='Cancel' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGgAAAAfCAYAAAALO4jYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFNSURBVGhD7ZXRbYNAEETTnBEF0Qt1kHykBEqgARqgAqKxmGhyXiQSKfZ8zEpPwN3tWZoH57db1+3Blwgy51vQx/tnMKIU1Pd9MCCCzIkgcyLInAgyJ4LMiSBzIsgcW0HLsuxaeK7WPYNpmvZ1Xcu5/8ZSUCUkgkwEIYh5nsu5VxFBB8Mw3L+eak5BWFocZ/84jvcratu2H70AYywNXvfV8Qg6uBIEJOgXhqOPxx8F6R6QoetR+sx77KF9uOdcBB38JQjtoSBcOY+QKfBs/6oPXyHXRtABQqmOpBaErsUeBt2uZbgqS2FfW9w3ggSEgkCqOdAeRVj7G0FV0FWfEkEC/+ARpo7zzUdQOofnq4I4ry8A98Ka6usCEVTQFkNtjyOEelWQrmGpbOyjxd+MoHBKBJkTQeZEkDkRZE4EmRNB5pwKCj48CAqeRJA13f4FaBpktCMn5vEAAAAASUVORK5CYII=" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e79dbe4a8245314ee2717de6343a57fb.png" xmlns="">0eKNxeonA906EAqX4S-TjPA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

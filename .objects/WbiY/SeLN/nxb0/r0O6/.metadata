@@ -1,0 +1,13 @@
+﻿{
+  "Id": "r0O6h3WiK0ujTLAc5jjOKQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/r0O6h3WiK0ujTLAc5jjOKQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Click on Equal/or combobox2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T08:48:37.2742701Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T08:48:37.2742701Z"
+}

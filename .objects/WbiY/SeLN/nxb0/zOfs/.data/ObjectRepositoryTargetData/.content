@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eGKbmTN5r0-_KjNk1obJeA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="839, 580, 246, 34" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;uia cls='ComboBox' idx='4' /&gt;" FuzzySelectorArgument="&lt;uia cls='ComboBox' role='combo box' automationid='' /&gt;" Guid="dca3ab85-0beb-4067-bf11-39618b00084b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAATSURBVBhXYyAe/IcCKBcm8P8/AM90D/GpnY7xAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArgument="AND" CvType="Text" DesignTimeRectangle="866, 505, 32, 13" ElementType="Text" FriendlyName="'AND'" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4c7236b76f1eb21dac973e68cbf2fdf5.png" xmlns="">0hY08r21zs0CV2CKeqBdXig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

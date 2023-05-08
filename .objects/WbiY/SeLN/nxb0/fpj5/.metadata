@@ -1,0 +1,13 @@
+﻿{
+  "Id": "fpj51K3f6k2HaigUvv4OIw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/fpj51K3f6k2HaigUvv4OIw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "DocNumber LABEL",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T08:52:57.5522893Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T08:52:57.5522893Z"
+}

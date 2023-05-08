@@ -1,0 +1,13 @@
+﻿{
+  "Id": "xoXtjZHMGUK3WuhqJ-g2mQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/xoXtjZHMGUK3WuhqJ-g2mQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/nxb0NwUU8kSHrziJCMb76w",
+  "Name": "Homescreen title/AR account inquiry",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T08:55:22.380842Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T08:55:22.380842Z"
+}

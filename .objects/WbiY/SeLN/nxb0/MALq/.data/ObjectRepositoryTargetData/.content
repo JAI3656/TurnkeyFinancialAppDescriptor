@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X3mQI9gkIEioB0EAcT5Ecg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="532, 580, 209, 34" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;uia cls='ComboBox' idx='4' /&gt;" FuzzySelectorArgument="&lt;uia cls='ComboBox' role='combo box' automationid='' /&gt;" Guid="bc01e6e1-9aa3-429c-8621-b3e00d36d0eb" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvElementArea="575, 651, 103, 30" CvTextArea="617, 660, 21, 13" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="618, 657, 19, 19" ElementType="Text" FriendlyName="'OK'" FullSelectorArgument="&lt;uia cls='TextBlock' name='OK' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='OK' role='text' automationid='' check:fulltext='OK' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC8SURBVEhL7ZM9DsIwDEa5HLkDvQHd6UonutClXehpg14lR7YxFVJgQOrw1MT5/JL+HY4p5V+xy0N2eUgon+Y5P5alcO17s35u27Wua2SosSY1I5cmL7uP44rPyfzSdS+bgZFzYoK6Fq1puYxPTWPyUOT+NB7Ecnqd5cpcZ4Ui180RCDi9jJFu3SlUy7d6qh8LG9yGwWSF6hcKjP0XBkYuTX4Df/te/q7PyAWCmk9+IsQ+G8q/xS4P+Vd5yk/CXf+iufi+AgAAAABJRU5ErkJggg==" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="104162531ff0959e6d2ff32294b962fd.png" xmlns="">05FwO2YCAmEux2pY1UFlMnQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
