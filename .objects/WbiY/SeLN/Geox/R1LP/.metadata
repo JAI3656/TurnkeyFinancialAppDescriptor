@@ -1,15 +1,15 @@
 ﻿{
-  "Id": "8n7TT6ybdUCiXB9LUNpGEw",
-  "Reference": "ny0UH-ena0uArefx6sxT_w/8n7TT6ybdUCiXB9LUNpGEw",
+  "Id": "R1LPf8LcpEK0APdCtN8vDg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/R1LPf8LcpEK0APdCtN8vDg",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/GeoxigkQa02oJ1wMEuh8qA",
-  "Name": "Click Checkbox under Companies",
+  "Name": "Click on X Button next to Selevcted Company",
   "Type": "Element",
   "TaxonomyType": "Element",
-  "Created": "2023-04-27T12:06:50.8249355Z",
+  "Created": "2023-05-08T13:16:59.635845Z",
   "CreatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-05-08T13:16:45.8845538Z",
+  "Updated": "2023-05-08T13:18:24.2447285Z",
   "UpdatedBy": [
     "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
