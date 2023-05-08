@@ -1,0 +1,16 @@
+﻿{
+  "Id": "G_rl9HDEiki_7phkOtzSAA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/G_rl9HDEiki_7phkOtzSAA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
+  "Name": "Click X to Reset Accounting Period",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:11:02.8521149Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:14:03.9540699Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

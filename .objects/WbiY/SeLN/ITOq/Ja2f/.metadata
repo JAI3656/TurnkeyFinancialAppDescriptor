@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Ja2flz6rI0WTxLvzmuoubQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Ja2flz6rI0WTxLvzmuoubQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
+  "Name": "Click X to Reset Show Budgets",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:12:20.1712554Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:13:44.0655899Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

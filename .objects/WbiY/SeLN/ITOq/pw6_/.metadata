@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pw6_HgCg-kKONviDZ6Ifeg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pw6_HgCg-kKONviDZ6Ifeg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
+  "Name": "Click Search icon next to Companies",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:17:19.1284251Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:18:15.6222622Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -2,12 +2,15 @@
   "Id": "KCuL_WQ2hkCn9zp6jIuOIA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/KCuL_WQ2hkCn9zp6jIuOIA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
-  "Name": "Show Budget",
+  "Name": "Enter Show Budget and Comparatives",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-22T10:31:26.7710218Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-22T10:31:26.7710218Z"
+  "Updated": "2023-05-08T08:58:47.9123452Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

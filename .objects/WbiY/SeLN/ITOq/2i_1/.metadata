@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2i_1faC3QEuxBes2K4Mhkw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2i_1faC3QEuxBes2K4Mhkw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
+  "Name": "Click on Trash icon under Companies",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:22:18.0378283Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:22:55.1559632Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

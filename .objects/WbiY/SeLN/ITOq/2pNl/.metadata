@@ -2,15 +2,16 @@
   "Id": "2pNlx8BQzU6Nv5_PuWkjig",
   "Reference": "ny0UH-ena0uArefx6sxT_w/2pNlx8BQzU6Nv5_PuWkjig",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
-  "Name": "CheckBoxViewParameters",
+  "Name": "Click on View Parameters Checkbox",
   "Type": "Element",
   "TaxonomyType": "Checkbox",
   "Created": "2022-12-22T10:31:56.0633929Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-22T10:32:37.7682097Z",
+  "Updated": "2023-05-08T08:53:43.4811484Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

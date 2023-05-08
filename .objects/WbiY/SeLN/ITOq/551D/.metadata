@@ -1,0 +1,16 @@
+﻿{
+  "Id": "551D50qtHEmVQ_J0AMZy4g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/551D50qtHEmVQ_J0AMZy4g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ITOq_8HiSECGRW1kJwqiPw",
+  "Name": "Click X to reset One Profit Center",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T09:15:44.786649Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T09:16:39.7556837Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
