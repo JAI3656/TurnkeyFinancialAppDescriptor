@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ejHlbMN550SA5KuZV5beaA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ejHlbMN550SA5KuZV5beaA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Click x icon on LivestockAccount Interest Income",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:26:41.4372872Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:27:53.1990522Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

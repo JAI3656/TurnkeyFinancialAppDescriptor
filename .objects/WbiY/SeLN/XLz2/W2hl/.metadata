@@ -1,0 +1,16 @@
+﻿{
+  "Id": "W2hlaF46DkSfmjD-ore6tg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/W2hlaF46DkSfmjD-ore6tg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Click x icon on Expense Accounts Receivable",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:38:17.8620201Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:41:45.816548Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

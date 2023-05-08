@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TRf8t6jN90aAl-6ez6NNsA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/TRf8t6jN90aAl-6ez6NNsA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/kBeNpJdjCEKEWKz8fy2OPg",
+  "Name": "Please Enter City",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:39:52.1913847Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:40:15.2400864Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

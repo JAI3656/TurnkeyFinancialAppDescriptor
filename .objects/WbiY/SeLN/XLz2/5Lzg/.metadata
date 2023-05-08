@@ -2,15 +2,16 @@
   "Id": "5LzgAD9Eg0eiKpH-tH18Hg",
   "Reference": "ny0UH-ena0uArefx6sxT_w/5LzgAD9Eg0eiKpH-tH18Hg",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
-  "Name": "Account Receivable (Livestock)",
+  "Name": "Select Account Receivable (Livestock)",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2023-02-03T07:02:52.0434011Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-02-03T07:03:39.9855018Z",
+  "Updated": "2023-05-08T11:25:35.0796788Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

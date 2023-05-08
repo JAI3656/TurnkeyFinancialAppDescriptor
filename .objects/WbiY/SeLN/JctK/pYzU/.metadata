@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pYzU7T2yvkSutF2R_rFuAQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pYzU7T2yvkSutF2R_rFuAQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
+  "Name": "Default Equity For Unhedged Cattle minm popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:49:14.8012386Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:50:17.7441973Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

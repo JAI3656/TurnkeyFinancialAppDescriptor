@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DuvINxz1CEyULnSwtibTuA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DuvINxz1CEyULnSwtibTuA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
+  "Name": "Please enter Days In Year For Daily Rate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:46:43.7119702Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:47:01.786512Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

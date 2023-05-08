@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9LZz5Exmx0Kv5SwCEYktMA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9LZz5Exmx0Kv5SwCEYktMA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/kBeNpJdjCEKEWKz8fy2OPg",
+  "Name": "Company Address Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:33:34.1463737Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:33:56.3726747Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

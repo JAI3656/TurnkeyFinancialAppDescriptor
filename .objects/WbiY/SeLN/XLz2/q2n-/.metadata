@@ -1,0 +1,16 @@
+﻿{
+  "Id": "q2n-PJsqR0202oaQWKCxUg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/q2n-PJsqR0202oaQWKCxUg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Click x icon on Livestock NoteInterestReceivable",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:30:09.3974363Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:31:51.4440568Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

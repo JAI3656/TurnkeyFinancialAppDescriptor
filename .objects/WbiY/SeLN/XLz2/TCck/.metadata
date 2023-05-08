@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TCck_yGoKUKRG3yI7fQY2w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/TCck_yGoKUKRG3yI7fQY2w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Click x icon on Expense Accounts NoteReceivable",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:20:54.2699841Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:26:17.8416351Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

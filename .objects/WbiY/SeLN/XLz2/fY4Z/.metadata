@@ -2,12 +2,15 @@
   "Id": "fY4Z5mAH1UWamBrJhPyoxA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/fY4Z5mAH1UWamBrJhPyoxA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
-  "Name": "NotesInterestReceivable(Expense)",
+  "Name": "Select NotesInterestReceivable(Expense)",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T12:11:26.0592448Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T12:11:26.0592448Z"
+  "Updated": "2023-05-08T11:29:39.8812537Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

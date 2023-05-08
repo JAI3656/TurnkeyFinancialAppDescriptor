@@ -2,12 +2,15 @@
   "Id": "fmQ6yEttpkCI3lzSlV96SQ",
   "Reference": "ny0UH-ena0uArefx6sxT_w/fmQ6yEttpkCI3lzSlV96SQ",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
-  "Name": "Notes Receivable (livestock)",
+  "Name": "Select Notes Receivable (livestock)",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T12:11:25.2593134Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T12:11:25.2593134Z"
+  "Updated": "2023-05-08T11:29:12.1535918Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }

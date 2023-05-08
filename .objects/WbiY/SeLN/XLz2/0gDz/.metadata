@@ -1,0 +1,16 @@
+﻿{
+  "Id": "0gDznLy7iEyfDob6swZKsA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/0gDznLy7iEyfDob6swZKsA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Click x icon on ExpenseAccounts InterestIncome",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:28:15.7261392Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:29:52.399128Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

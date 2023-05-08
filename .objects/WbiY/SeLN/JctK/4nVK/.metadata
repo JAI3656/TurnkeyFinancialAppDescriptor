@@ -2,15 +2,16 @@
   "Id": "4nVKMrX60kyKx5AxhaMm_g",
   "Reference": "ny0UH-ena0uArefx6sxT_w/4nVKMrX60kyKx5AxhaMm_g",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
-  "Name": "Default Equity For Hedged Cattle",
+  "Name": "Enter Default Equity For Hedged Cattle",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T11:55:35.8437097Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T11:56:10.6180386Z",
+  "Updated": "2023-05-08T11:05:38.7748144Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1PAHnFacP0efr8aDH_KbyQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1PAHnFacP0efr8aDH_KbyQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
+  "Name": "Click on Livestock Capital",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T10:42:44.9430775Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T10:43:54.2484378Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

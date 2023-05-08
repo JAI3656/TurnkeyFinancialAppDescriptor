@@ -2,15 +2,16 @@
   "Id": "E5oyAiwYPkW9yWl172B1pQ",
   "Reference": "ny0UH-ena0uArefx6sxT_w/E5oyAiwYPkW9yWl172B1pQ",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
-  "Name": "Statement Format",
+  "Name": "Select Statement Format from dropdown",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2023-02-03T09:04:41.248001Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2023-02-03T09:05:18.6237771Z",
+  "Updated": "2023-05-08T10:57:05.1542049Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

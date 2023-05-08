@@ -1,0 +1,16 @@
+﻿{
+  "Id": "0sUKxGNtuUSzGf1hTVgTPQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/0sUKxGNtuUSzGf1hTVgTPQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
+  "Name": "Please Enter Interest Interface Option",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:04:35.5111602Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:04:59.9455673Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

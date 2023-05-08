@@ -2,15 +2,16 @@
   "Id": "DkMRKNdNg0mMC77WV8vuzA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/DkMRKNdNg0mMC77WV8vuzA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/JctKeaUX4EWifW4H9Vfw_g",
-  "Name": "Compress GL Transaction By Date Toggle",
+  "Name": "Select Compress GL Transaction By Date Toggle",
   "Type": "Element",
   "TaxonomyType": "Toggle",
   "Created": "2022-12-19T11:56:34.7715977Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T11:57:25.2878965Z",
+  "Updated": "2023-05-08T11:13:10.8910904Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

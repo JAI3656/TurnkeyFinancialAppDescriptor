@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NAK-35qVdU2aCKz0tFIPeQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/NAK-35qVdU2aCKz0tFIPeQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/kBeNpJdjCEKEWKz8fy2OPg",
+  "Name": "Click x icon on State",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-08T11:41:13.2607201Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-08T11:42:07.6734214Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

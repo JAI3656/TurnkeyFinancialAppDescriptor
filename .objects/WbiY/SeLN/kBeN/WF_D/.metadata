@@ -2,15 +2,16 @@
   "Id": "WF_DIwemUEy42AmURohE0g",
   "Reference": "ny0UH-ena0uArefx6sxT_w/WF_DIwemUEy42AmURohE0g",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/kBeNpJdjCEKEWKz8fy2OPg",
-  "Name": "Zip",
+  "Name": "Select Zip",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T11:49:29.1837235Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T11:49:44.1052241Z",
+  "Updated": "2023-05-08T11:42:50.5822108Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

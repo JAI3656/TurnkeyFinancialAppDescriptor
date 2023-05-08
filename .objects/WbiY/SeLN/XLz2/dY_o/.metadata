@@ -2,12 +2,15 @@
   "Id": "dY_om5RxvEyuRxhsT3m3Vg",
   "Reference": "ny0UH-ena0uArefx6sxT_w/dY_om5RxvEyuRxhsT3m3Vg",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/XLz2GDL4aEmikUbPSbWwKQ",
-  "Name": "NotesInterestReceivable(Livestock)",
+  "Name": "Select NotesInterestReceivable(Livestock)",
   "Type": "Element",
   "TaxonomyType": "Input",
   "Created": "2022-12-19T12:11:25.7614885Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T12:11:25.7614885Z"
+  "Updated": "2023-05-08T11:30:01.0904357Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
 }
