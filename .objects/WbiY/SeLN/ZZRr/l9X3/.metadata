@@ -1,0 +1,16 @@
+﻿{
+  "Id": "l9X3v0ykkE2x4owTKqlVUQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/l9X3v0ykkE2x4owTKqlVUQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Click x icon in ExpenseCapital",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:39:44.8587998Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:40:28.6843789Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

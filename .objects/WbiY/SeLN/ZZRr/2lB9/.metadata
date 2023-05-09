@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2lB9U0oaPU2f4gcU4txTaw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2lB9U0oaPU2f4gcU4txTaw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Please Enter GL Company",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T11:20:15.9845799Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T11:20:39.7226209Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

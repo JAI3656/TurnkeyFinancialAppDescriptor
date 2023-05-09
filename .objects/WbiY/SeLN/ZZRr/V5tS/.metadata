@@ -1,0 +1,16 @@
+﻿{
+  "Id": "V5tS75umK0ihJEhXpe4t5Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/V5tS75umK0ihJEhXpe4t5Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Click x icon in ExpenseNoteReceivable",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:31:11.2416327Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:31:55.0812761Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

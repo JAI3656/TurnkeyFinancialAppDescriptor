@@ -1,0 +1,16 @@
+﻿{
+  "Id": "IL1A4kfIJ0KhI70Gp0vVSw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/IL1A4kfIJ0KhI70Gp0vVSw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Popup title",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:41:42.6021823Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:42:03.6124693Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

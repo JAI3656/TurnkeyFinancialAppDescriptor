@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oIKsmmoPREi_uPldretOug",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/oIKsmmoPREi_uPldretOug",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Click x icon in ExpenseNoteInterestReceivable",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:35:21.0340629Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:36:09.8843547Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

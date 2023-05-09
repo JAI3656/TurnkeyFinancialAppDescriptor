@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jhTDdbyRuECPWh09RdiGdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="824, 438, 35, 35" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia automationid='DeleteButton' cls='Button' name='Delete' /&gt;" FuzzySelectorArgument="&lt;uia automationid='DeleteButton' cls='Button' name='Delete' role='button' check:fulltext='' /&gt;" Guid="985a3426-74b3-4182-92ca-dd20cc855de2" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEwSURBVFhH7di/asJQFMdxFxEHx45dHLVuxWrin/inLVQQhG5F3HXX2dIX8C30CXRwbd8iL2CnPMEpv0EI9DSEe27NAe/wJYF74H5IAoGbqzd80prDmaYbF/QfKYs6wYD8dkAPzRYLQ5nh4jW8jl4c4p6gGhxesVocvkG1OORwpolwp9M3rd8/2LV4mMEst5aUCIdNoyhKBKaZ+SsRDiVtLoEhMQ5xCCkMWcGhOMYGDFnDoTPKBgxdB+4MwzV+z82mzQqOw9gAinFJCClQhEuzuQQowoVhmGpTzFz89/XfOZxpDmeaWly3N9SLaw6e9OLuJq86cZW3KZXnCz047/mFqtMZ3Ww2VDzsqe4xxxH5r0/KssLxSLXR+BcsU1xpt6Xb5Yruu30WhtzJpmmKcT79ACy93CD/dvnJAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="648, 446, 24, 19" ElementType="Text" FriendlyName="'City'" FullSelectorArgument="&lt;uia automationid='lblCity' cls='TextBlock' name='City' /&gt;" FuzzySelectorArgument="&lt;uia automationid='lblCity' cls='TextBlock' name='City' role='text' check:fulltext='City' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABwAAAAXCAYAAAAYyi9XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD+SURBVEhL7ZK9DcIwEEZTUdDQUNHRMgBCyi6UjMAIFBmBjooJMgESA9AxA0OYPEtn2cclAcVQoBRPcP65d3y4WG9K90tGYXZGYXZM4ex6doW7BahZn9dHX+vzn/AijAWCrgUGaNtrIxFO77VvEq91MUi42m1741oe9m7yuPjvDCeRw+JU+U/OxHc4z57UQcgiTaS2iIWgf6Gu9XnIKtQpsaf/oiC0ptH0CYGhJULkDBHvJ4+GZnHemneEklRbYomQhkylY5CmltBs2vTgjjV8IgyLzYUYuWjFrs8AMn1OMIVDQahTErIL5aXqxyJkFRIjMqK39uErkXbx78LSPQGAC31zEHQ5ygAAAABJRU5ErkJggg==" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="254fc0f42fadaec993bd72ce691ac325.png" xmlns="">0fLBH2Gqlekq284gz1lvURA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

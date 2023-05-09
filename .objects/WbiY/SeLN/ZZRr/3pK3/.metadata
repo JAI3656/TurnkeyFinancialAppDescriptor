@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3pK3tyiqGUWiP2fmGnl4jQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3pK3tyiqGUWiP2fmGnl4jQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Please Enter Account Receivable Expense",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T12:36:43.5528308Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T12:37:24.067839Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

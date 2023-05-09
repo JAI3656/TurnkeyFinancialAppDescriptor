@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jvEUPnVZVECvjrYlLGzgkw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/jvEUPnVZVECvjrYlLGzgkw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Invalid Zip Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T12:30:59.5006117Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T12:31:22.8077055Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

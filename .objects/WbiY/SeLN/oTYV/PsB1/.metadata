@@ -2,15 +2,16 @@
   "Id": "PsB1KkHNIUSMTtFa3pjOIA",
   "Reference": "ny0UH-ena0uArefx6sxT_w/PsB1KkHNIUSMTtFa3pjOIA",
   "ParentRef": "ny0UH-ena0uArefx6sxT_w/oTYVLDgUhkCfeRj6GrQ6cA",
-  "Name": "FilterZip",
+  "Name": "Click on Zip Filter",
   "Type": "Element",
   "TaxonomyType": "Element",
   "Created": "2022-12-19T11:27:18.423426Z",
   "CreatedBy": [
     "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
   ],
-  "Updated": "2022-12-19T11:27:48.031764Z",
+  "Updated": "2023-05-09T10:40:10.9386266Z",
   "UpdatedBy": [
-    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
   ]
 }

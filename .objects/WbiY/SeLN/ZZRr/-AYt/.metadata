@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-AYtv90iO0qzw4tGbBqPHg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/-AYtv90iO0qzw4tGbBqPHg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Click x icon in LivestockCapital",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:38:32.9264626Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:39:33.7851146Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

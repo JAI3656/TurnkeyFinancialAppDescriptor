@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mt0QExj9r0uUmtPYxZ-gGA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mt0QExj9r0uUmtPYxZ-gGA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Please enter Capital Expense",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:28:12.9285351Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:28:31.5266733Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

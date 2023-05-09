@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wwoc2Pl4uEyI5KnZ8BOW2w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/wwoc2Pl4uEyI5KnZ8BOW2w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Click x icon in ExpenseInterestIncome",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:33:22.2243617Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:34:18.8936949Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

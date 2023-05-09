@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rj-hHTYYhEW0snpfcZmDTQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/rj-hHTYYhEW0snpfcZmDTQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/ZZRrgQ-rbk-NBBZ-Ptj2Vg",
+  "Name": "Please enter Interest Income (Livestock).",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:24:01.0309796Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:24:25.5126373Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
