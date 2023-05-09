@@ -1,0 +1,16 @@
+﻿{
+  "Id": "n9Ns-6knREO2eVQBxPhiwg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/n9Ns-6knREO2eVQBxPhiwg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/E05RVaUKQU-nsKgbtBiXaw",
+  "Name": "Note List popup title",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T07:08:37.9480198Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T07:09:05.3567286Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oUYsNuHxyEe7nK_K0AcKKw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/oUYsNuHxyEe7nK_K0AcKKw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/E05RVaUKQU-nsKgbtBiXaw",
+  "Name": "Click on Dropdown list view item",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T07:14:06.1902217Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T07:14:57.0428455Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "R5BidSSomE21Ruz-qZPCMw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/R5BidSSomE21Ruz-qZPCMw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/E05RVaUKQU-nsKgbtBiXaw",
+  "Name": "Please Enter sequence",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T07:21:54.8465699Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T07:22:13.9912452Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

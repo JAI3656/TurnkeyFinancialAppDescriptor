@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Z-mov2gKcUy_6zcm7kSHsA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Z-mov2gKcUy_6zcm7kSHsA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/E05RVaUKQU-nsKgbtBiXaw",
+  "Name": "Click x icon on Sequence",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T07:22:35.9450224Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T07:23:20.0285239Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
