@@ -1,0 +1,16 @@
+﻿{
+  "Id": "l_rF0_9YCkWxY02T6y_FNg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/l_rF0_9YCkWxY02T6y_FNg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4FnZP1WMnkSzRpjBlr-kEg",
+  "Name": "Click on Appbarbutton of Companies",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T07:34:33.829476Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T07:35:06.0486619Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

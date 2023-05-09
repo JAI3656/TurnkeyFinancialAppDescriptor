@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ieYZSCxwJkeGgsfqsSWSvg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ieYZSCxwJkeGgsfqsSWSvg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4FnZP1WMnkSzRpjBlr-kEg",
+  "Name": "Click appbarbutton of SubnoteStatuses",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T07:39:20.9338388Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T07:40:21.275218Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "frbb6JR3XkWRC0zRPlFpWQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/frbb6JR3XkWRC0zRPlFpWQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4FnZP1WMnkSzRpjBlr-kEg",
+  "Name": "Click appbarbutton of Owners",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T07:35:30.4337979Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T07:36:37.9322272Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
