@@ -1,0 +1,16 @@
+﻿{
+  "Id": "P6UQuuTse0O2473TKE6QpA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/P6UQuuTse0O2473TKE6QpA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Click NoteDetails",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:10:13.3299338Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:10:37.5596143Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

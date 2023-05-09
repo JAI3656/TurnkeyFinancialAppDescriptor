@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1EXy6tLVE0ud1wOO2a5IEA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1EXy6tLVE0ud1wOO2a5IEA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oxAk-hAvDUeWdbJHCB6q8Q",
+  "Name": "Livestock Grace period maxm popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:35:42.3877187Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:36:14.0809671Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

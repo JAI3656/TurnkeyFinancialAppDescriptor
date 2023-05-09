@@ -1,0 +1,16 @@
+﻿{
+  "Id": "nnFqY6FKaU6cTIf8Q6sI2g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/nnFqY6FKaU6cTIf8Q6sI2g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oxAk-hAvDUeWdbJHCB6q8Q",
+  "Name": "Expense Free Interest Days minm popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:48:29.9697987Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:48:59.0985051Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

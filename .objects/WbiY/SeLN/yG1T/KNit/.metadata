@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KNitcqylLECNiVAMU-6GQg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/KNitcqylLECNiVAMU-6GQg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Get the value of ExpensePrincipal Balance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:05:23.880942Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:06:05.3853106Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ViaNfnY7dEWvYIuOuMuXgQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ViaNfnY7dEWvYIuOuMuXgQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Get the value of ExpenseInterestBalance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:06:17.6490386Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:06:57.2939557Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

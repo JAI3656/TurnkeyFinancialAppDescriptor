@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ISSu9_BQFEeG6OykFgduWQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ISSu9_BQFEeG6OykFgduWQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oxAk-hAvDUeWdbJHCB6q8Q",
+  "Name": "Livestock Grace period minm popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:13:53.5195292Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:14:25.2315946Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

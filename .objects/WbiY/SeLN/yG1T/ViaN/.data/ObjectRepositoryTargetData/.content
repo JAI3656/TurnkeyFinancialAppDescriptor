@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="l6DtRTfywE24dHhi6XNb8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="0.00" CvType="Text" DesignTimeRectangle="1327, 512, 160, 19" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'0.00'" FullSelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='ExpenseIntBalancelDataLbl' cls='TextBlock' name='*' /&gt;" FuzzySelectorArgument="&lt;uia automationid='pivotControl' cls='Pivot' /&gt;&lt;uia automationid='ExpenseIntBalancelDataLbl' cls='TextBlock' name='0.00' role='text' check:fulltext='0.00' /&gt;" Guid="fe7dcd00-9cee-4a25-a7f4-f68e11a85500" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAKQAAAAXCAYAAACF6+SaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAExSURBVGhD7dXBTcNAEEBR+kEoHYFoBiWFAF2QFkgHpAKXYPSBsWad2TNz+CM9Kd41nL7Gd/cPh1XqwiDVikGqFYNUKwapVgxSrRikWrkJ8ut6XWM+L5fhLnt8ev5763dejqfhnr+N4X/mO2lmCJKIcoTM69v79pwxESHvMHH3cT4PES7L8nMWz9LMECTD5otnQqu2W3XOc8RLgHlj8puzeJZmtiCraGYhsUX3Gy/O4lOe76ozqbIFWW29WUh5GwZiJMpZxEzevlLFINWKn2y1sgVZRcMWJLR8htiG+YytScD8ZvI25Hy/faXKFiSIJofGRGScx13EG3eEmzcp7+UAudt/4qXKECSIJyZHlIMEMeaJ80CQMfvPuzRzE6T0nwxSrRikWjFItWKQasUg1chh/QZQvFYV5JJacwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3790e02218bcd3d147edba1a00b657a1.png" xmlns="">057CBxdZmX0q6V1rqC3wF4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

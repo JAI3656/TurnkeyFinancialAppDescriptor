@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PxMGpa2DbkqsvoojDugZ3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="524, 398, 213, 32" DesignTimeScaleFactor="1" ElementType="CheckBox" FriendlyName="'(Select All)'" FullSelectorArgument="&lt;uia automationid='PART_CheckBox' cls='CheckBox' name='(Select All)' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_CheckBox' cls='CheckBox' name='(Select All)' role='check box' check:fulltext='(Select All)' /&gt;" Guid="644e88fa-60a9-42e2-880e-2bf8ee08c092" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="27b6c463bef93e286cc82d8fd396063a.png" xmlns="">0MmV2dRWHR0KSBJgSce0j_A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

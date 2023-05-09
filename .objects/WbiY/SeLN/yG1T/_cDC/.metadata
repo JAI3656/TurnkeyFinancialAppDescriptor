@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_cDCrcd8KkOwwUEfJWjN7A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_cDCrcd8KkOwwUEfJWjN7A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Get the value of TotaNote Balance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:08:05.7271441Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:08:49.3615874Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

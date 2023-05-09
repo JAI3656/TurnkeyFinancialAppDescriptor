@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ZuYbADJFl0qD3uwWs9dHuQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ZuYbADJFl0qD3uwWs9dHuQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "Select Equals/Or combobox1 on TextFilter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T05:53:52.6370316Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T05:53:52.6370316Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mRH-l1KMlEe06GiVZzyH8Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mRH-l1KMlEe06GiVZzyH8Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Get the value of Total Livestock Balance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:04:16.085036Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:05:11.5479934Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

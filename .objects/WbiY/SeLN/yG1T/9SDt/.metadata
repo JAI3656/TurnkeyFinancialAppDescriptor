@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9SDt272t_0isHbuc-XWbag",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9SDt272t_0isHbuc-XWbag",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Get the value of LivestockInterestBalance",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:03:26.0473527Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:04:05.7658772Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

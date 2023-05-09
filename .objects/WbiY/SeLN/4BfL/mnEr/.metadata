@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mnErYRSxRECyToOzW49xoQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/mnErYRSxRECyToOzW49xoQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "Pencil Icon Lotnumber",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T05:58:49.5467364Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:02:11.0309376Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

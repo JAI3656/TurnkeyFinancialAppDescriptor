@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NW1h6veF_EmI0KnWCy0i0A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/NW1h6veF_EmI0KnWCy0i0A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/yG1T1Pyb_EWVVe3PWV_FMw",
+  "Name": "Click on previous arrow",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T06:12:16.2577954Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T06:12:42.2280381Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
