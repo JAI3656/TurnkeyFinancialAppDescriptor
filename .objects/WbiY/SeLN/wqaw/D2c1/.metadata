@@ -1,0 +1,16 @@
+﻿{
+  "Id": "D2c1WCTD9kmrT1n_h1CJNA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/D2c1WCTD9kmrT1n_h1CJNA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Drag a column to group label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:11:21.9256403Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:11:59.2690672Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "v5wiuR10n06tOqfQhxmPww",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/v5wiuR10n06tOqfQhxmPww",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on OR Toggle under Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T10:01:04.032224Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T10:01:46.4708364Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

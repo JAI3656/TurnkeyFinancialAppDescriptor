@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6QqPk8SV_kenLwM4YUKi9A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6QqPk8SV_kenLwM4YUKi9A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on Checkbox next to chosen Rate Code Desc",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:54:19.0351096Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:56:06.1516686Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

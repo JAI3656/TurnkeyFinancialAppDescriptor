@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oTXZsBJ4mE-DYwaFiAPVRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="InputBox" DesignTimeRectangle="492, 381, 248, 36" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'combo box'" FullSelectorArgument="&lt;uia cls='ComboBox' idx='2' /&gt;" FuzzySelectorArgument="&lt;uia cls='ComboBox' role='combo box' automationid='' /&gt;" Guid="6ffcd0c3-9d9a-44a9-a22d-b9b97e22a8c9" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvElementArea="493, 339, 246, 35" CvTextArea="502, 350, 42, 16" CvTextArgument="Equals" CvType="InputBox" DesignTimeRectangle="493, 340, 244, 33" ElementType="DropDown" FriendlyName="'Equals'" FullSelectorArgument="&lt;uia automationid='PART_MenuComboBox1' cls='ComboBox' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_MenuComboBox1' cls='ComboBox' role='combo box' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAPgAAAAlCAYAAABvcST6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHnSURBVHhe7dlBTsJAFIdxLydXkCPICeQAXEK2LGVVF4YLsJIVS3ZcZMzf5JHnOKNtaBv6+Ba/pPRNHUz6WdSHx9ksAYiJwIHALoG/Nx8AgigGbscApovAgcAIHAiMwIHACBwIjMCBwAgcCIzAgcAIHAiMwIHACBy4Ia/rdWqapjir0XpdV5pdHfh+v0/n8/mH2mZ9ettu0263K86AqXpZLtPpdGp9b2ud1uu60ryXwBVbaTYkAkdUbSP/L24hcOAGPc3n6fNwqN7jOq/5X3HL4IH7j/Badzwe02q1+p7pTebXap3NnxeLy7Xiv9k8cL+P9rDzwFTVIre4NffnS3oJ3EcoNtMb0dxeK0rN2waumSKvzewb13G+jx0DU5ZH3iVuGewJbk9fH6h0eYLntJf9Ac8HrnM8tRGVYta9rnu8S9wyeOD5+a6Ba73OGVvvA7fXtib/oQJEsNlsOsUtoweuc20D17H/l5vfKw/c6NrSvsA9Gixwm/kIdewDVrw+Rn0dm+cf8e11KXC/f34dcM96CVxBeT44f95+V7bA8+t94JrZa9F1tSe4Xyf+qQ/cs6sD7yoPHMBwCBwIjMCBwEYPHMB4CBwIjMCBwAgcCIzAgcAIHAiMwIHAqoEDiOFX4ADiIXAgrFn6AiDB4fStzqppAAAAAElFTkSuQmCC" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7a2941d697ba59b35702feeaf4d709d0.png" xmlns="">0vbP4H9v-YUKTmgV1FnALCQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

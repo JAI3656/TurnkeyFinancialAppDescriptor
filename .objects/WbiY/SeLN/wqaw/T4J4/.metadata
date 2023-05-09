@@ -1,0 +1,16 @@
+﻿{
+  "Id": "T4J4OaOvfEaEuGJh20eebw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/T4J4OaOvfEaEuGJh20eebw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on Select All Checkbox under Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:41:20.9131935Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:42:30.593386Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

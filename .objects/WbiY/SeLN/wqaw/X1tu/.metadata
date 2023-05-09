@@ -1,0 +1,16 @@
+﻿{
+  "Id": "X1tuPRW5j0mXrXQNaJ4SkA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/X1tuPRW5j0mXrXQNaJ4SkA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Rate Code Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:21:38.8941252Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:22:09.1363977Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

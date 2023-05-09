@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-kwN6BKulUa0u55uLxAatw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/-kwN6BKulUa0u55uLxAatw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on Checkbox next to Selected Effective Date",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:52:26.9051571Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:54:01.7989884Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "CNIRnUQFJEeUP9NZTdWR-g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/CNIRnUQFJEeUP9NZTdWR-g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Enter Operator Drop Down Filter 2",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T12:53:08.5159065Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T12:54:03.9926082Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

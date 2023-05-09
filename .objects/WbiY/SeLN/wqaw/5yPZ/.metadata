@@ -1,0 +1,16 @@
+﻿{
+  "Id": "5yPZtRt8hk2ajfGUFY2QfQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/5yPZtRt8hk2ajfGUFY2QfQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on Sort Largest to Smallest Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:38:57.4352758Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:39:59.0356012Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

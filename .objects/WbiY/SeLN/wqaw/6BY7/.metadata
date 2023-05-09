@@ -1,0 +1,16 @@
+﻿{
+  "Id": "6BY7AZ7FrUOzWXAtNm6keg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/6BY7AZ7FrUOzWXAtNm6keg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on AND Toggle under Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T10:00:12.5709773Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T10:00:50.2928318Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

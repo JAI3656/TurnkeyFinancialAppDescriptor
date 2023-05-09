@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RwZDs53wwky4MVIfXX85-w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/RwZDs53wwky4MVIfXX85-w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on Checkbox next to Selected Interest Rate",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:50:26.8932687Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:51:48.9419412Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

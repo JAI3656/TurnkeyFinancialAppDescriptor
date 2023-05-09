@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-YQ6-1aN-EKHYbdHMPnTpA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/-YQ6-1aN-EKHYbdHMPnTpA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BeD26LqwUE-s5phzes0M2g",
+  "Name": "Rate Code Max Validation Pop-Up",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T13:02:55.9024921Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T13:03:40.0433599Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

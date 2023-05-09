@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ymzfMgKLbEK0yS-eckWTwA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ymzfMgKLbEK0yS-eckWTwA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/wqawVm8H5EWJBCGPmiZKJw",
+  "Name": "Click on Clear Filter",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-09T09:42:58.8094152Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-09T09:43:57.334223Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
