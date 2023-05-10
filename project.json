@@ -3,7 +3,7 @@
   "description": "Turnkey Financial app UI Library",
   "main": "NewActivity.xaml",
   "dependencies": {
-    "CommonUtilityLibrary": "1.0.9",
+    "CommonUtilityLibrary": "1.0.10",
     "UiPath.System.Activities": "[23.5.0-preview]",
     "UiPath.UIAutomation.Activities": "[23.5.0-preview]"
   },
@@ -11,7 +11,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.3.0",
-  "projectVersion": "1.0.10-alpha.62",
+  "projectVersion": "1.0.10-alpha.63",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
