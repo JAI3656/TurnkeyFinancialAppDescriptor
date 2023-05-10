@@ -1,0 +1,16 @@
+﻿{
+  "Id": "1fEUKzi3pE2VFMza-BQM0Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/1fEUKzi3pE2VFMza-BQM0Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/H3VY1KwTnk-6ekYHRVd77Q",
+  "Name": "Click on pencil icon of Account",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-10T05:30:22.801985Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T05:31:12.5059925Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

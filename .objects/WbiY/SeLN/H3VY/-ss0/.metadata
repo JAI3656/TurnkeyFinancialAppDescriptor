@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-ss0guwatkq3y3atMV3n8g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/-ss0guwatkq3y3atMV3n8g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/H3VY1KwTnk-6ekYHRVd77Q",
+  "Name": "Get the text of Ttransaction File",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-10T05:16:14.5133942Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T05:20:31.2856603Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

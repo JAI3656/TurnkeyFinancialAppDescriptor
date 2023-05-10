@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pol-SeGIyUmblEr7kwJjYg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pol-SeGIyUmblEr7kwJjYg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/H3VY1KwTnk-6ekYHRVd77Q",
+  "Name": "Date Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-10T05:29:23.8163154Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T05:29:44.6894395Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

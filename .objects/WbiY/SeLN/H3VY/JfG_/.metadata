@@ -1,0 +1,16 @@
+﻿{
+  "Id": "JfG_P2YxW0entZlgyk7Z1A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/JfG_P2YxW0entZlgyk7Z1A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/H3VY1KwTnk-6ekYHRVd77Q",
+  "Name": "Homescreen title/JournalEntries Home",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-10T05:15:06.9150389Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T05:15:44.776626Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
