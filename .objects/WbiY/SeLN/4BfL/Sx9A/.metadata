@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Sx9AXvdVfkiWDNHgtulZTw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Sx9AXvdVfkiWDNHgtulZTw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/4BfLDSp5XUGu5R9M_nFUfg",
+  "Name": "Click on Owner dropdown",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-12T10:02:34.5666222Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-12T10:03:24.8288627Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

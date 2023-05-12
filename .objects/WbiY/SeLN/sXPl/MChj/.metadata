@@ -1,0 +1,16 @@
+﻿{
+  "Id": "MChjcit-Y0OOELvI1kIxMA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/MChjcit-Y0OOELvI1kIxMA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/sXPlGkPdKk-3-9S1-vfXVg",
+  "Name": "Click on Close to Add Journal Entry",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-12T07:26:52.1497331Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-12T07:27:32.5165339Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

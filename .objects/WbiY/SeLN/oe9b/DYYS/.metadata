@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DYYStOLXFk6A6TMIRQrD6Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/DYYStOLXFk6A6TMIRQrD6Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/oe9bwzmqpUunZHa23NYYQg",
+  "Name": "Click x icon in search  JournalEntriesTransaction",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-12T07:18:04.8055789Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-12T07:20:03.2989626Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
