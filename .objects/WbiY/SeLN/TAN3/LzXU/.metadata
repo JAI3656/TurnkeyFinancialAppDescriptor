@@ -1,0 +1,16 @@
+﻿{
+  "Id": "LzXU_ri2iEqyNAqnMX5l9A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/LzXU_ri2iEqyNAqnMX5l9A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TAN3dB8MqU2qqcMHFU5Fww",
+  "Name": "Date falls outside of current period text",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-15T14:16:30.2938445Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T14:17:11.7446826Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

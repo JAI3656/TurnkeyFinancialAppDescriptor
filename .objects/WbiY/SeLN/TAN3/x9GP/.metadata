@@ -1,0 +1,16 @@
+﻿{
+  "Id": "x9GPdhd6CEasvQjY8xbkyg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/x9GPdhd6CEasvQjY8xbkyg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/TAN3dB8MqU2qqcMHFU5Fww",
+  "Name": "Drop Down List View Item",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-15T13:56:17.8770257Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T13:57:01.8572499Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
