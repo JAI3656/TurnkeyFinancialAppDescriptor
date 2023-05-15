@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gWXwH-6YgUu0VWaT51Vl1A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="437, 497, 248, 35" CvTextArea="448, 508, 41, 16" CvTextArgument="Equals" CvType="InputBox" DesignTimeRectangle="439, 498, 244, 33" DesignTimeScaleFactor="1" ElementType="DropDown" FriendlyName="'Equals'" FullSelectorArgument="&lt;uia automationid='PART_MenuComboBox2' cls='ComboBox' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_MenuComboBox2' cls='ComboBox' role='combo box' /&gt;" Guid="502fc7f0-7b6d-416d-bcbf-78cb542d4385" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="44d3c1d477eb15c2b46ccea03b8d2e65.png" xmlns="">0B0_WUFf3KUiAAXQYIAWgUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

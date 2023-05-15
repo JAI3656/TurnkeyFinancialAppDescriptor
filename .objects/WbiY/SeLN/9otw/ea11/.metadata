@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ea112wa-NU-o05689UHZIw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ea112wa-NU-o05689UHZIw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/9otwxKfEtU2YUeFeE8cw7Q",
+  "Name": "Operator Filter Drop Down 1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-15T12:27:47.3006279Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-15T12:40:09.3804204Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

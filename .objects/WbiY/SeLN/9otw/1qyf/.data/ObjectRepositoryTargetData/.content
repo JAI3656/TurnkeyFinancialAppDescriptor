@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lSFzFtH94kOpeMOosiv3bg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="3" CvType="Text" DesignTimeRectangle="1061, 424, 227, 32" DesignTimeScaleFactor="1" FriendlyName="'3'" FullSelectorArgument="[string.Format(&quot;&lt;uia cls='CheckBox' name='{0}' /&gt;&quot;, listitem)]" FuzzySelectorArgument="&lt;uia cls='CheckBox' name='3' role='tick box' automationid='' check:fulltext='3' /&gt;" Guid="2716ed22-452e-4ead-90d8-29925770bee7" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAOcAAAAkCAYAAAByiC06AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIXSURBVHhe7dohbipBGMBxBAKBQCARHIEDYB/hAAgOgGgdkgNwBAQS1TSBA7QOQQiSAyB4VQgkAkEy733L7HZLZ5cdsk2/ZP9f8kvYHRLUP7MDlP50OgaAPsQJKEWcgFLECShFnIBSzjhfXue5c30OgGSJceY5xAn4I05AKeIElPqROEejkZnNZvaKOIFH5B7nYrEwpVIpEAaaFud8MTcfH38j4/HY+T6gaHKNc7fbmWq1GsXZ6/WC+/fiDF9LmBJofB0oqtziPJ/PptVqRWHK69PpFKylxXlL4nx6fnauAUWSW5z9fj8Ks16vm/1+b1eyxym76Hq9dq4BRZMpTglts9nYq+8znU6jMMvlslkul3blOmlxyi4Znjfjj7hA0d2NU8JsNpvBWXK1Wtm7nyPRViqVKM7JZGJXPsdn5+SxFri6G2f8HHkb6PF4NI1GI1ofDAZ25etkjVO8v7+xgwL/3Y1zu92aWq3mDLTb7Ub32+128KWQa4gT8JfpzOkKVH4mCa9l9zwcDvbd3ycpTnl8jYcY/pTCYy2QMU6Z20BDct5M+7JIJm3nDL8MChEmcJU5ThlXoPG/6SVNWpwA3LzilIkHOhwO7d30IU7An3ecMhKonDkvl4u9kz7ECfh7KE7fIU7AH3ECSiXGmTfX5wBI5owTwO8jTkAp4gSUIk5AKeIElCJOQCniBJQiTkAp4gSUIk5ApY75B5kxwdhBajckAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="29ed8a5766d06ea9187b3dc95958dfa5.png" xmlns="">0B1Nqc1Ae_k641DwXzo5sIw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="3" Name="listitem" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
