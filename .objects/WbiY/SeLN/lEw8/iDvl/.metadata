@@ -1,0 +1,16 @@
+﻿{
+  "Id": "iDvlaDD4Ik6SxK6jz5YyGw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/iDvlaDD4Ik6SxK6jz5YyGw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Quantity Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T13:15:29.8882775Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T13:15:54.1699314Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

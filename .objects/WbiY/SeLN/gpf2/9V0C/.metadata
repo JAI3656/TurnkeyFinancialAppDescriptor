@@ -1,0 +1,13 @@
+﻿{
+  "Id": "9V0Cj957VUaulFv6-2UCRw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9V0Cj957VUaulFv6-2UCRw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/gpf2NPrJzkS65nRLCgLUEQ",
+  "Name": "NewElement",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T07:18:55.3315219Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T07:18:55.3315219Z"
+}

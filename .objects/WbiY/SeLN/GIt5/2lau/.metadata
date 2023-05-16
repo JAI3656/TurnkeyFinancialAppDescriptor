@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2lauBs7EMk-4iTtRKVE3NA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2lauBs7EMk-4iTtRKVE3NA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Avg Cost Min pop up",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T11:09:31.0977862Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T11:10:17.8543247Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

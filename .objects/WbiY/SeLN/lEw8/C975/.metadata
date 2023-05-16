@@ -1,0 +1,16 @@
+﻿{
+  "Id": "C975AThgfEOFVomch-ZMkQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/C975AThgfEOFVomch-ZMkQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "PTD Rcvd Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T13:18:56.5624803Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T13:19:31.2205284Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

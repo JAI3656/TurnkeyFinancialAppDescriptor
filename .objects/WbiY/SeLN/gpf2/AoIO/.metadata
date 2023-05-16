@@ -1,0 +1,16 @@
+﻿{
+  "Id": "AoIOmzRKpEW8PQCyFgYSRw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/AoIOmzRKpEW8PQCyFgYSRw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/gpf2NPrJzkS65nRLCgLUEQ",
+  "Name": "Lot Name next to Transaction File",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T06:56:12.6367658Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T06:57:19.5730335Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

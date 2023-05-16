@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_TeuuqNGSkWWpdtRjxliLA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_TeuuqNGSkWWpdtRjxliLA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Drag a column to group text",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T12:40:02.8855716Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T12:40:27.2667711Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

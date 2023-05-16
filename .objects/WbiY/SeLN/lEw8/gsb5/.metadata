@@ -1,0 +1,16 @@
+﻿{
+  "Id": "gsb57F7X-EGQj0psIgLdfg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/gsb57F7X-EGQj0psIgLdfg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Cost Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T13:17:31.7158204Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T13:18:02.400589Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "9_9pI9GkYE6E3CyQNq2vcA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/9_9pI9GkYE6E3CyQNq2vcA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Avg Cost Max pop up",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T11:02:21.1676603Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T11:03:03.8219042Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

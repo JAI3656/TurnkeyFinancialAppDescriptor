@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pALmNUmSekGinFspS2B9KQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pALmNUmSekGinFspS2B9KQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Click X next to Average Cost",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T11:03:14.2016315Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T11:08:56.7496829Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wZLLbAIWj0SzbVKyvWgzLw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/wZLLbAIWj0SzbVKyvWgzLw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/BMXU9EsyuEmiavn1jJzv5A",
+  "Name": "Click on X under Search Bar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T06:50:22.3575669Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T06:51:14.0768494Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

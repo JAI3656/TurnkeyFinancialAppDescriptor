@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wbNi9Yed6U2DU3a3wvt_Ug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Class" CvType="Text" DesignTimeRectangle="976, 180, 37, 22" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Class'" FullSelectorArgument="&lt;uia cls='TextBlock' name='Class' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='Class' role='text' automationid='' check:fulltext='Class' /&gt;" Guid="6dd714f1-d13f-4107-bd38-b30e7d1e45bb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACkAAAAaCAYAAAAqjnX1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGoSURBVFhH7ZSxSkNBEEWDIorBIIIIFimCRX5C8gmWdn6AfoBgZymWKQJ2YmVhYSV2Wmop2Nrb26+chbvMm7emWnlRtrjsy87MztmZ2fRGe+Ow6KqQpVQhS6lCltL/hVx9vw+98Ja1/YaykNtnJ2Ht9TYsfb1EGLTy8Rh2Dw+ivXPI9afrBAaMBCTw+HQKObi5bFUtp04haS8aTvYbTl4ecuf4KI4He2j58zlszs6TnfP6D1dpfFhlpxg+lvMUixIkrcSJdluHnDzkxt00xpEYCUbJNEKAkoeVGGxA4U8Xty5OI7DGSmpBKniePKSvvMaGld/ytyOkGPYZL3uGP68FyS2tQ04ekuRcjn0SYkO6MNXVnq+Uqkw1+c69hQQJPc6U39/Ey0LiSwIEFACqpO0KyYHQKNhiEGPnkrbLhhoPR7ciYB6ohcyNCQB2z56lYgDrbcApv/ZQA5IAtYtDgJF++p/kcfCNHSgBIkGSlH3iZecMbHTOPhobJzUgEaA42dkCmAM0LxYSkVhtpBu+kqyys+KjCgoMAewBUQtyEVUhS6lCltIfgByHb/NvyI0IlA7qAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4d58876f0057372287d6414a101c969e.png" xmlns="">0p-Sz0zlOyUWrqbMo2pe6kQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

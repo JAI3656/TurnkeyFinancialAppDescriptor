@@ -1,0 +1,16 @@
+﻿{
+  "Id": "FW4Z1RVcHU2hIn6y5nOupA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/FW4Z1RVcHU2hIn6y5nOupA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Click on AND Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T13:06:24.4584225Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T13:07:14.500228Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

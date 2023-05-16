@@ -1,0 +1,16 @@
+﻿{
+  "Id": "c_sWxxicaUuAxDemkTGTRg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/c_sWxxicaUuAxDemkTGTRg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "Click on Pencil icon next to Selected Line item",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-16T13:03:56.6011856Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-16T13:06:03.0154179Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
