@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jKn_UGsJqES_Ybzf0qCOZQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/jKn_UGsJqES_Ybzf0qCOZQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/F29KF1xfhk6C0LdyBMooYA",
+  "Name": "Please Enter region Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T11:53:22.3294419Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T11:53:43.9067257Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
