@@ -1,0 +1,16 @@
+﻿{
+  "Id": "09TUeBhE8kicDQc9NHTsYg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/09TUeBhE8kicDQc9NHTsYg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "NEP min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:46:04.89199Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:46:38.4540747Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

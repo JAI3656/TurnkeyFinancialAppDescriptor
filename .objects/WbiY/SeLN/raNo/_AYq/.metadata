@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_AYq0kAI7ES7UVBiNP2cuw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_AYq0kAI7ES7UVBiNP2cuw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "Lbs/Cubic Ft min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:49:43.8419957Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:50:17.180488Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

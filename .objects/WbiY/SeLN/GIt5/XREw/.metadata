@@ -1,0 +1,16 @@
+﻿{
+  "Id": "XREwRw8tb0-hesa9KkXSiQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/XREwRw8tb0-hesa9KkXSiQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Max Cost max popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T07:16:14.6370203Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T07:16:52.8228222Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

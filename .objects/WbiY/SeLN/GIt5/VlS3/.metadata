@@ -1,0 +1,16 @@
+﻿{
+  "Id": "VlS3jiT660aUpvr_i3rX9A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/VlS3jiT660aUpvr_i3rX9A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Days used Calc.Avg min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T07:22:16.4232175Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T07:22:51.2596707Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

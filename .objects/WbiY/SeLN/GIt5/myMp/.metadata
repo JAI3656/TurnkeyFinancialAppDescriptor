@@ -1,0 +1,16 @@
+﻿{
+  "Id": "myMpAkiEK025EqOG964Bnw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/myMpAkiEK025EqOG964Bnw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Assigned Cost min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T07:15:09.5912241Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T07:15:54.3386771Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "-BmoWi-4G0yFfgkpzF8a-A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/-BmoWi-4G0yFfgkpzF8a-A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "%Moisture min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:41:41.2843654Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:42:09.443857Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "K_odINQUP0-B_0VIGeE7HQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/K_odINQUP0-B_0VIGeE7HQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "Bushel Weight min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:39:58.3785534Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:40:40.8888165Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "r68mFqjdYU2xCjlySmi3Lw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/r68mFqjdYU2xCjlySmi3Lw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "Commodity code min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:42:59.481815Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:43:28.8065015Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

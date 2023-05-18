@@ -1,0 +1,16 @@
+﻿{
+  "Id": "peMM0UlRREOuE2NViXjhLA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/peMM0UlRREOuE2NViXjhLA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "NEM min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:44:28.8310598Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:45:05.6153889Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_3T_UiTCgEO3efZNXkm8OQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_3T_UiTCgEO3efZNXkm8OQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "%Mark min  popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:36:59.9465412Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:37:36.1254224Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "uLdVlJUh7EC90JHL19oY_g",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/uLdVlJUh7EC90JHL19oY_g",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/lEw84ne4xUyG-CEZm1jWmg",
+  "Name": "FeedInventoryHome/Homescreentitle",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T07:08:44.8288858Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T07:09:13.4744861Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

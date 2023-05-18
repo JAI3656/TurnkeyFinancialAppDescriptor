@@ -1,0 +1,16 @@
+﻿{
+  "Id": "obfL4v3TYkeaLnz9_5zs-A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/obfL4v3TYkeaLnz9_5zs-A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "DryMatterFactor max popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:48:25.578024Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:49:13.2079423Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

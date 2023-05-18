@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ehsN0_C9nkekrkzLjIzeow",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ehsN0_C9nkekrkzLjIzeow",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "NEM max popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:45:16.6690158Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:45:44.5072955Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "4k_X9I1Z-kuwKvCL9y67DQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/4k_X9I1Z-kuwKvCL9y67DQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Last Cost max popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T07:24:50.3286823Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T07:25:31.2559651Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

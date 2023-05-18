@@ -1,0 +1,16 @@
+﻿{
+  "Id": "rFke_8jeg0KdaIqDME9QcA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/rFke_8jeg0KdaIqDME9QcA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Regular Price Max popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T07:19:33.3979201Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T07:20:05.5713807Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

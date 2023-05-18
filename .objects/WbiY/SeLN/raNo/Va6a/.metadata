@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Va6a31qy8EWYnvRanAd-CA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Va6a31qy8EWYnvRanAd-CA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/raNoaqo7s0qFyv01FU6l7w",
+  "Name": "Commodity Code max popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:43:39.8952103Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:44:12.4414972Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

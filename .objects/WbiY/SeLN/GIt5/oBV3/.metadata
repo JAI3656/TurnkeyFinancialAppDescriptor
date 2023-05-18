@@ -1,0 +1,16 @@
+﻿{
+  "Id": "oBV3zn9mM0Soq_SUSMUtbA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/oBV3zn9mM0Soq_SUSMUtbA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/GIt5qts71Ei1WV973MQoeA",
+  "Name": "Regular Price Min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T07:18:34.3916703Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T07:19:08.1896559Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
