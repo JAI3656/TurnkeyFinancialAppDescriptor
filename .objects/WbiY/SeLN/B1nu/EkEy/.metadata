@@ -1,0 +1,16 @@
+﻿{
+  "Id": "EkEy9Ro7UkarBVPkSyVdxA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/EkEy9Ro7UkarBVPkSyVdxA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/B1nuNagd7E2m-x8bdXWngQ",
+  "Name": "Click on Pencil Icon",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T09:04:33.4048993Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T09:05:32.3597636Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

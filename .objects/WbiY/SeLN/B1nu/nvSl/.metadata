@@ -1,0 +1,16 @@
+﻿{
+  "Id": "nvSlLC5Jn0Sf3H5K24bNkg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/nvSlLC5Jn0Sf3H5K24bNkg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/B1nuNagd7E2m-x8bdXWngQ",
+  "Name": "Factor/Weight Label",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T08:58:37.7965393Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T08:59:02.3604614Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

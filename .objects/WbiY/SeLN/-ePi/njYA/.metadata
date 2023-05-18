@@ -1,0 +1,16 @@
+﻿{
+  "Id": "njYA37V3k0S1s6Sd7U7yNg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/njYA37V3k0S1s6Sd7U7yNg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/-ePie-dAWEm0QUebs9TP8Q",
+  "Name": "Factor/Weight min popup",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-18T09:13:07.2657673Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-18T09:13:36.8963093Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

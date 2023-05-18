@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1CBawpBPWESWwtdkdSsSCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="1104, 569, 89, 27" CvTextArea="1115, 577, 67, 15" CvTextArgument="Invalid Entry" CvType="Button" DesignTimeRectangle="1116, 575, 65, 16" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Invalid Entry'" FullSelectorArgument="&lt;uia cls='TextBlock' name='Invalid Entry' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='Invalid Entry' role='text' automationid='' check:fulltext='Invalid Entry' /&gt;" Guid="4115174d-bb1e-4eff-9665-af21d8b19b7c" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEUAAAAUCAYAAADbX/B7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFvSURBVFhH7ZThrYMwDITfTqzENkzCGKzABmzABqm+Svd0uE7a0qp/yEknEttxLkfgbxiG0nlkNyVhNyVhNyVhNyVhNyXhwZR938s4joeCT0k/+jKe57mAWAOnaSrbtqU51jvok9V9iz81pcVnpryr65OzdFMSVk1BoK47WNf1v4YDaM2yLPcc6xzEybsp8eCsE6h/1xTirlF7EhfoKQ3aj5hqYdTVNIW5coAcImRQXOMEPCWIsW8eTWDscyfrHdqPuNYQA75GdcrpX5S9HH/RTVO80OeAZ9bcQYx+mSmxf+zldF2tuM997BpqtZ47ZQqH143xmF/JV0zRXjEX6bpacZ/7mKc0iOhHr56eO2WKDuAbySjGPJ+ZQj1kDIkrF+m6WvGaftfgJEZd7H3KFNXGn5XAYQFxF+SmQOJC/Mc4vQ7ITNcb5/QDOrQ0OOmT7Xkw5WrEFH/R4mVNqd0eeElT9HlntwRe+vOpsZvywKHcAG+oS89eB+bYAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="381274914e86e1b1e80ade48b95f27dd.png" xmlns="">0uWHqKOZFJE6hfmY0umH_Jw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
