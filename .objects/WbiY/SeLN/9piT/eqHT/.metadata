@@ -1,0 +1,16 @@
+﻿{
+  "Id": "eqHTvze0tEus-aJFXiXixA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/eqHTvze0tEus-aJFXiXixA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/9piTVuZYrk6YNTsO9rjKJw",
+  "Name": "Drag a Column to Group",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-19T14:55:54.0980717Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-19T14:56:20.4597011Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

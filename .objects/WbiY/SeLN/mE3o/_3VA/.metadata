@@ -1,0 +1,16 @@
+﻿{
+  "Id": "_3VAv2oaQUqbDMuqrjkNjw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/_3VAv2oaQUqbDMuqrjkNjw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/mE3oTkAoi0iV_WzQKrn_NQ",
+  "Name": "Cost/Price Tab",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-19T14:51:07.8724271Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-19T14:52:03.6980769Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

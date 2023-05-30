@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HfRYly-v70q0OLqMkox3yw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="OK" CvType="Text" DesignTimeRectangle="465, 647, 100, 27" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'OK'" FullSelectorArgument="&lt;uia automationid='PART_OkButton' cls='Button' name='OK' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_OkButton' cls='Button' name='OK' role='button' check:fulltext='OK' /&gt;" Guid="5d34af55-3c96-4089-9a43-94500f9a306f" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGgAAAAfCAYAAAALO4jYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEPSURBVGhD7ZfBDYMwDEW7XFEGYhfmoD10BEZgARZgAtBHcuW4QHv8pt/Sk5LYufjJEdzuTbMIXiSInLeg5+MliNgVVEoRBEgQORJEjgSRI0HkSBA5EkSOBJFzCUHzPC8+hmGo8l3Xbef+DDUI5Pw5G6kFWeOjkGmaNmKd7fu+r/bMpBaEyUGzv+W8IFu3bVvVs5JWUJyKCOTYFPlaBPa+lpm0gryAPSABU2RrxNnEsfJ3gs7uMJJWkDV9LweOnjhIGsexqmUmrSBw9mT5XJSJiF9+rKQWZI2PkuJTFgUd3WMktSAjxi8/qpCDYJ+kSwi6MhJEjgSRI0HkSBA5EkSOBJFzKEjw8CFIcCJB1DTLCked6TyUS7muAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="07d53c29120ad0e993adcc5a758c1475.png" xmlns="">0dwPyeiC7mEybC7p2rwbJAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

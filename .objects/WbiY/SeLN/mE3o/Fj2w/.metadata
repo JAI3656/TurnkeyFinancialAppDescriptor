@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Fj2wAjvP7U6Wl1RlZ6CWpw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Fj2wAjvP7U6Wl1RlZ6CWpw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/mE3oTkAoi0iV_WzQKrn_NQ",
+  "Name": "Select Tab ( Main info / Cost Price / Feed )",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-19T14:43:10.1935122Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-19T14:44:49.3143217Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
