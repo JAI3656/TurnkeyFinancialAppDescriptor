@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pWIyy8tTcUOqybiJwupyTg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pWIyy8tTcUOqybiJwupyTg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/s5Ztu7r-q0iQRyTMbfgWHA",
+  "Name": "Click on X next to Break Even Factor",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T12:00:39.2383965Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T12:02:16.486958Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

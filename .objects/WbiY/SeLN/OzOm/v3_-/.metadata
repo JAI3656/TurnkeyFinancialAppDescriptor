@@ -1,0 +1,16 @@
+﻿{
+  "Id": "v3_-hOJ070GTpRBqbgNl_A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/v3_-hOJ070GTpRBqbgNl_A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "Name": "Enter Date into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T11:14:03.9164503Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:15:45.6250054Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

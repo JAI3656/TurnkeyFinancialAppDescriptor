@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ItUO-PqV40iXpt4g4CfRQg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ItUO-PqV40iXpt4g4CfRQg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "Name": "Click on Checkmark next to Selected Yards",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T11:31:01.235618Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:36:57.4517174Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

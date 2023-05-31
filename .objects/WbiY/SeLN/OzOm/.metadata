@@ -1,0 +1,15 @@
+﻿{
+  "Id": "OzOm4tq2VkuSD708CPn_8w",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Owner Activity Report",
+  "Type": "Screen",
+  "Created": "2023-05-31T10:57:36.852379Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T10:58:13.4793908Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

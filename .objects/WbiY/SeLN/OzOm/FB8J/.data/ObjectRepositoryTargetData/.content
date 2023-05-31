@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Wqn6TQR5eUaSUKaDLjJVVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="Owner Activity Report" CvType="Text" DesignTimeRectangle="991, 365, 187, 22" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Owner Activity Report'" Guid="266f9f2b-37e0-4983-b4a1-7e76b9ca79ab" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="10721d03c5d98f8f0a0452fd8e1df3e1.png" xmlns="">0kkNZeSOQ3EKrWnQXQ46Y_g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

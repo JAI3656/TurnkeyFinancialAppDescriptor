@@ -1,0 +1,16 @@
+﻿{
+  "Id": "O0QdD5L9Y0Gyomk-SHuesQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/O0QdD5L9Y0Gyomk-SHuesQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "Name": "Click on Query Button next to Dates",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T11:25:43.5136046Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:26:20.2255586Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

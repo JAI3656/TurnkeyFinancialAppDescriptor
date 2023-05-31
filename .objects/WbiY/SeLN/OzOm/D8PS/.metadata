@@ -1,0 +1,16 @@
+﻿{
+  "Id": "D8PSyx4JxEiUz0JLi2fm_Q",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/D8PSyx4JxEiUz0JLi2fm_Q",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "Name": "Click X to Close Owner Activity Report",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T11:06:59.7811604Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:07:40.3868494Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

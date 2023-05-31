@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Vv_xboq1KUKQP_xAsBffRg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/Vv_xboq1KUKQP_xAsBffRg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "Name": "Click on Search icon next to Owners",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T11:22:17.8232595Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:24:05.191775Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

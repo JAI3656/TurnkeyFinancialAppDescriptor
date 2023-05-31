@@ -1,0 +1,16 @@
+﻿{
+  "Id": "FB8JKb5JyUmyHHCj3Kewyw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/FB8JKb5JyUmyHHCj3Kewyw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "Name": "HomescreenTitle/OwnerActivityReport",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T10:58:54.0851177Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T10:59:35.5656403Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

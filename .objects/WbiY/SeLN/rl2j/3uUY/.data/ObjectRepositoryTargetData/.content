@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iAxsEtC_n0-A7NOeClAcwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="293, 127, 120, 40" CvTextArea="317, 142, 31, 12" CvTextArgument="Code" CvType="Button" DesignTimeRectangle="397, 144, 9, 9" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'button PART_CloseButton'" FullSelectorArgument="&lt;uia automationid='PART_CloseButton' cls='Button' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_CloseButton' cls='Button' role='button' /&gt;" Guid="c28e56fe-c887-4b66-ae76-c5a78dcc0485" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADUSURBVChTfVFBEoIwDOSD0Jb6RBkQsZ4ZmZEfyAd4S+wGAik4HnaSbLPZtM1yYygvfgC84FAvIo3YUBgbseTgOFfIZPJ7HKmuGzLO7U2Rt66kumnoNQxKtCb3rqN5nukRAgvBIaIGD6E4b3fSDYiu9EnNg0SE/Vl4mDxN0yawkcfKsnYiQg4HEXxiLP2FHRKRWALaCYJktbWHReKEgxCe3Ijo/J87SXJr29Nk7XytKuZgwq+HhP8pPqux6SoQ4v/6vj+L9N0Yuj6cnV5vq2OjPtth6At4rn9w3saEgAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7606f2ae2d74bedaca2d0806b3c0dd07.png" xmlns="">0LHaY8OCpkUKEM8SFvEbbtQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

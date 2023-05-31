@@ -1,0 +1,16 @@
+﻿{
+  "Id": "dwn5Uuwdik2pO9DUoPaWKA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/dwn5Uuwdik2pO9DUoPaWKA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/s5Ztu7r-q0iQRyTMbfgWHA",
+  "Name": "Click on X next to Code",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T11:55:24.6559707Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:56:42.8071478Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "rl2jO3NipU-wTYYRtq-ZlQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/rl2jO3NipU-wTYYRtq-ZlQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/SeLN17QR3kuaELqq17_Tew",
+  "Name": "Breeds Home",
+  "Type": "Screen",
+  "Created": "2023-05-31T11:40:45.6516235Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:40:56.0472584Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

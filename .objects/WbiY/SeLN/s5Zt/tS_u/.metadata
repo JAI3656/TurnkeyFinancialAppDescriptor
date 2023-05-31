@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tS_uW0LkT0qJKGTQIEtoCw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/tS_uW0LkT0qJKGTQIEtoCw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/s5Ztu7r-q0iQRyTMbfgWHA",
+  "Name": "Click X to Close Add Breed",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T12:06:37.9365755Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T12:07:28.8971368Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

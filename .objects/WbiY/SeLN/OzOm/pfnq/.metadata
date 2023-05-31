@@ -1,0 +1,16 @@
+﻿{
+  "Id": "pfnqVqKJLUaSCttY0h1v8A",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/pfnqVqKJLUaSCttY0h1v8A",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/OzOm4tq2VkuSD708CPn_8w",
+  "Name": "Click on Checkbox - Group By Lot",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T10:59:50.3974367Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T11:00:55.8183411Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

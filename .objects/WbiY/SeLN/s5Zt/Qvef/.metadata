@@ -1,0 +1,16 @@
+﻿{
+  "Id": "QvefUohZAUewo6ICcdQiXw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/QvefUohZAUewo6ICcdQiXw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/s5Ztu7r-q0iQRyTMbfgWHA",
+  "Name": "Enter Break Even Factor into Input Field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T12:03:24.9950981Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T12:04:33.3042199Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
