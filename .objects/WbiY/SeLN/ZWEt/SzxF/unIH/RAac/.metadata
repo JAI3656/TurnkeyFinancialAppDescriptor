@@ -1,0 +1,16 @@
+﻿{
+  "Id": "RAac2Vl00kq8Vyg3ycqewQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/RAac2Vl00kq8Vyg3ycqewQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/unIHq4SK2UmRCwYYnQ-_cg",
+  "Name": "Yard",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T12:44:30.2461713Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T12:45:05.419795Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

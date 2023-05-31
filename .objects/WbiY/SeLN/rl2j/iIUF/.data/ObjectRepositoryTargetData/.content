@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fV-2_yLXx0e0jRZrEob-sQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="A" CvType="Text" DesignTimeRectangle="421, 394, 227, 32" DesignTimeScaleFactor="1" FriendlyName="'A'" FullSelectorArgument="[string.Format(&quot;&lt;uia cls='CheckBox' name='{0}' /&gt;&quot;, CheckboxValue)]" FuzzySelectorArgument="[string.Format(&quot;&lt;uia cls='CheckBox' name='{0}' role='tick box' automationid='' check:fulltext='{0}' /&gt;&quot;, CheckboxValue)]" Guid="9cfe06b0-ae07-4b27-8237-34909770bfc2" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAOcAAAAkCAYAAAByiC06AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI/SURBVHhe7dotjiJBGIBhBAKBQCARHIEDYJdwAAQHQOw4JAfgCAhmFX44wI5DEIIkOxbBjlkEEoEgqc3XW9XTS1f1z6Q3W0m9X/Jkprs6Qb3p6obal8FAAfAPcQKeIk7AU8QJeIo4AU9Z45xuflXO9jkA3JxxVjnECZRHnICniBPw1D+JczabqdVqpY+IE/iMyuNcr9eqVqtFTKBF4pzP5+r9/ad6/vZsXQdCU2mcx+NRNZvNOM7RaBSdLxLn6+t3tdvtIrZ1IDSVxXm73VSv14vDlP+v12u0ViROuWuav1+fnlLrQGgqi3M8HsdhttttdTqd9Ep+nLKVNXdMuYO+rF9S1wChKRSnhLbf7/VRepbLZRxmvV5Xm81Gr/yZvDglTPOsKc+eb28/UtcAocmNU8LsdrvRs+R2u9VnP0aibTQacZyLxUKvfExWnLKFNVtaQ44l0uQ5IDS5cSafIx8DvVwuqtPpxOuTyUSv/D1ZccoWVmJ8JNtb2/VAKHLjPBwOqtVqWQMdDofx+X6/H70Usk1WnLKFffz6xHytkjwHhKbQM6ctUPmaxBzL3fN8Puur0+OKMytCW7RASArFKfMYqCHPm1kvi2RcccqLINf2Vba7vBhCyArHKWMLNPkzPde44gTgVipOmWSg0+lUn80e4gTKKx2njAQqz5z3+12fyR7iBMr7VJxlhziB8ogT8JQzzqrZPgeAmzVOAP8fcQKeIk7AU8QJeIo4AU8RJ+Ap4gQ8RZyAp4gT8BRxAl4aqN9pidd65ZBANgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9254e311b295c4be42bcb1beeafca992.png" xmlns="">0ug7RpnX9MEGWUWjAvQJOvg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="A" Name="CheckboxValue" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

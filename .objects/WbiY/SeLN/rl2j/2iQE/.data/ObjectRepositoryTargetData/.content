@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-2XyySqpy0yYNccIPe7V-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="453, 581, 103, 30" CvTextArea="494, 590, 22, 13" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="455, 583, 100, 27" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'OK'" FullSelectorArgument="&lt;uia automationid='PART_OkButton' cls='Button' name='OK' /&gt;" FuzzySelectorArgument="&lt;uia automationid='PART_OkButton' cls='Button' name='OK' role='button' check:fulltext='OK' /&gt;" Guid="d078ba0f-75f1-4a0a-808e-91dd8e0f83bf" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGgAAAAfCAYAAAALO4jYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAERSURBVGhD7ZfBDYMwDEW7COM0C7APq7BDe6jEDqzACKwA+kiuHBdoj9/0W3pSEjsXPzmC272URfAiQeS8BT0fL0HErqCmaQQBEkSOBJEjQeRIEDkSRI4EkSNB5FxC0DzPi49hGKp813XbuT9DDQI5f85GakHW+ChkmqaNWGf7vu+rPTOpBWFy0OxvOS/I1m3bVvWspBUUpyICOTZFvhaBva9lJq0gL2APSMAU2RpxNnGs/J2gszuMpBVkTd/LgaMnDpLGcaxqmUkrCJw9WT4XZSLilx8rqQVZ46Ok+JRFQUf3GEktyIjxy48q5CDYJ+kSgq6MBJEjQeRIEDkSRI4EkSNB5BwKEjx8CBKcSBA1ZVkBMlY3zs7wgUMAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="496, 587, 19, 19" ElementType="Text" FriendlyName="'OK'" FullSelectorArgument="&lt;uia cls='TextBlock' name='OK' /&gt;" FuzzySelectorArgument="&lt;uia cls='TextBlock' name='OK' role='text' automationid='' check:fulltext='OK' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACySURBVEhL7ZPbCcAgDEW7iFO5j6u4hzu4giO4guUWbklCWgq2HwUDBzQmR+1jCyGMr1hylyV3ceW99yGjlKLWU0pHXuZQg8Aac0rOJitrrR3YOs5zzmpOlBwnRqHMeWtSznGMUdWDU25PY4GYp5e1CMxlLTnlstkDApyeY8TdTcG0/K5n+rFgg1qrqiXTLxQg7BcGlJxNdgN7fSu/6lNyYuPJTwQxQta68rdYcpe/ysPYARvmclsQ6UBMAAAAAElFTkSuQmCC" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e23059c0d7b58b47eb54e47505e6c592.png" xmlns="">0beWONxI9A06qrZoR6ryUvw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

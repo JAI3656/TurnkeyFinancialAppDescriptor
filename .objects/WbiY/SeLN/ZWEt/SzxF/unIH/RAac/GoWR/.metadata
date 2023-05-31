@@ -1,0 +1,16 @@
+﻿{
+  "Id": "GoWRTTCGdEuYXMWL1MzHQA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/GoWRTTCGdEuYXMWL1MzHQA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/RAac2Vl00kq8Vyg3ycqewQ",
+  "Name": "Death Locations",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T12:46:56.0293719Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T12:47:21.4936972Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

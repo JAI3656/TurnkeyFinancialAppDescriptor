@@ -1,0 +1,16 @@
+﻿{
+  "Id": "w0e-U3mu7Eu9FmHE6JG-DQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/w0e-U3mu7Eu9FmHE6JG-DQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rl2jO3NipU-wTYYRtq-ZlQ",
+  "Name": "Enter Value in Search Bar",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T13:20:09.9494812Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T13:20:45.8221969Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

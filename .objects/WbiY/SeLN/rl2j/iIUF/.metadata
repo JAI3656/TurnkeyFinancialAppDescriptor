@@ -1,0 +1,16 @@
+﻿{
+  "Id": "iIUF_YOq80uNzmamAjxTEQ",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/iIUF_YOq80uNzmamAjxTEQ",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rl2jO3NipU-wTYYRtq-ZlQ",
+  "Name": "Click on Checkbox next to Selected Value",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T13:34:14.5389523Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T13:36:04.0837962Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

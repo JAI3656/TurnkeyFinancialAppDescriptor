@@ -1,0 +1,16 @@
+﻿{
+  "Id": "3L1tsuWTAEKSiKL0tZ2Ptw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/3L1tsuWTAEKSiKL0tZ2Ptw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/FNWLxTHntEeopEmOMQ2VRA",
+  "Name": "Shipment Invoices",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T12:51:05.4429421Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T12:51:32.7172639Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

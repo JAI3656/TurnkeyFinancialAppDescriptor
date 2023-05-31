@@ -1,0 +1,16 @@
+﻿{
+  "Id": "hzuTe0R820yYtqccW2PSNA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/hzuTe0R820yYtqccW2PSNA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rl2jO3NipU-wTYYRtq-ZlQ",
+  "Name": "Drop Down Filter 1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T13:36:19.968174Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T13:38:10.3468944Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

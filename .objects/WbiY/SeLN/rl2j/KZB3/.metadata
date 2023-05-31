@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KZB3Lk6WxUCXlAg1tz-sDA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/KZB3Lk6WxUCXlAg1tz-sDA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/rl2jO3NipU-wTYYRtq-ZlQ",
+  "Name": "Click on OR Button",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T13:40:45.2432193Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T13:41:33.3953499Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ml8dmhmnO06t4aG68qohrA",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/ml8dmhmnO06t4aG68qohrA",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/LzWS-slxUkurwDTi4hfj9A",
+  "Name": "Breeds",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T12:47:57.0425883Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T12:48:15.1015993Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

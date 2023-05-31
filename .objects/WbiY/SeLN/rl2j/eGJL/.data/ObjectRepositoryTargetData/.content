@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="keFcp-Mk40So-vAWkgKB8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvType="Icon" DesignTimeRectangle="270, 172, 45, 38" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="''" FullSelectorArgument="&lt;uia cls='Button' idx='4' /&gt;" FuzzySelectorArgument="&lt;uia cls='Button' role='button' automationid='' check:fulltext='' /&gt;" Guid="43cb71ac-3a2c-4e5f-a39f-71be9ef56edc" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAC0AAAAmCAYAAABQ3RJZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALwSURBVFhH7ZhLaBRBEIbnpBh8ETGz624QjM+DF5eg6EVFcS+KIqggrg+QiKhIFCQYRAyIEoIRcllFgm8FUULwHSUmqPgAMQgmIGIQVBBRBM9l/k566MzU9PZM3IXGHD5muqu795+aquqedWbMnEu24eTzebINJ5PJkG3YKTqXy5Ft/N+ilzcdpVmdlynx/jaN+fOKHOoRV7RnP7pIK0/Us/PiMCLRW7ZtpYUXTtG4X88p1dNG1ZeaadXxw7Rxd42wb9i7S7TRD3vZj6e0+FxjYJ2oxBa9vnYPTf78mCpf36R1B/exY/ysqasV4sv7O8QDcWNMiCV6df0B4d24XoPn4fW1h/az9kJEFg0PQ/CKxiOs3ZRlzceE8DgejyR6847tNOlLJy05c5K1RwUen/LxgcgNzh5GJNH4kekvb7A2HZiDauL23gnYku/aIzvBWDS8jNdpmnSS1Ns270Gruq/S/Pazw+zIj/HfuyN521g0YhCZz9nCgEB4t/xTh8iFBddahHD/uKkf7ovS6O8Pw1h0VdcVWtTaxNo4IHDi1yfD7kG2oS449noLzbvXGugPw1g0ajJeJWfzs/R0g+dd2Ye2PzQk8HJF313WxmEseuzvF95OpwNCy34+E8JlH0ICsa2OU0GeTPjWxdo4jEUj+7l+FQhGCKiCZVyr4/xsqtkpzimcjcNYNBYt5GmIU0MA4vEQaphwwNOoIJyNw1g0NhVdTOP1q5UBghEmhQQDxDQqCGfjMBatqx6oDmrMQigSTw0THUWrHqjT6Te3WBsEqm2EBB5E7dOBylGUOq3bESFS3sPjYaWNo6g7IuDOHggBJCDiGeJ1pY2jqGcPwJ3ypOg5D8+zu52OkpzyAJLMqvO0xLovFwk8btU3osS6r3E/iFHd/x4jzQGVfya6lIyKLhWjokuFk81myTacRDJNyWQluW6K3MQgoj10DzuQ7Qp3WsAm7bhirmgPrOetM3Av++Rcea/OxRXry3W88UPXwbXT9BdzefZn0Wu50gAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArgument="A" CvType="Text" DesignTimeRectangle="323, 183, 103, 17" ElementType="Text" FriendlyName="'A'" FullSelectorArgument="[string.Format(&quot;&lt;uia cls='TextBlock' name='{0}' /&gt;&quot;, Code)]" FuzzySelectorArgument="[string.Format(&quot;&lt;uia cls='TextBlock' name='{0}' role='text' automationid='' check:fulltext='{0}' /&gt;&quot;, Code)]" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGsAAAAVCAYAAABBlxC9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC+SURBVGhD7dfBCcQgFITh7cl+7MZKLMMerMACvFuAywQCEp7u7W0GRvgOibn9PJN8QggTYozycopFRLGIKBYRxSKiWEQUi8jPWGOMWWs198TXMVZKafber2DWvvg6xsJElVKuYDln8xnxc4yFicJ0IVhrzXxG/GxjYZIwUfc11rov/raxMEmYqN21+NvGstY6aeLPjHV/VKz3AAvvsOd98WHGQijryMNRqH+u/9keg/I+ikVEsYgoFhHFohHnFwtZhNm9+68SAAAAAElFTkSuQmCC" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f2c1d78333bacfd1e121de0a592ba571.png" xmlns="">03tUUH-TuHkmWY268ftVNHw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="A" Name="Code" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
