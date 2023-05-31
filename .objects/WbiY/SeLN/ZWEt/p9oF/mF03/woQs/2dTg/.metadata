@@ -1,0 +1,16 @@
+﻿{
+  "Id": "2dTgnIyQr0upJxii5b2Iiw",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/2dTgnIyQr0upJxii5b2Iiw",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/woQsTU_WEUel6r8JHmoewg",
+  "Name": "Cattle Sales Report",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T10:33:10.9253846Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T10:33:33.5437838Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

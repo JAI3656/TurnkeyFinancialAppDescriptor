@@ -1,0 +1,16 @@
+﻿{
+  "Id": "woQsTU_WEUel6r8JHmoewg",
+  "Reference": "ny0UH-ena0uArefx6sxT_w/woQsTU_WEUel6r8JHmoewg",
+  "ParentRef": "ny0UH-ena0uArefx6sxT_w/mF03o5vh2keSLA_0W5ayxw",
+  "Name": "Cattle Transactions",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-05-31T10:31:47.924676Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-31T10:32:08.3633534Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

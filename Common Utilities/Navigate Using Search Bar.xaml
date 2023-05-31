@@ -1,11 +1,11 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Navigate_Using_Search_Bar" this:Navigate_Using_Search_Bar.moduleName="Notes" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:cr="clr-namespace:CommonUtilityLibrary.ReportUtil;assembly=CommonUtilityLibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:this="clr-namespace:" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Navigate_Using_Search_Bar" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:cr="clr-namespace:CommonUtilityLibrary.ReportUtil;assembly=CommonUtilityLibrary" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <x:Members>
     <x:Property Name="moduleName" Type="InArgument(x:String)" />
   </x:Members>
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>598,1276</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1413,1236</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Navigate_Using_Search_Bar_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -89,19 +89,19 @@
       <AssemblyReference>ReporterForUiPath</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Navigate_Using_Search_Bar" sap:VirtualizedContainerService.HintSize="608,1211" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Navigate_Using_Search_Bar" sap:VirtualizedContainerService.HintSize="608,1171" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <Sequence sap:VirtualizedContainerService.HintSize="546,1100" sap2010:WorkflowViewState.IdRef="Sequence_3">
+    <Sequence sap:VirtualizedContainerService.HintSize="546,1060" sap2010:WorkflowViewState.IdRef="Sequence_3">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="484,989" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="17d94535-0453-43b6-8883-20ef014810a8" Version="V2">
+      <uix:NApplicationCard AttachMode="SingleWindow" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="484,949" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="17d94535-0453-43b6-8883-20ef014810a8" Version="V2">
         <uix:NApplicationCard.Body>
           <ActivityAction x:TypeArguments="x:Object">
             <ActivityAction.Argument>
@@ -121,7 +121,7 @@
               <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="388,25" sap2010:WorkflowViewState.IdRef="StepStatusPass_1" In_Description="Enter Module Name in Search Bar" In_StepName="Step" />
               <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click on Module Name" sap:VirtualizedContainerService.HintSize="388,157" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="17d94535-0453-43b6-8883-20ef014810a8" Version="V3">
                 <uix:NClick.Target>
-                  <uix:TargetAnchorable CvTextArgument="Notes" CvType="Text" DesignTimeRectangle="267, 178, 211, 16" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Notes'" FullSelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' /&gt;&quot;, moduleName)]" FuzzySelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' role='text' automationid='' check:fulltext='{0}' /&gt;&quot;, moduleName)]" Guid="c9ea1f3c-0108-4c21-8eb7-c2742abdb7df" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE5SURBVHhe7djBbcJAEIXh1IByoh9ySS1Eog9QukC0ACWQEqAGt2D0kB6aXWOjRMyBzX/4JDzMwunXIt5m7/MewPMRF5CEuIAkxAUkIS4gCXEBSYq4Tqdzv98fioXFx+d1HmcAHhvE1XVdv/xa3Wa/iet4/CnOAv/ZIK715ruIibiAvxnEpZj003C73V1ndVyKR7ebKUbNFZZn3tfZuKtnzXXGM53zZwMtuRuXXjuGGJdj8Y73fFvVN5fe82udcUhxDrRqNC7dLoohxqVZ/YeHbjjfcjGu+oYz7/kzgVaNxiWO5VFc8adhjEvPcTfS9yi2qR3glU3G5bAcl4OIO/FZ4Tk0v+fYxvg2A1ozGZcoGMclikVBWIxHYWnm/XrXt16cxRiBlhRxAXge4gKSEBeQhLiAJMQFpJj3F2/E28H0G3SmAAAAAElFTkSuQmCC" InformativeScreenshot="94328b3dc4df1fcb56c83506c8bf3fb4.png" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+                  <uix:TargetAnchorable ContentHash="N9MeY8yCBUuPIsP79W0jJw" CvTextArgument="[moduleName]" CvType="Text" DesignTimeRectangle="267, 114, 211, 16" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Click on Module Name Under Search Button'" FullSelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' /&gt;&quot;, moduleName)]" FuzzySelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' role='text' automationid='' check:fulltext='{0}' /&gt;&quot;, moduleName)]" Guid="4af21d11-0725-4280-a7bd-e45bd9002671" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHQSURBVHhe7ZfRTQJBFEWtwfhFP/pjLZrYh8YuiC1gCVgC1kALa84ml1yGHVwWFly8HyfsvPd2ZkjeYYab27tZE0I4PZErhJGIXCGMROQKYSQiVwgjEblCGIktuVar72a9Xm/w3CHM5x8tXbm/xFT2GabJjlz3D4/t8+vbe7Ncfm1yhxC5Qtgj19PzS+QK4Qiqci0Wn+3ppZxfF8kpTr3nGHvT8qk4Y796ktNceoe4x1QLmoN9+R58rHm0Dp+qg3J90ByKD/1RCcGp/ucqm9IhR6NLLDW9UNPSsD4PArgU5EqRlCvf5SRV/je5fE+IQl7Pkgmo09jXDuEUVE8uiaOcmlaQL5vca2lklwN8fiil8MYnLikEcyJZue6+eXxcCuS5rv2GcAxVuXxMA3ozK75PLmokoeJl8w6Rq2vdvnKV65e1zM2eWcfrQhhCr5PLm1DXM/Kq0TtC9X6VA5rWm5n1alIgjMvAXBr7MzBvX7lcWPbmtR4vYyEcSvU/F5Siga5Pykkgf8cbmmYmrqb2WmpqUijm9Z5jH4ozRx+5/HuA5zzuAoYwlC25zo03dwjXxsXk0inCydeVD2HqnFUuTqlcv8J/4aLXwhCumcgVwijMmh95YfyzF5KIzAAAAABJRU5ErkJggg==" InformativeScreenshot="efbe95bc792d44a75761d4ec1cd9af93.png" Reference="ny0UH-ena0uArefx6sxT_w/Ie6NnwEhO0K2gHqSyKS6rA" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
                 </uix:NClick.Target>
               </uix:NClick>
               <cr:StepStatusPass sap:VirtualizedContainerService.HintSize="388,25" sap2010:WorkflowViewState.IdRef="StepStatusPass_2" In_Description="Click on Module Name" In_StepName="Step" />

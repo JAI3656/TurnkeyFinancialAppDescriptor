@@ -99,7 +99,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Login" sap:VirtualizedContainerService.HintSize="2322,7183" sap2010:WorkflowViewState.IdRef="NApplicationCard_6" ScopeGuid="f39e1ba0-b631-465b-8dcc-a88f5d5be04d" Version="V2">
+    <uix:NApplicationCard AttachMode="SingleWindow" CloseMode="Never" DisplayName="Login" sap:VirtualizedContainerService.HintSize="2322,7183" sap2010:WorkflowViewState.IdRef="NApplicationCard_6" ScopeGuid="f39e1ba0-b631-465b-8dcc-a88f5d5be04d" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
@@ -150,7 +150,7 @@
                           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Login" sap:VirtualizedContainerService.HintSize="484,1271" sap2010:WorkflowViewState.IdRef="NApplicationCard_7" ScopeGuid="ee91dcf5-74d9-439a-bc07-1e19aab74aef" Version="V2" WindowResize="Maximize">
+                      <uix:NApplicationCard AttachMode="SingleWindow" CloseMode="Never" DisplayName="Login" sap:VirtualizedContainerService.HintSize="484,1271" sap2010:WorkflowViewState.IdRef="NApplicationCard_7" ScopeGuid="ee91dcf5-74d9-439a-bc07-1e19aab74aef" Version="V2" WindowResize="Maximize">
                         <uix:NApplicationCard.Body>
                           <ActivityAction x:TypeArguments="x:Object">
                             <ActivityAction.Argument>
@@ -212,7 +212,7 @@
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <uix:NApplicationCard AttachMode="ByInstance" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="582,969" sap2010:WorkflowViewState.IdRef="NApplicationCard_19" ScopeGuid="669eb2ca-7474-4f16-a4bb-c37e044beb16" Version="V2">
+                        <uix:NApplicationCard AttachMode="SingleWindow" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="582,969" sap2010:WorkflowViewState.IdRef="NApplicationCard_19" ScopeGuid="669eb2ca-7474-4f16-a4bb-c37e044beb16" Version="V2">
                           <uix:NApplicationCard.Body>
                             <ActivityAction x:TypeArguments="x:Object">
                               <ActivityAction.Argument>
@@ -292,7 +292,7 @@
                                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               </scg:Dictionary>
                             </sap:WorkflowViewStateService.ViewState>
-                            <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="882,4659" sap2010:WorkflowViewState.IdRef="NApplicationCard_9" ScopeGuid="246100d8-b9cb-45cf-9389-2c19925f1a94" Version="V2">
+                            <uix:NApplicationCard AttachMode="SingleWindow" CloseMode="Never" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="882,4659" sap2010:WorkflowViewState.IdRef="NApplicationCard_9" ScopeGuid="246100d8-b9cb-45cf-9389-2c19925f1a94" Version="V2">
                               <uix:NApplicationCard.Body>
                                 <ActivityAction x:TypeArguments="x:Object">
                                   <ActivityAction.Argument>
@@ -305,7 +305,7 @@
                                       </scg:Dictionary>
                                     </sap:WorkflowViewStateService.ViewState>
                                     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="786,92" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Already logged-in into  Application &quot;]" />
-                                    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="786,4122" sap2010:WorkflowViewState.IdRef="NApplicationCard_18" ScopeGuid="1b2e8dd3-2bd2-4b8b-addd-bde937c8b635" Version="V2">
+                                    <uix:NApplicationCard AttachMode="SingleWindow" CloseMode="Never" DisplayName="HomeScreen" sap:VirtualizedContainerService.HintSize="786,4122" sap2010:WorkflowViewState.IdRef="NApplicationCard_18" ScopeGuid="1b2e8dd3-2bd2-4b8b-addd-bde937c8b635" Version="V2">
                                       <uix:NApplicationCard.Body>
                                         <ActivityAction x:TypeArguments="x:Object">
                                           <ActivityAction.Argument>
@@ -393,7 +393,7 @@
                                                       </uix:TargetAnchorable>
                                                     </uix:NCheckState.Target>
                                                   </uix:NCheckState>
-                                                  <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" ContinueOnError="True" DisplayName="Unsaved Changes" sap:VirtualizedContainerService.HintSize="592,582" sap2010:WorkflowViewState.IdRef="NApplicationCard_16" ScopeGuid="679551e0-d2ac-4e24-9f7d-fec7439b92d7" Timeout="5" Version="V2">
+                                                  <uix:NApplicationCard AttachMode="SingleWindow" CloseMode="Never" ContinueOnError="True" DisplayName="Unsaved Changes" sap:VirtualizedContainerService.HintSize="592,582" sap2010:WorkflowViewState.IdRef="NApplicationCard_16" ScopeGuid="679551e0-d2ac-4e24-9f7d-fec7439b92d7" Timeout="5" Version="V2">
                                                     <uix:NApplicationCard.Body>
                                                       <ActivityAction x:TypeArguments="x:Object">
                                                         <ActivityAction.Argument>
@@ -455,7 +455,7 @@
                                                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                                           </scg:Dictionary>
                                                         </sap:WorkflowViewStateService.ViewState>
-                                                        <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" ContinueOnError="True" DisplayName="Unsaved Changes" sap:VirtualizedContainerService.HintSize="494,562" sap2010:WorkflowViewState.IdRef="NApplicationCard_17" ScopeGuid="b1c24cc1-9271-4a41-97b7-bd971bfbb51f" Timeout="5" Version="V2">
+                                                        <uix:NApplicationCard AttachMode="SingleWindow" CloseMode="Never" ContinueOnError="True" DisplayName="Unsaved Changes" sap:VirtualizedContainerService.HintSize="494,562" sap2010:WorkflowViewState.IdRef="NApplicationCard_17" ScopeGuid="b1c24cc1-9271-4a41-97b7-bd971bfbb51f" Timeout="5" Version="V2">
                                                           <uix:NApplicationCard.Body>
                                                             <ActivityAction x:TypeArguments="x:Object">
                                                               <ActivityAction.Argument>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="N9MeY8yCBUuPIsP79W0jJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvTextArgument="[moduleName]" CvType="Text" DesignTimeRectangle="267, 114, 211, 16" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Backgrounds'" FullSelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' /&gt;&quot;, moduleName)]" FuzzySelectorArgument="[string.Format(&quot;&lt;uia automationid='pnlPivotMenu' cls='Pivot' /&gt;&lt;uia cls='TextBlock' name='{0}' role='text' automationid='' check:fulltext='{0}' /&gt;&quot;, moduleName)]" Guid="4af21d11-0725-4280-a7bd-e45bd9002671" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAANcAAAAUCAYAAAAeAaivAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHQSURBVHhe7ZfRTQJBFEWtwfhFP/pjLZrYh8YuiC1gCVgC1kALa84ml1yGHVwWFly8HyfsvPd2ZkjeYYab27tZE0I4PZErhJGIXCGMROQKYSQiVwgjEblCGIktuVar72a9Xm/w3CHM5x8tXbm/xFT2GabJjlz3D4/t8+vbe7Ncfm1yhxC5Qtgj19PzS+QK4Qiqci0Wn+3ppZxfF8kpTr3nGHvT8qk4Y796ktNceoe4x1QLmoN9+R58rHm0Dp+qg3J90ByKD/1RCcGp/ucqm9IhR6NLLDW9UNPSsD4PArgU5EqRlCvf5SRV/je5fE+IQl7Pkgmo09jXDuEUVE8uiaOcmlaQL5vca2lklwN8fiil8MYnLikEcyJZue6+eXxcCuS5rv2GcAxVuXxMA3ozK75PLmokoeJl8w6Rq2vdvnKV65e1zM2eWcfrQhhCr5PLm1DXM/Kq0TtC9X6VA5rWm5n1alIgjMvAXBr7MzBvX7lcWPbmtR4vYyEcSvU/F5Siga5Pykkgf8cbmmYmrqb2WmpqUijm9Z5jH4ozRx+5/HuA5zzuAoYwlC25zo03dwjXxsXk0inCydeVD2HqnFUuTqlcv8J/4aLXwhCumcgVwijMmh95YfyzF5KIzAAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='TurnkeyComputerSystemsLLC.TurnkeyUnifiedManagement_ykddyy80wkx9r!App' title='Turnkey Financial' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="efbe95bc792d44a75761d4ec1cd9af93.png" xmlns="">0WpYBjnHcuECrOSGMUvFZng</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Backgrounds" Name="moduleName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
